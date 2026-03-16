@@ -97,6 +97,34 @@ export default (() => {
             return resource
           }
         })}
+        {/* begin mc */}
+        {/* <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FGVHP0HQS"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          
+          gtag('config', 'G-1FGVHP0HQS');
+        </script> */}
+        {/* Google Analytics
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FGVHP0HQS"></script>
+        <script dangerouslySetInnerHTML={{__html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-1FGVHP0HQS');
+        `}}/> */}
+        {/* Google Analytics */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FGVHP0HQS"></script>
+        <script dangerouslySetInnerHTML={{__html: `
+          if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-1FGVHP0HQS');
+          }
+        `}}/>        {/* end mc */}
       </head>
     )
   }

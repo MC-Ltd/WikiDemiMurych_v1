@@ -8,12 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "WikiDemiMurych v1", // pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      // provider: "plausible",
+      provider: "umami",
+      websiteId: "27d9ab45-dde0-4191-b1c0-27b4ab790237",
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",

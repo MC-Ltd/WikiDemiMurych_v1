@@ -4,8 +4,8 @@ date: 2023-08-23
 tags: []
 videoId: "rvt2EdYoCq4"
 duration: "1:16:40"
-views: 3678
-likes: 184
+views: 3753
+likes: 188
 comments: 25
 ---
 # [⎡JSbook: 01.1⎦   JavaScript: От мифов к спецификации. Введение: про автора](https://www.youtube.com/watch?v=rvt2EdYoCq4)
@@ -13,7 +13,7 @@ comments: 25
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 23.08.2023 10:26  
 **Тривалість:** 1:16:40  
-**Перегляди:** 3678 · **Лайки:** 184 · **Коментарі:** 25
+**Перегляди:** 3753 · **Лайки:** 188 · **Коментарі:** 25
 ![thumbnail](https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=rvt2EdYoCq4)

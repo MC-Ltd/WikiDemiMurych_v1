@@ -4,20 +4,20 @@ date: 2025-07-17
 tags: []
 videoId: "0mnjOf4ViX4"
 duration: "5:05:02"
-views: 5797
-likes: 139
-comments: 39
+views: 5868
+likes: 144
+comments: 38
 ---
 # [Разберем видео от Миши Ларченко](https://www.youtube.com/watch?v=0mnjOf4ViX4)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.07.2025 06:25  
 **Тривалість:** 5:05:02  
-**Перегляди:** 5797 · **Лайки:** 139 · **Коментарі:** 39
+**Перегляди:** 5868 · **Лайки:** 144 · **Коментарі:** 38
 ![thumbnail](https://i.ytimg.com/vi/0mnjOf4ViX4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=0mnjOf4ViX4)
-## Коментарі (21 · відповідей: 18)
+## Коментарі (21 · відповідей: 17)
 
 **[@babenoff](https://www.youtube.com/channel/UCWHlgb2xpdpckmPIjovfOIw)** *[17.07.2025 06:24](https://www.youtube.com/watch?v=0mnjOf4ViX4&lc=Ugx2VnOx6O6SidYCrOh4AaABAg) (ред. 17.07.2025 06:26)*
 
@@ -140,7 +140,7 @@ comments: 39
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[17.07.2025 18:19](https://www.youtube.com/watch?v=0mnjOf4ViX4&lc=Ugy1OGWifwI3EUjkhn14AaABAg)*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[17.07.2025 18:19](https://www.youtube.com/watch?v=0mnjOf4ViX4&lc=Ugy1OGWifwI3EUjkhn14AaABAg)*
 
 Хорошее замечание про неправильное использование js
 А может видео есть с более глубоким обсуждением этой темы на канале?
@@ -226,10 +226,6 @@ comments: 39
 > В случае HTML или CSS существуют официальные документы, которых достаточно для того, чтобы спецификации не касаться.
 > 
 > В случае JS таких официальных документов - нет.
-
-> **[@cafedead](https://www.youtube.com/channel/UCBY5cq_88gH_6MnMAnVM_hA)** *[29.07.2025 22:28](https://www.youtube.com/watch?v=0mnjOf4ViX4&lc=Ugzbf2WF0G8XBk-oV4x4AaABAg.AKiKpDs-L_5ALAqmvyz94F)*
-
-> @AsForJS Это не меняет того факта, что спецификации пишутся для разработчиков хост-среды, а не для разработчиков-фронтендеров. Читая ее, не обладая необходимыми компетенциями в разработке каких-либо хост-сред, вы трактуете написанное в ней ошибочно, что происходит с завидной регулярностью. Из последнего - про очереди Тасок и про множество очередей. У вас некорректная интерпретация фразы о том, что иногда Таски могут выполняться не в порядке очереди. Будь у вас необходимые компетенции в том, как строится event loop, прием данных и работа со временем, например, в обычном оконном приложении, которым является в т.ч. и браузер, ваша интерпретация этого была бы более осмысленной. Но вы упрямо спорите, не принимая во внимание ничего из того, что вам говорят люди, которые в этом разбираются.
 
 > **[@Dik131WZD](https://www.youtube.com/channel/UCuztGvyDs-UeG_ttrWoRdiw)** *[30.07.2025 03:26](https://www.youtube.com/watch?v=0mnjOf4ViX4&lc=Ugzbf2WF0G8XBk-oV4x4AaABAg.AKiKpDs-L_5ALBNp4os9Ai)*
 

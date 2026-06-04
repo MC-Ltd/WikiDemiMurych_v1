@@ -4,8 +4,8 @@ date: 2024-01-15
 tags: []
 videoId: "SMsVPyI6wzA"
 duration: "3:16:05"
-views: 4964
-likes: 106
+views: 4973
+likes: 108
 comments: 16
 ---
 # [⎡talks:15⎦ Игры + А де делся мурыч](https://www.youtube.com/watch?v=SMsVPyI6wzA)
@@ -13,7 +13,7 @@ comments: 16
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.01.2024 19:12  
 **Тривалість:** 3:16:05  
-**Перегляди:** 4964 · **Лайки:** 106 · **Коментарі:** 16
+**Перегляди:** 4973 · **Лайки:** 108 · **Коментарі:** 16
 ![thumbnail](https://i.ytimg.com/vi/SMsVPyI6wzA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=SMsVPyI6wzA)

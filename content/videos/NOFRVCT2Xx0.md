@@ -4,8 +4,8 @@ date: 2025-02-11
 tags: ["perf", "9", "v8", "object", "examples"]
 videoId: "NOFRVCT2Xx0"
 duration: "2:08:13"
-views: 2921
-likes: 123
+views: 2950
+likes: 128
 comments: 5
 ---
 # [Производительность  V8 объектов  в примерах](https://www.youtube.com/watch?v=NOFRVCT2Xx0)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 11.02.2025 22:13  
 **Тривалість:** 2:08:13  
-**Перегляди:** 2921 · **Лайки:** 123 · **Коментарі:** 5
+**Перегляди:** 2950 · **Лайки:** 128 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/NOFRVCT2Xx0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=NOFRVCT2Xx0)

@@ -4,20 +4,20 @@ date: 2025-02-16
 tags: ["spec", "7", "js", "ecma", "type", "conversion"]
 videoId: "_PY3YqYZCRE"
 duration: "6:51:01"
-views: 5550
-likes: 154
-comments: 8
+views: 5617
+likes: 159
+comments: 9
 ---
 # [Существует ли приведение типа в JavaScript](https://www.youtube.com/watch?v=_PY3YqYZCRE)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 16.02.2025 02:07  
 **Тривалість:** 6:51:01  
-**Перегляди:** 5550 · **Лайки:** 154 · **Коментарі:** 8
+**Перегляди:** 5617 · **Лайки:** 159 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/_PY3YqYZCRE/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=_PY3YqYZCRE)
-## Коментарі (7 · відповідей: 1)
+## Коментарі (8 · відповідей: 1)
 
 **[@RTFMurych](https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow)** *[16.02.2025 07:20](https://www.youtube.com/watch?v=_PY3YqYZCRE&lc=Ugz1fvrNxZgC95w1Xi54AaABAg) · 👍 1*
 
@@ -96,7 +96,7 @@ wow я ждал этого многие месяцы!
 
 ---
 
-**[@kowkavn2356](https://www.youtube.com/channel/UCaCYq3PjfpFeCpZT0xciyfQ)** *[22.10.2025 22:58](https://www.youtube.com/watch?v=_PY3YqYZCRE&lc=UgxncqgQgWj7artMdiV4AaABAg)*
+**[@kowkavn2356](https://www.youtube.com/channel/UCaCYq3PjfpFeCpZT0xciyfQ)** *[22.10.2025 22:58](https://www.youtube.com/watch?v=_PY3YqYZCRE&lc=UgxncqgQgWj7artMdiV4AaABAg) · 👍 1*
 
 2:10 Суть проблемы
 6:00 Начало 
@@ -143,5 +143,15 @@ wow я ждал этого многие месяцы!
 **[@miarur](https://www.youtube.com/channel/UCNJRDBE-uLQ8r7wteq1_cIg)** *[03.11.2025 18:28](https://www.youtube.com/watch?v=_PY3YqYZCRE&lc=UgwfiZ7woxXsw6iyr814AaABAg)*
 
 спасибо за полезную информацию!
+
+---
+
+**[@suleymanbasir6347](https://www.youtube.com/channel/UCGEXnKnHvtzFcszXEyBo7Dw)** *[29.05.2026 10:47](https://www.youtube.com/watch?v=_PY3YqYZCRE&lc=Ugxn1M1WviFn39RjApR4AaABAg)*
+
+1:03:16 
+
+2. Почему с буквой "ё" всё пошло не так?Когда в международную таблицу Юникод добавляли кириллицу (русские буквы), основной блок букв от "а" до "я" записали строго по порядку (от кода 1072 до 1103).Но букву "ё" добавили в таблицу позже всех остальных, отдельно! Для неё просто не осталось места внутри основного алфавитного ряда. В итоге её код оказался в самом конце, далеко за буквой "я".Посмотрите на их реальные коды в компьютере:Буква "а" = код 1072Буква "б" = код 1073...Буква "я" = код 1103 (самый конец основного блока)Буква "ё" = код 1105 (вынесена отдельно в конец)Поэтому, когда вы пишете "ё" > "я", JavaScript снова просто сравнивает два числа под капотом: 1105 > 1103. Математически это true, поэтому компьютер считает, что "ё" больше.
+
+ETO OTVET CHATGPT
 
 ---

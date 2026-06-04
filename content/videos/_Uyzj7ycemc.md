@@ -4,8 +4,8 @@ date: 2024-06-17
 tags: ["seo", "0", "google", "leaks", "2500"]
 videoId: "_Uyzj7ycemc"
 duration: "1:36:27"
-views: 5811
-likes: 239
+views: 5921
+likes: 243
 comments: 17
 ---
 # [Google leaks: Разбор утечки 2500 Google документов о деталях поиска.](https://www.youtube.com/watch?v=_Uyzj7ycemc)
@@ -13,7 +13,7 @@ comments: 17
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.06.2024 16:39  
 **Тривалість:** 1:36:27  
-**Перегляди:** 5811 · **Лайки:** 239 · **Коментарі:** 17
+**Перегляди:** 5921 · **Лайки:** 243 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/_Uyzj7ycemc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=_Uyzj7ycemc)
@@ -63,7 +63,7 @@ comments: 17
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[17.06.2024 07:24](https://www.youtube.com/watch?v=_Uyzj7ycemc&lc=UgwMYH8heRPQAQDjD1R4AaABAg) · 👍 1*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[17.06.2024 07:24](https://www.youtube.com/watch?v=_Uyzj7ycemc&lc=UgwMYH8heRPQAQDjD1R4AaABAg) · 👍 1*
 
 крутая рубрика
 
@@ -87,7 +87,7 @@ comments: 17
 
 ---
 
-**[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[17.06.2024 09:10](https://www.youtube.com/watch?v=_Uyzj7ycemc&lc=Ugwqx48EZ8yhggacyl54AaABAg) · 👍 2*
+**[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[17.06.2024 09:10](https://www.youtube.com/watch?v=_Uyzj7ycemc&lc=Ugwqx48EZ8yhggacyl54AaABAg) · 👍 3*
 
 00:00:00   Музыка
 00:04:40   Вступление
@@ -168,7 +168,7 @@ underrated channel.. great content !!
 
 ---
 
-**[@моргеншмель](https://www.youtube.com/channel/UCj3DRniQ4dwk-oO10TRv0eQ)** *[25.06.2024 14:17](https://www.youtube.com/watch?v=_Uyzj7ycemc&lc=Ugy-wOHlbCGzEBB4IqV4AaABAg) · 👍 1*
+**[@Моргеншмель](https://www.youtube.com/channel/UCj3DRniQ4dwk-oO10TRv0eQ)** *[25.06.2024 14:17](https://www.youtube.com/watch?v=_Uyzj7ycemc&lc=Ugy-wOHlbCGzEBB4IqV4AaABAg) · 👍 1*
 
 Дядька, ты так плотно и резво наваливаешь контент, прям вернул меня в ресурс, дякую
 

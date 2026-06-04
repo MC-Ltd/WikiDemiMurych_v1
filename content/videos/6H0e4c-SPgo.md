@@ -4,8 +4,8 @@ date: 2025-02-06
 tags: ["sobes", "18", "js", "jsvascript.ru"]
 videoId: "6H0e4c-SPgo"
 duration: "3:09:25"
-views: 3595
-likes: 130
+views: 3628
+likes: 132
 comments: 15
 ---
 # [Проходим тест javascript.ru без подглядывания в спецификацию](https://www.youtube.com/watch?v=6H0e4c-SPgo)
@@ -13,7 +13,7 @@ comments: 15
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 06.02.2025 01:46  
 **Тривалість:** 3:09:25  
-**Перегляди:** 3595 · **Лайки:** 130 · **Коментарі:** 15
+**Перегляди:** 3628 · **Лайки:** 132 · **Коментарі:** 15
 ![thumbnail](https://i.ytimg.com/vi/6H0e4c-SPgo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=6H0e4c-SPgo)

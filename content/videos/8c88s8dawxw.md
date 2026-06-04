@@ -4,8 +4,8 @@ date: 2023-08-20
 tags: []
 videoId: "8c88s8dawxw"
 duration: "5:46:25"
-views: 906
-likes: 30
+views: 910
+likes: 33
 comments: 2
 ---
 # [⎡msk⎦ ⎡talks: 06⎦ Live coding: Hall of flame](https://www.youtube.com/watch?v=8c88s8dawxw)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 20.08.2023 03:54  
 **Тривалість:** 5:46:25  
-**Перегляди:** 906 · **Лайки:** 30 · **Коментарі:** 2
+**Перегляди:** 910 · **Лайки:** 33 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/8c88s8dawxw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=8c88s8dawxw)

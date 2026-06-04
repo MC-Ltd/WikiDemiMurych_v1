@@ -4,8 +4,8 @@ date: 2024-04-19
 tags: ["sobes", "15", "this", "ua"]
 videoId: "nwrN8FY_cVo"
 duration: "18:35"
-views: 4739
-likes: 224
+views: 4752
+likes: 228
 comments: 32
 ---
 # [Вирішуємо завдання із співбесід: this так, this сяк, this наперекосяк](https://www.youtube.com/watch?v=nwrN8FY_cVo)
@@ -13,7 +13,7 @@ comments: 32
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.04.2024 18:30  
 **Тривалість:** 18:35  
-**Перегляди:** 4739 · **Лайки:** 224 · **Коментарі:** 32
+**Перегляди:** 4752 · **Лайки:** 228 · **Коментарі:** 32
 ![thumbnail](https://i.ytimg.com/vi/nwrN8FY_cVo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=nwrN8FY_cVo)

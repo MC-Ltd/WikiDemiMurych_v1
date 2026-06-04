@@ -4,8 +4,8 @@ date: 2024-11-16
 tags: ["yt", "10", "js", "stupid"]
 videoId: "uGm9ygpMxeU"
 duration: "3:29:56"
-views: 11592
-likes: 419
+views: 11652
+likes: 424
 comments: 39
 ---
 # [Смотрим вместе YT:   JavaScript для маленьких и тупых. Урок #1](https://www.youtube.com/watch?v=uGm9ygpMxeU)
@@ -13,7 +13,7 @@ comments: 39
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 16.11.2024 01:25  
 **Тривалість:** 3:29:56  
-**Перегляди:** 11592 · **Лайки:** 419 · **Коментарі:** 39
+**Перегляди:** 11652 · **Лайки:** 424 · **Коментарі:** 39
 ![thumbnail](https://i.ytimg.com/vi/uGm9ygpMxeU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=uGm9ygpMxeU)

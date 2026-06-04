@@ -4,8 +4,8 @@ date: 2023-05-26
 tags: []
 videoId: "awoFe_9kbuU"
 duration: "1:22:35"
-views: 2386
-likes: 147
+views: 2396
+likes: 149
 comments: 19
 ---
 # [⎡msk⎦ JavaScript expressions](https://www.youtube.com/watch?v=awoFe_9kbuU)
@@ -13,7 +13,7 @@ comments: 19
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 26.05.2023 09:48  
 **Тривалість:** 1:22:35  
-**Перегляди:** 2386 · **Лайки:** 147 · **Коментарі:** 19
+**Перегляди:** 2396 · **Лайки:** 149 · **Коментарі:** 19
 ![thumbnail](https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=awoFe_9kbuU)

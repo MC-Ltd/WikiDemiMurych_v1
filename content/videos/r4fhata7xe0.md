@@ -4,8 +4,8 @@ date: 2025-05-24
 tags: ["spec", "8", "js", "ecma"]
 videoId: "r4fhata7xe0"
 duration: "6:43:38"
-views: 7258
-likes: 220
+views: 7330
+likes: 225
 comments: 36
 ---
 # [Ответы на JavaScript вопросы любой сложности](https://www.youtube.com/watch?v=r4fhata7xe0)
@@ -13,7 +13,7 @@ comments: 36
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 24.05.2025 00:59  
 **Тривалість:** 6:43:38  
-**Перегляди:** 7258 · **Лайки:** 220 · **Коментарі:** 36
+**Перегляди:** 7330 · **Лайки:** 225 · **Коментарі:** 36
 ![thumbnail](https://i.ytimg.com/vi/r4fhata7xe0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=r4fhata7xe0)

@@ -4,8 +4,8 @@ date: 2025-06-30
 tags: ["yt", "11", "js", "ulbi", "sobes"]
 videoId: "e0DKj6JGDVQ"
 duration: "4:21:22"
-views: 9473
-likes: 241
+views: 9555
+likes: 243
 comments: 58
 ---
 # [Смотрим вместе YT:   Ulbi TV, собеседование на  Middle  FrontEnd разработчика](https://www.youtube.com/watch?v=e0DKj6JGDVQ)
@@ -13,7 +13,7 @@ comments: 58
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 30.06.2025 23:31  
 **Тривалість:** 4:21:22  
-**Перегляди:** 9473 · **Лайки:** 241 · **Коментарі:** 58
+**Перегляди:** 9555 · **Лайки:** 243 · **Коментарі:** 58
 ![thumbnail](https://i.ytimg.com/vi/e0DKj6JGDVQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=e0DKj6JGDVQ)
@@ -238,7 +238,7 @@ allSettled не нужно - по условию задачи все проми�
 
 3k ммр в доте это вроде и не много. но я хз сколько это часов. не играл в эту парашу
 
-> **[@pvn0rvmv](https://www.youtube.com/channel/UCaHlJH6J7bVlP1XHqga16eA)** *[06.07.2025 15:38](https://www.youtube.com/watch?v=e0DKj6JGDVQ&lc=UgxdxP-aghJt7EEiCd94AaABAg.AK5L8BBZ7RvAKEt_01w3Tc)*
+> **[@glfx_dragon](https://www.youtube.com/channel/UCaHlJH6J7bVlP1XHqga16eA)** *[06.07.2025 15:38](https://www.youtube.com/watch?v=e0DKj6JGDVQ&lc=UgxdxP-aghJt7EEiCd94AaABAg.AK5L8BBZ7RvAKEt_01w3Tc)*
 
 > 3к ммр можно как за 100 часов получить, так и за несколько тысяч
 

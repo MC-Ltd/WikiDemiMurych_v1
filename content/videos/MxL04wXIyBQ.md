@@ -4,8 +4,8 @@ date: 2023-08-28
 tags: []
 videoId: "MxL04wXIyBQ"
 duration: "24:06"
-views: 2553
-likes: 109
+views: 2563
+likes: 113
 comments: 5
 ---
 # [⎡msk⎦⎡sobes: 08⎦   JavaScript собеседования: Таймеры](https://www.youtube.com/watch?v=MxL04wXIyBQ)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.08.2023 15:26  
 **Тривалість:** 24:06  
-**Перегляди:** 2553 · **Лайки:** 109 · **Коментарі:** 5
+**Перегляди:** 2563 · **Лайки:** 113 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/MxL04wXIyBQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=MxL04wXIyBQ)

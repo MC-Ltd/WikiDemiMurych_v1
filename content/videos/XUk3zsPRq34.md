@@ -4,8 +4,8 @@ date: 2024-06-21
 tags: ["yt", "5", "async", "bizykin", "part2"]
 videoId: "XUk3zsPRq34"
 duration: "1:55:55"
-views: 4778
-likes: 169
+views: 4822
+likes: 172
 comments: 15
 ---
 # [Смотрим вместе YT: Part2 - Григорий Бизюкин - Асинхронность ШРИ 2024](https://www.youtube.com/watch?v=XUk3zsPRq34)
@@ -13,7 +13,7 @@ comments: 15
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.06.2024 18:15  
 **Тривалість:** 1:55:55  
-**Перегляди:** 4778 · **Лайки:** 169 · **Коментарі:** 15
+**Перегляди:** 4822 · **Лайки:** 172 · **Коментарі:** 15
 ![thumbnail](https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=XUk3zsPRq34)

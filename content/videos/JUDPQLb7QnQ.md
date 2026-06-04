@@ -4,8 +4,8 @@ date: 2024-07-31
 tags: ["yt", "00", "asm", "x86", "intro"]
 videoId: "JUDPQLb7QnQ"
 duration: "4:09:02"
-views: 8963
-likes: 350
+views: 9057
+likes: 355
 comments: 36
 ---
 # [Asm для JS программиста:  Введение. Часть 2.](https://www.youtube.com/watch?v=JUDPQLb7QnQ)
@@ -13,7 +13,7 @@ comments: 36
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 31.07.2024 00:13  
 **Тривалість:** 4:09:02  
-**Перегляди:** 8963 · **Лайки:** 350 · **Коментарі:** 36
+**Перегляди:** 9057 · **Лайки:** 355 · **Коментарі:** 36
 ![thumbnail](https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=JUDPQLb7QnQ)
@@ -233,7 +233,7 @@ great video
 
 ---
 
-**[@papahabana5565](https://www.youtube.com/channel/UCQ6Ij0OlHNG6z1mfBt76vig)** *[20.08.2024 15:35](https://www.youtube.com/watch?v=JUDPQLb7QnQ&lc=UgwsvbkR5Nc5kW3dLI14AaABAg) · 👍 62*
+**[@papahabana5565](https://www.youtube.com/channel/UCQ6Ij0OlHNG6z1mfBt76vig)** *[20.08.2024 15:35](https://www.youtube.com/watch?v=JUDPQLb7QnQ&lc=UgwsvbkR5Nc5kW3dLI14AaABAg) · 👍 61*
 
 "когда почувствовал себя тем прозревшим синим кибермужиком"
 спасибо за очень познавательное видео!

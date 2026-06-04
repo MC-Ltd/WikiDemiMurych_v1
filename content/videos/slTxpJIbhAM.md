@@ -4,8 +4,8 @@ date: 2023-11-13
 tags: []
 videoId: "slTxpJIbhAM"
 duration: "5:17:51"
-views: 5917
-likes: 186
+views: 5922
+likes: 188
 comments: 26
 ---
 # [⎡sobes: 13⎦   JavaScript задачи собеседований: Решаем задачи с Эльбрус Буткемп №2](https://www.youtube.com/watch?v=slTxpJIbhAM)
@@ -13,7 +13,7 @@ comments: 26
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 13.11.2023 00:56  
 **Тривалість:** 5:17:51  
-**Перегляди:** 5917 · **Лайки:** 186 · **Коментарі:** 26
+**Перегляди:** 5922 · **Лайки:** 188 · **Коментарі:** 26
 ![thumbnail](https://i.ytimg.com/vi/slTxpJIbhAM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=slTxpJIbhAM)

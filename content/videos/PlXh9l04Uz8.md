@@ -4,16 +4,16 @@ date: 2025-11-04
 tags: ["dlgs", "14", "js", "timur", "shemsedinov", "Patterns"]
 videoId: "PlXh9l04Uz8"
 duration: "3:12:51"
-views: 3143
-likes: 94
-comments: 19
+views: 3192
+likes: 97
+comments: 20
 ---
 # [Нужны ли нам знания о шаблонах разработки?](https://www.youtube.com/watch?v=PlXh9l04Uz8)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.11.2025 20:22  
 **Тривалість:** 3:12:51  
-**Перегляди:** 3143 · **Лайки:** 94 · **Коментарі:** 19
+**Перегляди:** 3192 · **Лайки:** 97 · **Коментарі:** 20
 ![thumbnail](https://i.ytimg.com/vi/PlXh9l04Uz8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=PlXh9l04Uz8)
@@ -55,7 +55,7 @@ comments: 19
 - [03:01:48](https://www.youtube.com/watch?v=PlXh9l04Uz8&t=10908)   Анекдот про сантехников, аналогия с программированием, обучение новичков
 - [03:05:49](https://www.youtube.com/watch?v=PlXh9l04Uz8&t=11149)   Эволюция программирования, важность сопровождения, анекдот про скунса
 - [03:09:57](https://www.youtube.com/watch?v=PlXh9l04Uz8&t=11397)   Проблемы практики, шутки о джунах и сеньорах, заключительные слова
-## Коментарі (9 · відповідей: 10)
+## Коментарі (10 · відповідей: 10)
 
 **[@TimurShemsedinov](https://www.youtube.com/channel/UChSGI2R2kRMjzXJuYqHWQZg)** *[04.11.2025 21:44](https://www.youtube.com/watch?v=PlXh9l04Uz8&lc=UgwDkugsQyYzoGBRTKB4AaABAg) · 👍 3*
 
@@ -159,5 +159,11 @@ comments: 19
 **[@FrankBakulov](https://www.youtube.com/channel/UC73lSQURf81UCdJHJ884tJA)** *[06.11.2025 10:56](https://www.youtube.com/watch?v=PlXh9l04Uz8&lc=UgzeWRL4wQBlId5cUvp4AaABAg)*
 
 Acquire  -  эквае. С читается как "эс" только перед e, i. А то слушаю и не пойму что за слово.
+
+---
+
+**[@Pepe-_-Ai0](https://www.youtube.com/channel/UCQCViJ0rOfyqSLGChZjqQNQ)** *[20.04.2026 13:23](https://www.youtube.com/watch?v=PlXh9l04Uz8&lc=UgwQ6qlO_1lCXr6anqh4AaABAg)*
+
+первая половина стрима как будто тупо пиар курса я так понял мурич хотел о нем все узнать но выглядит как прямая реклама
 
 ---

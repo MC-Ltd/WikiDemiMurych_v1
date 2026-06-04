@@ -4,8 +4,8 @@ date: 2023-06-12
 tags: []
 videoId: "yfJ475DYo2w"
 duration: "1:11:07"
-views: 2093
-likes: 140
+views: 2111
+likes: 141
 comments: 11
 ---
 # [⎡msk⎦ Задача с JavaScript собеседования о разбиении текста на строки заданной длины](https://www.youtube.com/watch?v=yfJ475DYo2w)
@@ -13,7 +13,7 @@ comments: 11
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 12.06.2023 12:43  
 **Тривалість:** 1:11:07  
-**Перегляди:** 2093 · **Лайки:** 140 · **Коментарі:** 11
+**Перегляди:** 2111 · **Лайки:** 141 · **Коментарі:** 11
 ![thumbnail](https://i.ytimg.com/vi/yfJ475DYo2w/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=yfJ475DYo2w)

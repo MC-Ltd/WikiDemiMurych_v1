@@ -4,20 +4,20 @@ date: 2025-12-31
 tags: []
 videoId: "aEWXtdgusR8"
 duration: "0:26"
-views: 5975
-likes: 115
-comments: 15
+views: 6424
+likes: 125
+comments: 16
 ---
 # [2026 JavaScript и обнял поднял перевернул](https://www.youtube.com/watch?v=aEWXtdgusR8)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 31.12.2025 18:19  
 **Тривалість:** 0:26  
-**Перегляди:** 5975 · **Лайки:** 115 · **Коментарі:** 15
+**Перегляди:** 6424 · **Лайки:** 125 · **Коментарі:** 16
 ![thumbnail](https://i.ytimg.com/vi/aEWXtdgusR8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=aEWXtdgusR8)
-## Коментарі (15 · відповідей: 0)
+## Коментарі (16 · відповідей: 0)
 
 **[@valvetigu5207](https://www.youtube.com/channel/UC4hEa6vhI7hFePcFTb-pPSQ)** *[31.12.2025 18:48](https://www.youtube.com/watch?v=aEWXtdgusR8&lc=UgyCF5SjeYxzYqVRe3p4AaABAg) · 👍 1*
 
@@ -25,7 +25,7 @@ comments: 15
 
 ---
 
-**[@renji104](https://www.youtube.com/channel/UCXW3Wub4UvW5uXlgOqOUG5Q)** *[31.12.2025 20:23](https://www.youtube.com/watch?v=aEWXtdgusR8&lc=Ugw7jgprGKQ3CxgSL9t4AaABAg) · 👍 13*
+**[@renji104](https://www.youtube.com/channel/UCXW3Wub4UvW5uXlgOqOUG5Q)** *[31.12.2025 20:23](https://www.youtube.com/watch?v=aEWXtdgusR8&lc=Ugw7jgprGKQ3CxgSL9t4AaABAg) · 👍 14*
 
 поберегите спину, дедушка
 
@@ -107,5 +107,11 @@ JudoScript
 **[@imil6173](https://www.youtube.com/channel/UCEzLkh-QIfVf0FUa-GRfjOw)** *[04.01.2026 18:18](https://www.youtube.com/watch?v=aEWXtdgusR8&lc=UgzodNgcu9gOlZvULgF4AaABAg)*
 
 Сначала показалось что это Путин говорит
+
+---
+
+**[@NGC4449-m8t](https://www.youtube.com/channel/UCQE4O0FOarvf4uCSajMVS2Q)** *[17.03.2026 00:15](https://www.youtube.com/watch?v=aEWXtdgusR8&lc=UgwnA4662lYTSkNahXZ4AaABAg)*
+
+Не предпологал что Мурыч способен на такое =)
 
 ---

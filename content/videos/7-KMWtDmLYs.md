@@ -4,8 +4,8 @@ date: 2026-01-26
 tags: ["coding", "22", "sumo", "plugin", "naKolenke2"]
 videoId: "7-KMWtDmLYs"
 duration: "2:57:07"
-views: 1594
-likes: 67
+views: 1699
+likes: 74
 comments: 4
 ---
 # [Live Coding: Sumo на коленке - 2](https://www.youtube.com/watch?v=7-KMWtDmLYs)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 26.01.2026 10:05  
 **Тривалість:** 2:57:07  
-**Перегляди:** 1594 · **Лайки:** 67 · **Коментарі:** 4
+**Перегляди:** 1699 · **Лайки:** 74 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/7-KMWtDmLYs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=7-KMWtDmLYs)

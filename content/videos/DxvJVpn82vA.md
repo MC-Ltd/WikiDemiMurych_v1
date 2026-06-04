@@ -4,8 +4,8 @@ date: 2025-06-23
 tags: ["spec", "9", "js", "ecma", "String", "unicode", "utf16"]
 videoId: "DxvJVpn82vA"
 duration: "3:26:53"
-views: 2186
-likes: 98
+views: 2217
+likes: 100
 comments: 8
 ---
 # [Тип String и его две основные проблемы. Часть 2 из 3.](https://www.youtube.com/watch?v=DxvJVpn82vA)
@@ -13,7 +13,7 @@ comments: 8
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 23.06.2025 21:31  
 **Тривалість:** 3:26:53  
-**Перегляди:** 2186 · **Лайки:** 98 · **Коментарі:** 8
+**Перегляди:** 2217 · **Лайки:** 100 · **Коментарі:** 8
 ![thumbnail](https://i.ytimg.com/vi/DxvJVpn82vA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=DxvJVpn82vA)

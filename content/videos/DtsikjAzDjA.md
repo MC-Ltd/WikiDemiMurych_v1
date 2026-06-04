@@ -4,7 +4,7 @@ date: 2023-04-25
 tags: []
 videoId: "DtsikjAzDjA"
 duration: "2:29:41"
-views: 11783
+views: 11882
 likes: 360
 comments: 69
 ---
@@ -13,7 +13,7 @@ comments: 69
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 25.04.2023 05:05  
 **Тривалість:** 2:29:41  
-**Перегляди:** 11783 · **Лайки:** 360 · **Коментарі:** 69
+**Перегляди:** 11882 · **Лайки:** 360 · **Коментарі:** 69
 ![thumbnail](https://i.ytimg.com/vi/DtsikjAzDjA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=DtsikjAzDjA)
@@ -378,7 +378,7 @@ good
 
 ---
 
-**[@sasha759](https://www.youtube.com/channel/UCb2fNQJheaIrDIAG88NwSwA)** *[22.03.2025 03:41](https://www.youtube.com/watch?v=DtsikjAzDjA&lc=UgwwCupax5lGQHQztTN4AaABAg) · 👍 1*
+**[@sasha-tsaruk](https://www.youtube.com/channel/UCb2fNQJheaIrDIAG88NwSwA)** *[22.03.2025 03:41](https://www.youtube.com/watch?v=DtsikjAzDjA&lc=UgwwCupax5lGQHQztTN4AaABAg) · 👍 1*
 
 Дуже цікаво, вперше бачу щоб хтось робив інтерв'ю чату gpt, а не навпаки =)
 

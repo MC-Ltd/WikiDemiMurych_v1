@@ -4,8 +4,8 @@ date: 2023-07-04
 tags: []
 videoId: "yGNltdKMtF8"
 duration: "1:50:16"
-views: 3104
-likes: 112
+views: 3123
+likes: 115
 comments: 19
 ---
 # [⎡msk⎦⎡RegExp⎦⎡05⎦ JavaScript Strings и Unicode, UTF-16](https://www.youtube.com/watch?v=yGNltdKMtF8)
@@ -13,7 +13,7 @@ comments: 19
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.07.2023 07:39  
 **Тривалість:** 1:50:16  
-**Перегляди:** 3104 · **Лайки:** 112 · **Коментарі:** 19
+**Перегляди:** 3123 · **Лайки:** 115 · **Коментарі:** 19
 ![thumbnail](https://i.ytimg.com/vi/yGNltdKMtF8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=yGNltdKMtF8)

@@ -4,8 +4,8 @@ date: 2023-03-29
 tags: []
 videoId: "VJljZdg6nlY"
 duration: "3:52:39"
-views: 3253
-likes: 151
+views: 3278
+likes: 153
 comments: 15
 ---
 # [Я тип простой - я говорю стихами](https://www.youtube.com/watch?v=VJljZdg6nlY)
@@ -13,7 +13,7 @@ comments: 15
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.03.2023 00:11  
 **Тривалість:** 3:52:39  
-**Перегляди:** 3253 · **Лайки:** 151 · **Коментарі:** 15
+**Перегляди:** 3278 · **Лайки:** 153 · **Коментарі:** 15
 ![thumbnail](https://i.ytimg.com/vi/VJljZdg6nlY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=VJljZdg6nlY)

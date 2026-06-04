@@ -4,8 +4,8 @@ date: 2023-06-23
 tags: []
 videoId: "vgHNERQGcPk"
 duration: "1:34:10"
-views: 1275
-likes: 60
+views: 1290
+likes: 63
 comments: 3
 ---
 # [⎡msk⎦ Разбор вопроса из Telegram о Array Double vs Array SMI](https://www.youtube.com/watch?v=vgHNERQGcPk)
@@ -13,7 +13,7 @@ comments: 3
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 23.06.2023 23:13  
 **Тривалість:** 1:34:10  
-**Перегляди:** 1275 · **Лайки:** 60 · **Коментарі:** 3
+**Перегляди:** 1290 · **Лайки:** 63 · **Коментарі:** 3
 ![thumbnail](https://i.ytimg.com/vi/vgHNERQGcPk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=vgHNERQGcPk)

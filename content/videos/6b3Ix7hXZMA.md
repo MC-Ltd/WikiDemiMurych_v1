@@ -4,8 +4,8 @@ date: 2023-10-11
 tags: []
 videoId: "6b3Ix7hXZMA"
 duration: "4:17:30"
-views: 2252
-likes: 71
+views: 2254
+likes: 74
 comments: 11
 ---
 # [⎡talks: 08⎦ Hack And Code](https://www.youtube.com/watch?v=6b3Ix7hXZMA)
@@ -13,7 +13,7 @@ comments: 11
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 11.10.2023 00:57  
 **Тривалість:** 4:17:30  
-**Перегляди:** 2252 · **Лайки:** 71 · **Коментарі:** 11
+**Перегляди:** 2254 · **Лайки:** 74 · **Коментарі:** 11
 ![thumbnail](https://i.ytimg.com/vi/6b3Ix7hXZMA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=6b3Ix7hXZMA)

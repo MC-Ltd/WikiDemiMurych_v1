@@ -4,8 +4,8 @@ date: 2023-06-09
 tags: []
 videoId: "1ZatvhwihFo"
 duration: "59:09"
-views: 1955
-likes: 123
+views: 1968
+likes: 126
 comments: 10
 ---
 # [⎡msk⎦ Обновленные регулярные выражения в JavaScript, как инструмент обработки текста в Unicode](https://www.youtube.com/watch?v=1ZatvhwihFo)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.06.2023 13:49  
 **Тривалість:** 59:09  
-**Перегляди:** 1955 · **Лайки:** 123 · **Коментарі:** 10
+**Перегляди:** 1968 · **Лайки:** 126 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/1ZatvhwihFo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=1ZatvhwihFo)

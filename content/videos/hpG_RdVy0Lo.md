@@ -4,8 +4,8 @@ date: 2025-06-04
 tags: ["dlgs", "8", "js", "String", "RegExp"]
 videoId: "hpG_RdVy0Lo"
 duration: "2:45:19"
-views: 1293
-likes: 48
+views: 1304
+likes: 53
 comments: 11
 ---
 # [Побалакаємо щодо String в JavaScript](https://www.youtube.com/watch?v=hpG_RdVy0Lo)
@@ -13,7 +13,7 @@ comments: 11
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.06.2025 03:02  
 **Тривалість:** 2:45:19  
-**Перегляди:** 1293 · **Лайки:** 48 · **Коментарі:** 11
+**Перегляди:** 1304 · **Лайки:** 53 · **Коментарі:** 11
 ![thumbnail](https://i.ytimg.com/vi/hpG_RdVy0Lo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=hpG_RdVy0Lo)

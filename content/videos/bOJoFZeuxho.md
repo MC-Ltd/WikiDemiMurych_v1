@@ -4,8 +4,8 @@ date: 2023-12-17
 tags: []
 videoId: "bOJoFZeuxho"
 duration: "4:10:24"
-views: 3027
-likes: 124
+views: 3032
+likes: 127
 comments: 14
 ---
 # [⎡talks:12⎦ Басня + Что-то про постель +The  Way of the exploding fist](https://www.youtube.com/watch?v=bOJoFZeuxho)
@@ -13,7 +13,7 @@ comments: 14
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.12.2023 08:37  
 **Тривалість:** 4:10:24  
-**Перегляди:** 3027 · **Лайки:** 124 · **Коментарі:** 14
+**Перегляди:** 3032 · **Лайки:** 127 · **Коментарі:** 14
 ![thumbnail](https://i.ytimg.com/vi/bOJoFZeuxho/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=bOJoFZeuxho)

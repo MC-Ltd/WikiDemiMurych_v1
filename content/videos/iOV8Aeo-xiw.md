@@ -4,8 +4,8 @@ date: 2021-04-13
 tags: []
 videoId: "iOV8Aeo-xiw"
 duration: "45:02"
-views: 3019
-likes: 116
+views: 3045
+likes: 120
 comments: 5
 ---
 # [Остерегайся удара Зюзькой - Дональд Кнут 1972 год.](https://www.youtube.com/watch?v=iOV8Aeo-xiw)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 13.04.2021 20:14  
 **Тривалість:** 45:02  
-**Перегляди:** 3019 · **Лайки:** 116 · **Коментарі:** 5
+**Перегляди:** 3045 · **Лайки:** 120 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/iOV8Aeo-xiw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=iOV8Aeo-xiw)

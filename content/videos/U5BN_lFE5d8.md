@@ -4,16 +4,16 @@ date: 2023-09-21
 tags: []
 videoId: "U5BN_lFE5d8"
 duration: "5:54:32"
-views: 8924
-likes: 311
-comments: 62
+views: 9105
+likes: 317
+comments: 63
 ---
 # [⎡JSbook: 03.01⎦   JavaScript: От мифов к спецификации. Почему я Д’Артаньян а все вокруг ...](https://www.youtube.com/watch?v=U5BN_lFE5d8)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.09.2023 01:05  
 **Тривалість:** 5:54:32  
-**Перегляди:** 8924 · **Лайки:** 311 · **Коментарі:** 62
+**Перегляди:** 9105 · **Лайки:** 317 · **Коментарі:** 63
 ![thumbnail](https://i.ytimg.com/vi/U5BN_lFE5d8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=U5BN_lFE5d8)
@@ -88,7 +88,7 @@ comments: 62
 - [05:44:35](https://www.youtube.com/watch?v=U5BN_lFE5d8&t=20675)   Посоветуй хорошего блогера JS bakend
 - [05:46:25](https://www.youtube.com/watch?v=U5BN_lFE5d8&t=20785)   Нужна ли сертификация по nodejs?
 - [05:49:30](https://www.youtube.com/watch?v=U5BN_lFE5d8&t=20970)   Закругляемся
-## Коментарі (39 · відповідей: 23)
+## Коментарі (39 · відповідей: 24)
 
 **[@leon83935](https://www.youtube.com/channel/UCQWoq45oCaF2rcWStxBAnYA)** *[21.09.2023 02:05](https://www.youtube.com/watch?v=U5BN_lFE5d8&lc=Ugw_xmioBOI3gRjXmnF4AaABAg) · 👍 16*
 
@@ -518,6 +518,10 @@ Update: все это как-то странно.. Берем тезис авт�
 **[@EugeneKoshelev](https://www.youtube.com/channel/UCgSr74nurSDE8fbBiSSyBsg)** *[25.02.2024 15:31](https://www.youtube.com/watch?v=U5BN_lFE5d8&lc=Ugz_z8NXpEK2zu-SN-h4AaABAg)*
 
 Ахаха! "Виндоуз маздай!" Вот это древность вы откопали)) Спасибо за контент!
+
+> **[@LLIu3A](https://www.youtube.com/channel/UCJq3LN1VdcfIkL3e-k4bruQ)** *[28.04.2026 14:54](https://www.youtube.com/watch?v=U5BN_lFE5d8&lc=Ugz_z8NXpEK2zu-SN-h4AaABAg.A0F8j-BEd2BAW8zn97QxXF)*
+
+> А шо, не так?
 
 ---
 

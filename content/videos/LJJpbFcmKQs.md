@@ -4,16 +4,16 @@ date: 2024-08-09
 tags: ["dlgs", "7", "js", "GRASP", "SOLID", "GoF"]
 videoId: "LJJpbFcmKQs"
 duration: "4:04:35"
-views: 19227
-likes: 568
-comments: 56
+views: 19282
+likes: 569
+comments: 55
 ---
 # [Беседа с Тимуром Шемсединовым о переосмыслении паттернов GRASP, SOLID, GoF в JavaScript](https://www.youtube.com/watch?v=LJJpbFcmKQs)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.08.2024 21:13  
 **Тривалість:** 4:04:35  
-**Перегляди:** 19227 · **Лайки:** 568 · **Коментарі:** 56
+**Перегляди:** 19282 · **Лайки:** 569 · **Коментарі:** 55
 ![thumbnail](https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=LJJpbFcmKQs)
@@ -54,7 +54,7 @@ comments: 56
 - [03:35:20](https://www.youtube.com/watch?v=LJJpbFcmKQs&t=12920)   Про оптимизации V8
 - [03:36:15](https://www.youtube.com/watch?v=LJJpbFcmKQs&t=12975)   Паттерн Flyweight
 - [03:59:25](https://www.youtube.com/watch?v=LJJpbFcmKQs&t=14365)   Завершаем
-## Коментарі (36 · відповідей: 20)
+## Коментарі (35 · відповідей: 20)
 
 **[@stanislavsamgin9405](https://www.youtube.com/channel/UCmvvppXB7GeZGl3P-gD4X6Q)** *[09.08.2024 21:02](https://www.youtube.com/watch?v=LJJpbFcmKQs&lc=UgwusQprreRbnDDBRO54AaABAg) · 👍 5*
 
@@ -294,12 +294,6 @@ DDD - Dва Dушных Dеда)) Два часа поговорили за жи
 **[@ivan-d192](https://www.youtube.com/channel/UCnOY-cpWXe9KFzdxsAmeJug)** *[12.08.2024 13:27](https://www.youtube.com/watch?v=LJJpbFcmKQs&lc=Ugyetn2suIsmfqCFxb14AaABAg)*
 
 Скобочки убрали, и поехали😂
-
----
-
-**[@beOnYourSunnyWay](https://www.youtube.com/channel/UC3zhKHg5DJZ2-6B3FkGK1wg)** *[16.08.2024 16:41](https://www.youtube.com/watch?v=LJJpbFcmKQs&lc=Ugw7yx4FgcnlNwJHIr94AaABAg)*
-
-Как же много п*здИт мурыч флуда... Даже Тимур кринжует порой). Взять бы ему себя в руки, и понимаешь, подтянуть ораторское мастерство, мы — рабочие и крестьяне однозачно были бы довольны!
 
 ---
 

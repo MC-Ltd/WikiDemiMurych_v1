@@ -4,16 +4,16 @@ date: 2024-04-16
 tags: ["sobes", "14", "refact", "numberWithSpaces"]
 videoId: "Bz7pIC4h-7U"
 duration: "3:31:35"
-views: 7233
-likes: 229
-comments: 33
+views: 7250
+likes: 232
+comments: 32
 ---
 # [Решение задачи с собеседования: numberWithSpaces](https://www.youtube.com/watch?v=Bz7pIC4h-7U)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 16.04.2024 17:46  
 **Тривалість:** 3:31:35  
-**Перегляди:** 7233 · **Лайки:** 229 · **Коментарі:** 33
+**Перегляди:** 7250 · **Лайки:** 232 · **Коментарі:** 32
 ![thumbnail](https://i.ytimg.com/vi/Bz7pIC4h-7U/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Bz7pIC4h-7U)
@@ -56,7 +56,7 @@ comments: 33
 - [03:17:36](https://www.youtube.com/watch?v=Bz7pIC4h-7U&t=11856)   Анализ кода
 - [03:21:43](https://www.youtube.com/watch?v=Bz7pIC4h-7U&t=12103)   Задание и его реализация
 - [03:29:05](https://www.youtube.com/watch?v=Bz7pIC4h-7U&t=12545)   Заключение
-## Коментарі (22 · відповідей: 11)
+## Коментарі (21 · відповідей: 11)
 
 **[@SolidMaxim](https://www.youtube.com/channel/UCwKJ8PHi25J60OJfPAfsL5Q)** *[16.04.2024 06:30](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=Ugx9QlTOUG2F0Rk1php4AaABAg) · 👍 1*
 
@@ -155,12 +155,6 @@ comments: 33
 **[@_Good_Evening_](https://www.youtube.com/channel/UC9HBo0_7o8jROXlvkFcVfIg)** *[18.04.2024 10:19](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=UgxHvkNMNWd1YiraAU14AaABAg) · 👍 2*
 
 очень крутой разбор в ходе которого Мурыч рассказывает много всего полезного!!!
-
----
-
-**[@scottjenkinsjr](https://www.youtube.com/channel/UC18NLP5d1LN1HgOGQ6H6SCg)** *[19.04.2024 08:35](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=Ugxx2I6D9nz0MgBV7Ix4AaABAg) · 👍 3*
-
-ще не вмерла але вже незабаром
 
 ---
 
@@ -284,19 +278,19 @@ great video
 
 ---
 
-**[@НиколайИванов-ц2ы2ъ](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[19.07.2024 16:47](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=UgwN5z10lYjAKwaCwbx4AaABAg)*
+**[@anonimous-q2w2r](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[19.07.2024 16:47](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=UgwN5z10lYjAKwaCwbx4AaABAg)*
 
 Интересно. Это что задание с собеседования в Росатом на должность разработчика по для ядерных реакторов, что аж Мурыч пыхтит так долго над ней?
 
 ---
 
-**[@НиколайИванов-ц2ы2ъ](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[19.07.2024 20:39](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=UgxOZhKtYS4X_IrB1Oh4AaABAg)*
+**[@anonimous-q2w2r](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[19.07.2024 20:39](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=UgxOZhKtYS4X_IrB1Oh4AaABAg)*
 
 Меня вообще бомбит от темной темы, от нее глаза реально слепнут
 
 ---
 
-**[@НиколайИванов-ц2ы2ъ](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[19.07.2024 20:46](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=UgxuiQSCC3e_R7VLGER4AaABAg)*
+**[@anonimous-q2w2r](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[19.07.2024 20:46](https://www.youtube.com/watch?v=Bz7pIC4h-7U&lc=UgxuiQSCC3e_R7VLGER4AaABAg)*
 
 void ведь означает что результат выражения справа от него не должен быть возвращен, он отбрасывается и возвращается undefined
 

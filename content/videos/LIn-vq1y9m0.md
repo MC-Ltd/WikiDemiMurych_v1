@@ -4,8 +4,8 @@ date: 2024-08-04
 tags: ["yt", "8", "js", "optimization", "front"]
 videoId: "LIn-vq1y9m0"
 duration: "1:37:25"
-views: 10160
-likes: 466
+views: 10204
+likes: 469
 comments: 44
 ---
 # [Смотрим вместе YT:  Оптимизация Frontend приложений (23 совета)](https://www.youtube.com/watch?v=LIn-vq1y9m0)
@@ -13,7 +13,7 @@ comments: 44
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.08.2024 18:34  
 **Тривалість:** 1:37:25  
-**Перегляди:** 10160 · **Лайки:** 466 · **Коментарі:** 44
+**Перегляди:** 10204 · **Лайки:** 469 · **Коментарі:** 44
 ![thumbnail](https://i.ytimg.com/vi/LIn-vq1y9m0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=LIn-vq1y9m0)

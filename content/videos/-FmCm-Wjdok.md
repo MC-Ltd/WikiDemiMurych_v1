@@ -4,8 +4,8 @@ date: 2023-08-28
 tags: []
 videoId: "-FmCm-Wjdok"
 duration: "2:55:45"
-views: 8618
-likes: 275
+views: 8749
+likes: 281
 comments: 33
 ---
 # [⎡JSbook: 02.2⎦   JavaScript: От мифов к спецификации. Структурирование информации](https://www.youtube.com/watch?v=-FmCm-Wjdok)
@@ -13,7 +13,7 @@ comments: 33
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.08.2023 09:53  
 **Тривалість:** 2:55:45  
-**Перегляди:** 8618 · **Лайки:** 275 · **Коментарі:** 33
+**Перегляди:** 8749 · **Лайки:** 281 · **Коментарі:** 33
 ![thumbnail](https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=-FmCm-Wjdok)

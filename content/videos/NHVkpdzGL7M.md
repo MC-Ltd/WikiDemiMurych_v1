@@ -4,8 +4,8 @@ date: 2023-06-19
 tags: []
 videoId: "NHVkpdzGL7M"
 duration: "2:41:21"
-views: 2208
-likes: 76
+views: 2231
+likes: 78
 comments: 10
 ---
 # [⎡msk⎦ Работа над ошибками, или почему Live это круто, а JavaScript var все так же быстрее let](https://www.youtube.com/watch?v=NHVkpdzGL7M)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.06.2023 00:11  
 **Тривалість:** 2:41:21  
-**Перегляди:** 2208 · **Лайки:** 76 · **Коментарі:** 10
+**Перегляди:** 2231 · **Лайки:** 78 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/NHVkpdzGL7M/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=NHVkpdzGL7M)

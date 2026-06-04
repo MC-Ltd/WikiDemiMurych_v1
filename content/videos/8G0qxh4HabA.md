@@ -4,20 +4,20 @@ date: 2025-01-29
 tags: ["spec", "5", "js", "v8", "var", "let", "const"]
 videoId: "8G0qxh4HabA"
 duration: "8:49"
-views: 11356
-likes: 666
-comments: 105
+views: 11458
+likes: 669
+comments: 107
 ---
 # [Жирная точка в спорах о var let и const](https://www.youtube.com/watch?v=8G0qxh4HabA)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.01.2025 16:11  
 **Тривалість:** 8:49  
-**Перегляди:** 11356 · **Лайки:** 666 · **Коментарі:** 105
+**Перегляди:** 11458 · **Лайки:** 669 · **Коментарі:** 107
 ![thumbnail](https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=8G0qxh4HabA)
-## Коментарі (44 · відповідей: 61)
+## Коментарі (44 · відповідей: 63)
 
 **[@RTFMurych](https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow)** *[29.01.2025 16:12](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=UgzqOp3g5x-wMEzl-YN4AaABAg) · 👍 11*
 
@@ -141,6 +141,12 @@ comments: 105
 
 > очевидно что вы идиот
 
+> **[@Watozarato](https://www.youtube.com/channel/UC0f-TKFbfRF_PaYbA95TkBA)** *[11.05.2026 08:56](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=Ugwerua_DDo9MgKLWvp4AaABAg.ADtAjMq7bSYAWepCHj5gk6)*
+
+> Дефакто реально удобнее, кроме особых случаев, вида: надо закинуть функцию на исполнение хостом через цикл, типа: for setTimeout(тут обратиться к i) вот тогда let легче
+> Ну и глобал тоже let лучше
+> Но а так да, во всем остальном можно var
+
 ---
 
 **[@alexanderpoco7411](https://www.youtube.com/channel/UCuCAPr3IW-ABwSWhA0X6ktg)** *[29.01.2025 17:04](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=UgwmSAOsTUQzPRmr-tF4AaABAg) (ред. 29.01.2025 22:08) · 👍 4*
@@ -195,7 +201,7 @@ comments: 105
 
 ---
 
-**[@ЭрвинЮсеф](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[29.01.2025 17:58](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=Ugz_9ww7-F-893unKAx4AaABAg) · 👍 1*
+**[@МенеджерПоставок](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[29.01.2025 17:58](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=Ugz_9ww7-F-893unKAx4AaABAg) · 👍 1*
 
 Ждем удаление аккумуляторов из v8 и вложение значений напрямую в область памяти 
 
@@ -203,7 +209,7 @@ comments: 105
 
 > а аккумуляторы это о чем речь?
 
-> **[@ЭрвинЮсеф](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[30.01.2025 18:50](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=Ugz_9ww7-F-893unKAx4AaABAg.ADtIwv7EtM7ADvygh7g56U)*
+> **[@МенеджерПоставок](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[30.01.2025 18:50](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=Ugz_9ww7-F-893unKAx4AaABAg.ADtIwv7EtM7ADvygh7g56U)*
 
 > @EgorDemeshko о байт-коде js
 
@@ -593,6 +599,10 @@ console.log('End');
 > **[@Maxim9575](https://www.youtube.com/channel/UCDVR4F7aUSBfvLA53Qe7GSw)** *[28.02.2025 01:54](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=Ugy9NZ96oHUJ-nUO2wh4AaABAg.ADxWuQZcZd3AF3pUOj42Oi) · 👍 1*
 
 > @demimurych1 ты привел в пример объявление обычной функции. А что делать с классами? Они ж по сути как const. Отказываться от классов в угоду обычным функциям? Как тогда заменить приватные свойства класса (PrivateEnvironment)?
+
+> **[@Watozarato](https://www.youtube.com/channel/UC0f-TKFbfRF_PaYbA95TkBA)** *[11.05.2026 08:53](https://www.youtube.com/watch?v=8G0qxh4HabA&lc=Ugy9NZ96oHUJ-nUO2wh4AaABAg.ADxWuQZcZd3AWeommZFrBn)*
+
+> ​@Maxim9575 ну кст приватки - это как var в теле функции, но дефакто будет тогда сложно с: как методы подвести к нему
 
 ---
 

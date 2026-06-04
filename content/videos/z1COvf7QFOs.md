@@ -4,8 +4,8 @@ date: 2023-11-28
 tags: []
 videoId: "z1COvf7QFOs"
 duration: "6:21:25"
-views: 5976
-likes: 244
+views: 6019
+likes: 246
 comments: 5
 ---
 # [⎡coding:13.1⎦ LeetCode: Решаем hard задачу: Design Cancellable Function + ответы на вопросы.](https://www.youtube.com/watch?v=z1COvf7QFOs)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.11.2023 21:30  
 **Тривалість:** 6:21:25  
-**Перегляди:** 5976 · **Лайки:** 244 · **Коментарі:** 5
+**Перегляди:** 6019 · **Лайки:** 246 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/z1COvf7QFOs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=z1COvf7QFOs)

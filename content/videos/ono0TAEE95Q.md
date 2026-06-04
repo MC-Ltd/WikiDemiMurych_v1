@@ -4,8 +4,8 @@ date: 2023-09-04
 tags: []
 videoId: "ono0TAEE95Q"
 duration: "3:23:20"
-views: 1196
-likes: 54
+views: 1208
+likes: 56
 comments: 6
 ---
 # [⎡coding: 03⎦   JavaScript Live Coding. Кодинга тут нет. Морзе тоже. Только трындеж.](https://www.youtube.com/watch?v=ono0TAEE95Q)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.09.2023 19:20  
 **Тривалість:** 3:23:20  
-**Перегляди:** 1196 · **Лайки:** 54 · **Коментарі:** 6
+**Перегляди:** 1208 · **Лайки:** 56 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/ono0TAEE95Q/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ono0TAEE95Q)

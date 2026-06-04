@@ -4,8 +4,8 @@ date: 2023-12-02
 tags: []
 videoId: "n79z4l2Qrp4"
 duration: "2:13:53"
-views: 3776
-likes: 170
+views: 3805
+likes: 176
 comments: 21
 ---
 # [⎡devices:03⎦ JavaScript инструменты: Байт-код V8 часть 2](https://www.youtube.com/watch?v=n79z4l2Qrp4)
@@ -13,7 +13,7 @@ comments: 21
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 02.12.2023 02:30  
 **Тривалість:** 2:13:53  
-**Перегляди:** 3776 · **Лайки:** 170 · **Коментарі:** 21
+**Перегляди:** 3805 · **Лайки:** 176 · **Коментарі:** 21
 ![thumbnail](https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=n79z4l2Qrp4)

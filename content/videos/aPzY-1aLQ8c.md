@@ -4,8 +4,8 @@ date: 2023-06-10
 tags: []
 videoId: "aPzY-1aLQ8c"
 duration: "2:06:19"
-views: 1723
-likes: 71
+views: 1734
+likes: 76
 comments: 14
 ---
 # [⎡msk⎦ Обзор на JavaScript видео "Подсвечиваем НЕ ЛАТИНСКИЕ СИМВОЛы в коде и тексте"](https://www.youtube.com/watch?v=aPzY-1aLQ8c)
@@ -13,7 +13,7 @@ comments: 14
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.06.2023 00:48  
 **Тривалість:** 2:06:19  
-**Перегляди:** 1723 · **Лайки:** 71 · **Коментарі:** 14
+**Перегляди:** 1734 · **Лайки:** 76 · **Коментарі:** 14
 ![thumbnail](https://i.ytimg.com/vi/aPzY-1aLQ8c/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=aPzY-1aLQ8c)

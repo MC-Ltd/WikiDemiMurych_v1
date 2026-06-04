@@ -4,8 +4,8 @@ date: 2025-07-18
 tags: ["perf", "11", "computational", "complexity", "v8"]
 videoId: "Qfi0_0w0dsM"
 duration: "5:11:05"
-views: 4768
-likes: 156
+views: 4826
+likes: 160
 comments: 10
 ---
 # [Практика и теория сложности алгоритмов в контексте языка JavaScript](https://www.youtube.com/watch?v=Qfi0_0w0dsM)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 18.07.2025 00:25  
 **Тривалість:** 5:11:05  
-**Перегляди:** 4768 · **Лайки:** 156 · **Коментарі:** 10
+**Перегляди:** 4826 · **Лайки:** 160 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/Qfi0_0w0dsM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Qfi0_0w0dsM)

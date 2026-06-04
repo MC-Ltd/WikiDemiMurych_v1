@@ -4,8 +4,8 @@ date: 2025-07-07
 tags: ["reverse", "2", "js", "GoogleDocs"]
 videoId: "2zKya01zYK4"
 duration: "5:49:58"
-views: 4862
-likes: 148
+views: 4898
+likes: 154
 comments: 17
 ---
 # [Глазами реверс-инженера: Google Docs Internals](https://www.youtube.com/watch?v=2zKya01zYK4)
@@ -13,7 +13,7 @@ comments: 17
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.07.2025 00:04  
 **Тривалість:** 5:49:58  
-**Перегляди:** 4862 · **Лайки:** 148 · **Коментарі:** 17
+**Перегляди:** 4898 · **Лайки:** 154 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/2zKya01zYK4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=2zKya01zYK4)

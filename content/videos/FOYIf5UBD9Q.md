@@ -4,16 +4,16 @@ date: 2021-11-14
 tags: []
 videoId: "FOYIf5UBD9Q"
 duration: "1:07:54"
-views: 96484
-likes: 3175
-comments: 408
+views: 96798
+likes: 3172
+comments: 401
 ---
 # [ТОП 5 JavaScript Мифов, или Вы не знаете JavaScript.](https://www.youtube.com/watch?v=FOYIf5UBD9Q)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.11.2021 17:29  
 **Тривалість:** 1:07:54  
-**Перегляди:** 96484 · **Лайки:** 3175 · **Коментарі:** 408
+**Перегляди:** 96798 · **Лайки:** 3172 · **Коментарі:** 401
 ![thumbnail](https://i.ytimg.com/vi/FOYIf5UBD9Q/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=FOYIf5UBD9Q)
@@ -25,7 +25,7 @@ comments: 408
 - [00:20:02](https://www.youtube.com/watch?v=FOYIf5UBD9Q&t=1202)   3 место - миф о том, что For быстрее Reduce Map и прочих FP методов
 - [00:30:42](https://www.youtube.com/watch?v=FOYIf5UBD9Q&t=1842)   2 место - миф о том, что в JavaScript есть ошибка, из-за которой Null это обьект,  а typeof возвращает типы данных
 - [00:43:00](https://www.youtube.com/watch?v=FOYIf5UBD9Q&t=2580)   1 место - миф о том что var устарел
-## Коментарі (227 · відповідей: 181)
+## Коментарі (225 · відповідей: 176)
 
 **[@BuggsSunny](https://www.youtube.com/channel/UCP7Bf0IdWwgo4UVi-jXDQ4A)** *[14.11.2021 09:11](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugy2uE5oVXOfdWcxmap4AaABAg) · 👍 1*
 
@@ -96,7 +96,7 @@ awesome
 
 ---
 
-**[@aleksandr2245](https://www.youtube.com/channel/UCk_nD0EDscNtiWPaJgRPPGw)** *[16.12.2021 22:09](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgzjOrahemQoz59lU3R4AaABAg) · 👍 31*
+**[@aleksandr2245](https://www.youtube.com/channel/UCk_nD0EDscNtiWPaJgRPPGw)** *[16.12.2021 22:09](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgzjOrahemQoz59lU3R4AaABAg) · 👍 32*
 
 открыл для себя замечательный материал, для того чтобы смотреть перед сном, а когда вырубаюсь начинается самое инетерсное - обучение во сне путём воздействия слов Мурыча на подсознание
 
@@ -429,7 +429,7 @@ awesome
 
 Это же каим душнилой надо быть, какой же пресной и скучной должна быть жизнь у человека, чтобы заниматься высосанной из пальца формализацией и буквоедством? Жесть просто, просто жесть. Я вам вот гарантирую, что если вы начнете на собеседовании отвечать в соответсвии с полученными знаниями от докладчика, то в 9 случаях из 10 вы закопаете себя в диалектическом поносе формальных терминов и определений, запутаетесь и провалите собес. Никому не нужны голые академические знание, работадателю нужны люди, умеющие решать практические задачи в разумные временные сроки, а не теоретики, жонглирующие словесным каламбуром.
 
-> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[23.09.2023 01:31](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwIvoan6OBzUKlM_AB4AaABAg.9uys9YbsdLg9uzXHprOe7B) (ред. 23.09.2023 01:33) · 👍 121*
+> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[23.09.2023 01:31](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwIvoan6OBzUKlM_AB4AaABAg.9uys9YbsdLg9uzXHprOe7B) (ред. 23.09.2023 01:33) · 👍 120*
 
 > >Это же каим душнилой надо быть
 > Вооооооооооооооооооооооооооооооооот таким.
@@ -623,7 +623,7 @@ awesome
 
 ---
 
-**[@TrayHardPlay](https://www.youtube.com/channel/UCGIfIWIRX7q39CTnm41gJpw)** *[26.11.2023 13:15](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgweSfi6gm0ugy-9l7t4AaABAg) · 👍 178*
+**[@TrayHardPlay](https://www.youtube.com/channel/UCGIfIWIRX7q39CTnm41gJpw)** *[26.11.2023 13:15](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgweSfi6gm0ugy-9l7t4AaABAg) · 👍 179*
 
 Лайкаем, чтобы выбилось в топ и остальным помогло
 4:16 - 5 место - "Примитивные типы данных", передача "по значению"
@@ -932,7 +932,7 @@ const/let/var: const - это значит что переменная буде�
 
 ---
 
-**[@whalecoding](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[04.12.2023 16:13](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgyvggkPBMw58tuer_F4AaABAg)*
+**[@luqpubgmobile](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[04.12.2023 16:13](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgyvggkPBMw58tuer_F4AaABAg)*
 
 псевдомногопоточный....
 
@@ -987,7 +987,7 @@ console.log(x instanceof Object.prototype.constructor); // false
 
 ---
 
-**[@whalecoding](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[05.12.2023 19:45](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwpyVv-PFJLp2CpOLN4AaABAg)*
+**[@luqpubgmobile](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[05.12.2023 19:45](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwpyVv-PFJLp2CpOLN4AaABAg)*
 
 Спору нет шаришь ты классно, только ты выбрал позицию бунтарство, чтобы набрать себе популярность, наверняка чувствуешь злобу и пытаешься противостоять всем устоям, типичный комплекс казаться лучшим. Тебе говорят белое - ты черное, тебе черное - ты белое. Поэтому ты и пытаешься выкрутить все и осквернять все. А по факту, js - не многопоточный язык.
 
@@ -1062,7 +1062,7 @@ null >= 0 //true
 
 ---
 
-**[@AvigdorKatz](https://www.youtube.com/channel/UCk6X3w_IO90tJpulmBkPE9w)** *[06.12.2023 17:42](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugw7sd6mAscR3rCvDKx4AaABAg) (ред. 29.12.2023 05:14) · 👍 22*
+**[@AvigdorKatz](https://www.youtube.com/channel/UCk6X3w_IO90tJpulmBkPE9w)** *[06.12.2023 17:42](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugw7sd6mAscR3rCvDKx4AaABAg) (ред. 29.12.2023 05:14) · 👍 23*
 
 Спасибо за небанальный контент по JavaScript. Рад, что натолкнулся на ваш канал, обязательно ознакомлюсь с остальными топиками погружающими в суть внутреннего устройства и механизмов языка.  
 
@@ -1099,7 +1099,7 @@ null >= 0 //true
 
 ---
 
-**[@whalecoding](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[07.12.2023 07:22](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugws0LUGEy1YjQoUYuF4AaABAg)*
+**[@luqpubgmobile](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[07.12.2023 07:22](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugws0LUGEy1YjQoUYuF4AaABAg)*
 
 И кстати, в спецификации написано про примитивы
 
@@ -1168,7 +1168,7 @@ null >= 0 //true
 
 ---
 
-**[@Maksym-e6e](https://www.youtube.com/channel/UC90-o-7ctHLaADL_P-OE5Rg)** *[08.12.2023 19:37](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugz7YnxVcfP63AirSed4AaABAg)*
+**[@MaksBornI](https://www.youtube.com/channel/UC90-o-7ctHLaADL_P-OE5Rg)** *[08.12.2023 19:37](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugz7YnxVcfP63AirSed4AaABAg)*
 
 блин, ты крутой. ,Очень зашло твое понимание и подача.  Я пока только слепой набор осилил грубо говоря)))
 
@@ -1432,7 +1432,7 @@ Javascript это как крошки в бороде.
 
 ---
 
-**[@IlliaVaspiakou](https://www.youtube.com/channel/UCkyJqWnI8uNe1TM_EopD_-w)** *[14.12.2023 12:40](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugz6k8mI4_Mt5LeGBlh4AaABAg) · 👍 10*
+**[@IlliaVaspiakou](https://www.youtube.com/channel/UCkyJqWnI8uNe1TM_EopD_-w)** *[14.12.2023 12:40](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugz6k8mI4_Mt5LeGBlh4AaABAg) · 👍 11*
 
 Гилфойл решил пояснить за JavaScript
 
@@ -2130,38 +2130,6 @@ JS вообще недавно только головку поднял, что 
 
 ---
 
-**[@Куре-Филятины](https://www.youtube.com/channel/UCRW4afPQjUrj5P0kl1j3VJg)** *[04.02.2024 23:56](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwikuOBsdzlztG9AuV4AaABAg) (ред. 04.02.2024 23:58) · 👍 1*
-
-Я проверил for и reduce, но без "цикла в цикле". Просто создал массив на несколько миллионов элементов и проссумировал их через фор и через reduce. Там где reduce показывает порядка 78-80 мс - for справляется за 12-14 мс.
-Но если цикл в цикле сделать как у вас, то for внутри for выполняется действительно дольше чем reduce внутри for примерно на 35%.
-Не могу сообразить отчего так:) Может у вас есть мысли по поводу?
-Мерять начинал уже после создания массива.
-
-> **[@Куре-Филятины](https://www.youtube.com/channel/UCRW4afPQjUrj5P0kl1j3VJg)** *[14.02.2024 09:35](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwikuOBsdzlztG9AuV4AaABAg.A-PyoqbL7C8A-nBBqX7nuK) (ред. 18.04.2024 02:05)*
-
-> @404Negative не часто. От частоты использования как-то скорость выполнения зависит? :)
-
-> **[@Куре-Филятины](https://www.youtube.com/channel/UCRW4afPQjUrj5P0kl1j3VJg)** *[14.02.2024 21:24](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwikuOBsdzlztG9AuV4AaABAg.A-PyoqbL7C8A-oSHG2qyGG) (ред. 18.04.2024 02:05)*
-
-> @404Negative я где-то писал, что использую reduce часто? Или редко? К чему твои вопросы? Как они относятся к скорости выполнения конкретного кода?
-
-> **[@Куре-Филятины](https://www.youtube.com/channel/UCRW4afPQjUrj5P0kl1j3VJg)** *[14.02.2024 21:52](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwikuOBsdzlztG9AuV4AaABAg.A-PyoqbL7C8A-oVZjb_rkG) (ред. 18.04.2024 02:05) · 👍 1*
-
-> @404Negative как то, что я использую  с некой частотой или не использую вовсе  коррелирует со скоростью выполнения конкретного примера, который привел автор в своем видео?
-
-> **[@Watozarato](https://www.youtube.com/channel/UC0f-TKFbfRF_PaYbA95TkBA)** *[27.03.2024 15:13](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwikuOBsdzlztG9AuV4AaABAg.A-PyoqbL7C8A1UwD0E2-d0)*
-
-> Весьма интересный вопрос, кст.
-> Буквально секунду назад сделал проверку на скорость var и let.
-> И вот.. Если "тест" проводить на через функцию, а циклом, то let быстрее:/
-
-> **[@MAVrikrrr](https://www.youtube.com/channel/UCgJXttF0BjUKw-R5OxRRHBA)** *[14.06.2024 07:42](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgwikuOBsdzlztG9AuV4AaABAg.A-PyoqbL7C8A4eYUCDJOWz)*
-
-> Попробуй ещё for делать не через итератор, а напрямую for (var item of items) { ... } 
-> А потом ещё попробуй вместо массива из чисел использовать массив объектов.
-
----
-
 **[@lawlietmester4446](https://www.youtube.com/channel/UCqosM1I3V2-PuTv9B-qA0Cw)** *[05.02.2024 09:15](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgytzVMrHKEgm5tp_BB4AaABAg)*
 
 Огонь, выходит гугловые Джеймс Арчибальд и Сурьма не шарят в JS
@@ -2210,7 +2178,7 @@ JS вообще недавно только головку поднял, что 
 
 ---
 
-**[@llyaSher](https://www.youtube.com/channel/UCG-CmcwqxRcqkAV4FLji1qA)** *[15.02.2024 18:41](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugzlb5uty-wBdCVm9Ot4AaABAg) · 👍 1*
+**[@ilya-shr](https://www.youtube.com/channel/UCG-CmcwqxRcqkAV4FLji1qA)** *[15.02.2024 18:41](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugzlb5uty-wBdCVm9Ot4AaABAg) · 👍 1*
 
 Гилфойл дело говорит
 
@@ -2364,12 +2332,6 @@ JS вообще недавно только головку поднял, что 
 
 ---
 
-**[@cleverscript](https://www.youtube.com/channel/UC9ZfC6FH3gFnvH__TSzGLqA)** *[21.04.2024 19:26](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgyqyxUDCC-_F3OU_zt4AaABAg)*
-
-Выложите как вы эти тесты на скрипты написали на bash плз
-
----
-
 **[@serjradon3360](https://www.youtube.com/channel/UCOFohFG1kp1w61MA52eVJEg)** *[16.05.2024 01:52](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=UgxwiGD0lLZVA6jqHnV4AaABAg)*
 
 Я даже ещё не начинающий,и нихуа непонимаю почти. Только некоторые слова знакомы. -Но очень интересно!)
@@ -2415,7 +2377,7 @@ C'ét🔎it 🔎sseZ intéress🔎nt
 
 ---
 
-**[@Enasik](https://www.youtube.com/channel/UCWpzZ3HZKhypvdUFtp0MXIA)** *[13.06.2024 22:40](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugwc1plQXDHb2aEfJoB4AaABAg) · 👍 1*
+**[@Enasik](https://www.youtube.com/channel/UCWpzZ3HZKhypvdUFtp0MXIA)** *[13.06.2024 22:40](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugwc1plQXDHb2aEfJoB4AaABAg) · 👍 2*
 
 Javascript runtime - многопоточный, в то время как среда в javascript имеет однопоточный контекст выполнения (Single-Threaded Execution Context). JavaScript (т.е. код, выполняющийся в основном потоке браузера или среды Node.js) является однопоточным! Это означает, что код JavaScript выполняется построчно в одном потоке без параллельного выполнения в одном и том же контексте, в то время как среда выполнения может запускать что ей вздумается в отдельных потоках! тут воркеры не причем, хоть они и в отдельном потоке, тот же fetch в отдельном потоке выполняется - єто все не влияет на то что сам JS code base был и есть однопоточный!
 
@@ -2423,7 +2385,7 @@ Javascript runtime - многопоточный, в то время как ср�
 
 > вообще все слова лишние, достаточно написать хоть одну многопоточную программу на любом предназначенном для єтого язьіке.
 
-> **[@Enasik](https://www.youtube.com/channel/UCWpzZ3HZKhypvdUFtp0MXIA)** *[13.06.2024 22:54](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugwc1plQXDHb2aEfJoB4AaABAg.A4d_QexBrbTA4db2r1ye9Q) (ред. 13.06.2024 22:55) · 👍 1*
+> **[@Enasik](https://www.youtube.com/channel/UCWpzZ3HZKhypvdUFtp0MXIA)** *[13.06.2024 22:54](https://www.youtube.com/watch?v=FOYIf5UBD9Q&lc=Ugwc1plQXDHb2aEfJoB4AaABAg.A4d_QexBrbTA4db2r1ye9Q) (ред. 13.06.2024 22:55) · 👍 2*
 
 > PS: признаки многопотоковости:
 > - общая память и доступ к ней

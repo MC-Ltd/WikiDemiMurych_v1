@@ -4,8 +4,8 @@ date: 2021-11-16
 tags: []
 videoId: "esgflGn1rvA"
 duration: "22:27"
-views: 2658
-likes: 209
+views: 2680
+likes: 213
 comments: 12
 ---
 # [Эффективные приемы оптимизации JavaScript кода: числа.](https://www.youtube.com/watch?v=esgflGn1rvA)
@@ -13,7 +13,7 @@ comments: 12
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 16.11.2021 17:13  
 **Тривалість:** 22:27  
-**Перегляди:** 2658 · **Лайки:** 209 · **Коментарі:** 12
+**Перегляди:** 2680 · **Лайки:** 213 · **Коментарі:** 12
 ![thumbnail](https://i.ytimg.com/vi/esgflGn1rvA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=esgflGn1rvA)

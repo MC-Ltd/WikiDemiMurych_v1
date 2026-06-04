@@ -4,8 +4,8 @@ date: 2023-05-15
 tags: []
 videoId: "98mOkxRFHYA"
 duration: "16:01"
-views: 2071
-likes: 190
+views: 2084
+likes: 194
 comments: 23
 ---
 # [⎡msk⎦ JavaScript Destructuring Assignment или не все то золото что коротко пишется.](https://www.youtube.com/watch?v=98mOkxRFHYA)
@@ -13,7 +13,7 @@ comments: 23
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.05.2023 04:55  
 **Тривалість:** 16:01  
-**Перегляди:** 2071 · **Лайки:** 190 · **Коментарі:** 23
+**Перегляди:** 2084 · **Лайки:** 194 · **Коментарі:** 23
 ![thumbnail](https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=98mOkxRFHYA)

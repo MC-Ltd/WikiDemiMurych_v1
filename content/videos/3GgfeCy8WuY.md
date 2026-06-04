@@ -4,8 +4,8 @@ date: 2023-06-27
 tags: []
 videoId: "3GgfeCy8WuY"
 duration: "1:04:30"
-views: 5722
-likes: 272
+views: 5770
+likes: 276
 comments: 71
 ---
 # [⎡msk⎦ Разбираем видео:  "Сравнение языков программирования Java vs JavaScript"](https://www.youtube.com/watch?v=3GgfeCy8WuY)
@@ -13,7 +13,7 @@ comments: 71
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 27.06.2023 14:11  
 **Тривалість:** 1:04:30  
-**Перегляди:** 5722 · **Лайки:** 272 · **Коментарі:** 71
+**Перегляди:** 5770 · **Лайки:** 276 · **Коментарі:** 71
 ![thumbnail](https://i.ytimg.com/vi/3GgfeCy8WuY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=3GgfeCy8WuY)
@@ -136,13 +136,13 @@ comments: 71
 
 > @valeratarasenko4781 Скорее уж ребёнка clojure и CLR (C#)
 
-> **[@gtaplayer379](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[17.01.2024 07:53](https://www.youtube.com/watch?v=3GgfeCy8WuY&lc=Ugw0IsLGqs1HQS2Nhbt4AaABAg.9rTG40aPxGa9zeuHYPNq5L) (ред. 14.06.2024 00:54)*
+> **[@namenick123](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[17.01.2024 07:53](https://www.youtube.com/watch?v=3GgfeCy8WuY&lc=Ugw0IsLGqs1HQS2Nhbt4AaABAg.9rTG40aPxGa9zeuHYPNq5L) (ред. 14.06.2024 00:54)*
 
 > ​@AsForJSвы сказали, что у Java закат, а какой тогда язык программирования набирает обороты, какой лучше для enterprise и может и для других сфер тоже?
 
 > **[@fgdfgfvgdfgg5517](https://www.youtube.com/channel/UCrq2CDUuSZUtl9Wn10NEKrw)** *[15.05.2024 13:34](https://www.youtube.com/watch?v=3GgfeCy8WuY&lc=Ugw0IsLGqs1HQS2Nhbt4AaABAg.9rTG40aPxGaA3SvsiUHbKz)*
 
-> @gtaplayer379 golang(удачи)
+> @namenick123 golang(удачи)
 
 ---
 
@@ -329,7 +329,7 @@ Basic это семейство языков, если имелся в виду 
 
 ---
 
-**[@gtaplayer379](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[17.01.2024 08:39](https://www.youtube.com/watch?v=3GgfeCy8WuY&lc=Ugxh4QrTsSRChl6Is7l4AaABAg)*
+**[@namenick123](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[17.01.2024 08:39](https://www.youtube.com/watch?v=3GgfeCy8WuY&lc=Ugxh4QrTsSRChl6Is7l4AaABAg)*
 
 Спасибо вам, вы рассказали правду. Я слушал Немчинского, теперь буду слушать вас. Какой по вашему язык программирования проще изучить, python проще чем JavaScript?  Второй, как вы сказали, будет и дальше существовать, а как вам python?  Или какой функциональный  язык выбрать?
 
@@ -432,7 +432,7 @@ great video
 
 ---
 
-**[@justcallmehyde](https://www.youtube.com/channel/UCmodMcmaDmoFKXrWSvKtDXg)** *[22.10.2024 05:01](https://www.youtube.com/watch?v=3GgfeCy8WuY&lc=UgyXV919Hk2_Ued9wwx4AaABAg)*
+**[@hyde.youtub3](https://www.youtube.com/channel/UCmodMcmaDmoFKXrWSvKtDXg)** *[22.10.2024 05:01](https://www.youtube.com/watch?v=3GgfeCy8WuY&lc=UgyXV919Hk2_Ued9wwx4AaABAg)*
 
 добрый день. был ли у вас или планируется в будущем разбор языка Python. Видел только комментарий от вас, что это мертворожденный язык
 

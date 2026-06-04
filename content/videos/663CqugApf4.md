@@ -4,8 +4,8 @@ date: 2025-10-13
 tags: ["perf", "16", "v8", "osr", "javascript"]
 videoId: "663CqugApf4"
 duration: "3:56:53"
-views: 1450
-likes: 61
+views: 1480
+likes: 64
 comments: 3
 ---
 # [OSR (On-Stack Replacement) оптимизация в V8](https://www.youtube.com/watch?v=663CqugApf4)
@@ -13,7 +13,7 @@ comments: 3
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 13.10.2025 22:59  
 **Тривалість:** 3:56:53  
-**Перегляди:** 1450 · **Лайки:** 61 · **Коментарі:** 3
+**Перегляди:** 1480 · **Лайки:** 64 · **Коментарі:** 3
 ![thumbnail](https://i.ytimg.com/vi/663CqugApf4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=663CqugApf4)
@@ -82,7 +82,7 @@ while (theIterac--) {
 
 ---
 
-**[@Andrew-NaN](https://www.youtube.com/channel/UCvEyMg75ev6ICAbl2yxUBpg)** *[16.10.2025 11:23](https://www.youtube.com/watch?v=663CqugApf4&lc=UgzGavIC-j0RlHLZMm54AaABAg) (ред. 16.10.2025 14:58)*
+**[@Andrew-NaN](https://www.youtube.com/channel/UCvEyMg75ev6ICAbl2yxUBpg)** *[16.10.2025 11:23](https://www.youtube.com/watch?v=663CqugApf4&lc=UgzGavIC-j0RlHLZMm54AaABAg) (ред. 16.10.2025 14:58) · 👍 1*
 
 в Хроме 141.0.7390.77 показывает практически  одинаковый результат. В ноде то же. Код почти копия как у Мурыча. 
 

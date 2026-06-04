@@ -4,8 +4,8 @@ date: 2024-05-01
 tags: ["tthmjs", "0", "readyState", "drs"]
 videoId: "sj1VEnlEtQw"
 duration: "7:35"
-views: 4944
-likes: 120
+views: 4960
+likes: 124
 comments: 21
 ---
 # [Try to hack My JavaScript: readyState](https://www.youtube.com/watch?v=sj1VEnlEtQw)
@@ -13,7 +13,7 @@ comments: 21
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.05.2024 04:10  
 **Тривалість:** 7:35  
-**Перегляди:** 4944 · **Лайки:** 120 · **Коментарі:** 21
+**Перегляди:** 4960 · **Лайки:** 124 · **Коментарі:** 21
 ![thumbnail](https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=sj1VEnlEtQw)

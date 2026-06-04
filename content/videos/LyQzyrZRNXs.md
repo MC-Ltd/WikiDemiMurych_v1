@@ -4,20 +4,20 @@ date: 2021-10-10
 tags: []
 videoId: "LyQzyrZRNXs"
 duration: "3:06:37"
-views: 17680
-likes: 588
-comments: 171
+views: 17765
+likes: 589
+comments: 172
 ---
 # [Как одни фантазируют на тему типов в JavaScript ,  а другие с удовольствием верят в эти фантазии.](https://www.youtube.com/watch?v=LyQzyrZRNXs)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.10.2021 09:24  
 **Тривалість:** 3:06:37  
-**Перегляди:** 17680 · **Лайки:** 588 · **Коментарі:** 171
+**Перегляди:** 17765 · **Лайки:** 589 · **Коментарі:** 172
 ![thumbnail](https://i.ytimg.com/vi/LyQzyrZRNXs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=LyQzyrZRNXs)
-## Коментарі (81 · відповідей: 90)
+## Коментарі (81 · відповідей: 91)
 
 **[@DmytroShapovalovUA](https://www.youtube.com/channel/UC5L1MRBYsO1ocuEePNUEydw)** *[11.10.2021 18:13](https://www.youtube.com/watch?v=LyQzyrZRNXs&lc=Ugz52tWeo64pwFhFlz54AaABAg) · 👍 1*
 
@@ -1009,6 +1009,10 @@ https://youtu.be/LyQzyrZRNXs?t=3328 хороший пример, того что
 
 P.S.: от данной ахинеи у меня подгорело очень сильно.
 
+> **[@Watozarato](https://www.youtube.com/channel/UC0f-TKFbfRF_PaYbA95TkBA)** *[17.05.2026 20:37](https://www.youtube.com/watch?v=LyQzyrZRNXs&lc=UgwV7IjvvYsnTaiRx8R4AaABAg.9yZ9g2l-i71AWvXCcWzhFZ)*
+
+> 6.2.5 The Reference Record Specification Type
+
 ---
 
 **[@grip1720](https://www.youtube.com/channel/UCFIvyqQC5ByturccHLJUXOQ)** *[22.12.2023 09:46](https://www.youtube.com/watch?v=LyQzyrZRNXs&lc=UgwOIcNEF5EVjLhf1Fp4AaABAg)*
@@ -1287,7 +1291,7 @@ InitializeBinding он используется для установки при
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[22.10.2024 18:46](https://www.youtube.com/watch?v=LyQzyrZRNXs&lc=Ugw1aYSxIULIaz7e1NV4AaABAg) · 👍 1*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[22.10.2024 18:46](https://www.youtube.com/watch?v=LyQzyrZRNXs&lc=Ugw1aYSxIULIaz7e1NV4AaABAg) · 👍 1*
 
 Спасибо
 

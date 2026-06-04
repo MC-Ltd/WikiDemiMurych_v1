@@ -4,8 +4,8 @@ date: 2023-08-20
 tags: []
 videoId: "LMzNx-QHudU"
 duration: "4:47:30"
-views: 559
-likes: 24
+views: 561
+likes: 27
 comments: 2
 ---
 # [⎡msk⎦ ⎡talks: 06.2⎦ Live coding: Hall of flame](https://www.youtube.com/watch?v=LMzNx-QHudU)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 20.08.2023 09:23  
 **Тривалість:** 4:47:30  
-**Перегляди:** 559 · **Лайки:** 24 · **Коментарі:** 2
+**Перегляди:** 561 · **Лайки:** 27 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/LMzNx-QHudU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=LMzNx-QHudU)

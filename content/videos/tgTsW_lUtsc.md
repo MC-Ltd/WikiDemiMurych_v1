@@ -4,8 +4,8 @@ date: 2021-04-15
 tags: []
 videoId: "tgTsW_lUtsc"
 duration: "39:09"
-views: 1991
-likes: 123
+views: 2000
+likes: 125
 comments: 17
 ---
 # [Вторая часть про Зюзьку с перезаписью куска про Array](https://www.youtube.com/watch?v=tgTsW_lUtsc)
@@ -13,7 +13,7 @@ comments: 17
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.04.2021 19:41  
 **Тривалість:** 39:09  
-**Перегляди:** 1991 · **Лайки:** 123 · **Коментарі:** 17
+**Перегляди:** 2000 · **Лайки:** 125 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/tgTsW_lUtsc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=tgTsW_lUtsc)
@@ -100,7 +100,7 @@ comments: 17
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[18.10.2024 22:56](https://www.youtube.com/watch?v=tgTsW_lUtsc&lc=UgwXzk82ckhkOgR4GaR4AaABAg) (ред. 18.10.2024 22:58)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[18.10.2024 22:56](https://www.youtube.com/watch?v=tgTsW_lUtsc&lc=UgwXzk82ckhkOgR4GaR4AaABAg) (ред. 18.10.2024 22:58)*
 
 Для длины массива 100000000 быстрее будет const a = [];, а для длины 10000000 и 10000000 итераций быстрее будет const a = Array(10000000). Очень интересно. Интересно так же понять, какое количество итераций будет выигрышным условно для большинства пользователей. 
 

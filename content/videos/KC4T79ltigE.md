@@ -4,16 +4,16 @@ date: 2025-11-15
 tags: ["coding", "18", "ECMASite"]
 videoId: "KC4T79ltigE"
 duration: "6:16:20"
-views: 3096
-likes: 81
-comments: 10
+views: 3137
+likes: 85
+comments: 11
 ---
 # [Live Coding: Учим жуков говорить](https://www.youtube.com/watch?v=KC4T79ltigE)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.11.2025 00:14  
 **Тривалість:** 6:16:20  
-**Перегляди:** 3096 · **Лайки:** 81 · **Коментарі:** 10
+**Перегляди:** 3137 · **Лайки:** 85 · **Коментарі:** 11
 ![thumbnail](https://i.ytimg.com/vi/KC4T79ltigE/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=KC4T79ltigE)
@@ -49,7 +49,7 @@ comments: 10
 - [04:21:20](https://www.youtube.com/watch?v=KC4T79ltigE&t=15680)   Гипотеза как это работает, дальше непереводимая игра слов, рвет сидалище и вырубается свет
 - [04:42:28](https://www.youtube.com/watch?v=KC4T79ltigE&t=16948)   Выводы
 - [04:56:37](https://www.youtube.com/watch?v=KC4T79ltigE&t=17797)   Дальше Мурыч решил поиграть в старые игры...
-## Коментарі (8 · відповідей: 2)
+## Коментарі (9 · відповідей: 2)
 
 **[@kulbaev_zh](https://www.youtube.com/channel/UCHD-xa058Ic5cAgdylFYc1w)** *[15.11.2025 01:56](https://www.youtube.com/watch?v=KC4T79ltigE&lc=UgxzvlruQC2qRBzqF1B4AaABAg) · 👍 2*
 
@@ -132,5 +132,11 @@ comments: 10
 **[@Чинчопа-ы3з](https://www.youtube.com/channel/UCccghX1oXT-jbgr6uTzYusg)** *[29.01.2026 21:22](https://www.youtube.com/watch?v=KC4T79ltigE&lc=UgzZ0WbZSmd4b15Ko2p4AaABAg)*
 
 а чё тут за жуки?
+
+---
+
+**[@alexperemey6046](https://www.youtube.com/channel/UCchNS6618CdinWR5iznDcAQ)** *[09.05.2026 10:43](https://www.youtube.com/watch?v=KC4T79ltigE&lc=UgwvRPFg9VQHAqco6aB4AaABAg)*
+
+У Японии не было сложной судьбы??? А ничего, что им американцы ядерку сбросили? Украину это только ждёт.
 
 ---

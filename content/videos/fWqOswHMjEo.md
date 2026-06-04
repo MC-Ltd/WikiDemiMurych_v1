@@ -4,8 +4,8 @@ date: 2024-04-06
 tags: []
 videoId: "fWqOswHMjEo"
 duration: "3:04:30"
-views: 6127
-likes: 241
+views: 6167
+likes: 244
 comments: 29
 ---
 # [Производительность JavaScript Array в V8. ⎡perf:5⎦](https://www.youtube.com/watch?v=fWqOswHMjEo)
@@ -13,7 +13,7 @@ comments: 29
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 06.04.2024 12:11  
 **Тривалість:** 3:04:30  
-**Перегляди:** 6127 · **Лайки:** 241 · **Коментарі:** 29
+**Перегляди:** 6167 · **Лайки:** 244 · **Коментарі:** 29
 ![thumbnail](https://i.ytimg.com/vi/fWqOswHMjEo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=fWqOswHMjEo)

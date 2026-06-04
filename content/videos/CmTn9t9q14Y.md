@@ -4,8 +4,8 @@ date: 2023-10-16
 tags: []
 videoId: "CmTn9t9q14Y"
 duration: "5:38:22"
-views: 1850
-likes: 59
+views: 1855
+likes: 63
 comments: 6
 ---
 # [⎡coding: 09⎦   JavaScript Live Coding: Proxy - Или костоломы возвращаются](https://www.youtube.com/watch?v=CmTn9t9q14Y)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 16.10.2023 00:06  
 **Тривалість:** 5:38:22  
-**Перегляди:** 1850 · **Лайки:** 59 · **Коментарі:** 6
+**Перегляди:** 1855 · **Лайки:** 63 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/CmTn9t9q14Y/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=CmTn9t9q14Y)
@@ -59,7 +59,7 @@ comments: 6
 - [05:36:00](https://www.youtube.com/watch?v=CmTn9t9q14Y&t=20160)   Завершаем
 ## Коментарі (3 · відповідей: 3)
 
-**[@artembunichev](https://www.youtube.com/channel/UCQ2webi-UGbjyWm3QKjXhtQ)** *[16.10.2023 09:35](https://www.youtube.com/watch?v=CmTn9t9q14Y&lc=Ugx7LFkHMkxkBeKClc14AaABAg)*
+**[@temcbun](https://www.youtube.com/channel/UCQ2webi-UGbjyWm3QKjXhtQ)** *[16.10.2023 09:35](https://www.youtube.com/watch?v=CmTn9t9q14Y&lc=Ugx7LFkHMkxkBeKClc14AaABAg)*
 
 А возможно ли в JS перехватывать вызов всех функций?
 Пример: при вызове любой функции выводить сообщение в консоль :

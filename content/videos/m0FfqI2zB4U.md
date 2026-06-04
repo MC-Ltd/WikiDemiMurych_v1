@@ -4,8 +4,8 @@ date: 2023-12-31
 tags: []
 videoId: "m0FfqI2zB4U"
 duration: "5:40:08"
-views: 2766
-likes: 75
+views: 2771
+likes: 79
 comments: 24
 ---
 # [⎡talks:13-2⎦ Новый год, итоги, гости в студии](https://www.youtube.com/watch?v=m0FfqI2zB4U)
@@ -13,7 +13,7 @@ comments: 24
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 31.12.2023 05:04  
 **Тривалість:** 5:40:08  
-**Перегляди:** 2766 · **Лайки:** 75 · **Коментарі:** 24
+**Перегляди:** 2771 · **Лайки:** 79 · **Коментарі:** 24
 ![thumbnail](https://i.ytimg.com/vi/m0FfqI2zB4U/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=m0FfqI2zB4U)
@@ -38,7 +38,7 @@ comments: 24
 - [05:37:00](https://www.youtube.com/watch?v=m0FfqI2zB4U&t=20220)   Ответы на вопросы
 ## Коментарі (12 · відповідей: 12)
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[31.12.2023 08:26](https://www.youtube.com/watch?v=m0FfqI2zB4U&lc=UgyymxOF0eD4OoN55Zx4AaABAg)*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[31.12.2023 08:26](https://www.youtube.com/watch?v=m0FfqI2zB4U&lc=UgyymxOF0eD4OoN55Zx4AaABAg)*
 
 Блин мне нужен такой преподаватель программирования, вот если бы мне так в голову вбивали знания))
 
@@ -54,11 +54,11 @@ comments: 24
 
 > @circumflex4681 Я конечно могу понять, что уровень опыта и интеллекта человека не позволяет тебе понимать то, что ты слышишь. Но я не могу понять, откуда у тебя жгучее желание то, что ты не можешь осознать называть "бреднями" ?
 
-> **[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[03.01.2024 19:30](https://www.youtube.com/watch?v=m0FfqI2zB4U&lc=UgyymxOF0eD4OoN55Zx4AaABAg.9yzBWctY1bL9z75uSrzVc1) (ред. 13.06.2024 21:27) · 👍 1*
+> **[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[03.01.2024 19:30](https://www.youtube.com/watch?v=m0FfqI2zB4U&lc=UgyymxOF0eD4OoN55Zx4AaABAg.9yzBWctY1bL9z75uSrzVc1) (ред. 13.06.2024 21:27) · 👍 1*
 
 > @самурай23456 если бы меня так подчеркнуто останавливали и язвительно говорили что и где я не так сказал, я бы точно запоминал это на всю жизнь))
 
-> **[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[03.01.2024 19:31](https://www.youtube.com/watch?v=m0FfqI2zB4U&lc=UgyymxOF0eD4OoN55Zx4AaABAg.9yzBWctY1bL9z761wLJc4P) (ред. 13.06.2024 21:27)*
+> **[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[03.01.2024 19:31](https://www.youtube.com/watch?v=m0FfqI2zB4U&lc=UgyymxOF0eD4OoN55Zx4AaABAg.9yzBWctY1bL9z761wLJc4P) (ред. 13.06.2024 21:27)*
 
 > @circumflex4681 я бредней не услышал, но когда Мурыч кричит СПЕЦИФИКАЦИЯ я просто ложусь от смеха))
 

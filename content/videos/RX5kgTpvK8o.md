@@ -4,8 +4,8 @@ date: 2025-02-14
 tags: ["sobes", "20", "js", "javascript-questions.vercel.app", "part2"]
 videoId: "RX5kgTpvK8o"
 duration: "4:15:34"
-views: 3224
-likes: 103
+views: 3263
+likes: 107
 comments: 4
 ---
 # [Решаем 155 задачек - вторая часть](https://www.youtube.com/watch?v=RX5kgTpvK8o)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.02.2025 05:00  
 **Тривалість:** 4:15:34  
-**Перегляди:** 3224 · **Лайки:** 103 · **Коментарі:** 4
+**Перегляди:** 3263 · **Лайки:** 107 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/RX5kgTpvK8o/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=RX5kgTpvK8o)

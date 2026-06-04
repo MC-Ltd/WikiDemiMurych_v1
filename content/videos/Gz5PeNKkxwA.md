@@ -4,8 +4,8 @@ date: 2025-10-31
 tags: ["choropaha", "js", "00", "spread", "rest"]
 videoId: "Gz5PeNKkxwA"
 duration: "2:16:19"
-views: 2172
-likes: 93
+views: 2233
+likes: 97
 comments: 2
 ---
 # [Выражаем себя через Rest и Spread](https://www.youtube.com/watch?v=Gz5PeNKkxwA)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 31.10.2025 22:21  
 **Тривалість:** 2:16:19  
-**Перегляди:** 2172 · **Лайки:** 93 · **Коментарі:** 2
+**Перегляди:** 2233 · **Лайки:** 97 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Gz5PeNKkxwA)

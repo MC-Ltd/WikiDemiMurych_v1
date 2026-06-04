@@ -4,8 +4,8 @@ date: 2025-11-12
 tags: ["coding", "18", "ECMASite"]
 videoId: "Wz0Lh0dEyyc"
 duration: "5:04:21"
-views: 2958
-likes: 82
+views: 2982
+likes: 83
 comments: 7
 ---
 # [Live Coding: Красим жуков](https://www.youtube.com/watch?v=Wz0Lh0dEyyc)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 12.11.2025 00:03  
 **Тривалість:** 5:04:21  
-**Перегляди:** 2958 · **Лайки:** 82 · **Коментарі:** 7
+**Перегляди:** 2982 · **Лайки:** 83 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/Wz0Lh0dEyyc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Wz0Lh0dEyyc)

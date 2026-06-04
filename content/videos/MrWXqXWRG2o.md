@@ -4,8 +4,8 @@ date: 2024-02-17
 tags: []
 videoId: "MrWXqXWRG2o"
 duration: "2:46:55"
-views: 7511
-likes: 357
+views: 7544
+likes: 364
 comments: 38
 ---
 # [⎡dlgs:4⎦ JavaScript и HTML5 или семантическая верстка для бородатеньких](https://www.youtube.com/watch?v=MrWXqXWRG2o)
@@ -13,7 +13,7 @@ comments: 38
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.02.2024 00:00  
 **Тривалість:** 2:46:55  
-**Перегляди:** 7511 · **Лайки:** 357 · **Коментарі:** 38
+**Перегляди:** 7544 · **Лайки:** 364 · **Коментарі:** 38
 ![thumbnail](https://i.ytimg.com/vi/MrWXqXWRG2o/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=MrWXqXWRG2o)

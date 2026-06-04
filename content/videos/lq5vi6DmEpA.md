@@ -4,8 +4,8 @@ date: 2023-09-07
 tags: []
 videoId: "lq5vi6DmEpA"
 duration: "3:47:10"
-views: 8361
-likes: 268
+views: 8491
+likes: 274
 comments: 36
 ---
 # [⎡JSbook: 02.03⎦   JavaScript: От мифов к спецификации. Выражения](https://www.youtube.com/watch?v=lq5vi6DmEpA)
@@ -13,7 +13,7 @@ comments: 36
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.09.2023 11:06  
 **Тривалість:** 3:47:10  
-**Перегляди:** 8361 · **Лайки:** 268 · **Коментарі:** 36
+**Перегляди:** 8491 · **Лайки:** 274 · **Коментарі:** 36
 ![thumbnail](https://i.ytimg.com/vi/lq5vi6DmEpA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=lq5vi6DmEpA)

@@ -4,8 +4,8 @@ date: 2023-11-29
 tags: []
 videoId: "oDUPhZuyam0"
 duration: "4:51:25"
-views: 6932
-likes: 222
+views: 6952
+likes: 224
 comments: 13
 ---
 # [⎡coding:14⎦ LeetCode: Решаем hard задачи, отвечаем на вопросы.](https://www.youtube.com/watch?v=oDUPhZuyam0)
@@ -13,7 +13,7 @@ comments: 13
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.11.2023 03:11  
 **Тривалість:** 4:51:25  
-**Перегляди:** 6932 · **Лайки:** 222 · **Коментарі:** 13
+**Перегляди:** 6952 · **Лайки:** 224 · **Коментарі:** 13
 ![thumbnail](https://i.ytimg.com/vi/oDUPhZuyam0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=oDUPhZuyam0)

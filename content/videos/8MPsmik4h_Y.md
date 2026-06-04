@@ -4,8 +4,8 @@ date: 2025-08-23
 tags: ["seo", "2", "html5", "css", "perf", "lighthouse", "dropDown"]
 videoId: "8MPsmik4h_Y"
 duration: "3:03:09"
-views: 3366
-likes: 130
+views: 3496
+likes: 134
 comments: 16
 ---
 # [Как LightHouse оценивает ваш HTML и CSS с точки зрения производительности](https://www.youtube.com/watch?v=8MPsmik4h_Y)
@@ -13,7 +13,7 @@ comments: 16
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 23.08.2025 22:41  
 **Тривалість:** 3:03:09  
-**Перегляди:** 3366 · **Лайки:** 130 · **Коментарі:** 16
+**Перегляди:** 3496 · **Лайки:** 134 · **Коментарі:** 16
 ![thumbnail](https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=8MPsmik4h_Y)

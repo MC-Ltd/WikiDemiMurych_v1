@@ -4,8 +4,8 @@ date: 2022-08-14
 tags: []
 videoId: "n_q_OHb0YOw"
 duration: "3:53:51"
-views: 3460
-likes: 138
+views: 3468
+likes: 140
 comments: 29
 ---
 # [Вечірня казка для маленьких ДжаваСкриптерів. V8, оптимізації та інше](https://www.youtube.com/watch?v=n_q_OHb0YOw)
@@ -13,7 +13,7 @@ comments: 29
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.08.2022 08:01  
 **Тривалість:** 3:53:51  
-**Перегляди:** 3460 · **Лайки:** 138 · **Коментарі:** 29
+**Перегляди:** 3468 · **Лайки:** 140 · **Коментарі:** 29
 ![thumbnail](https://i.ytimg.com/vi/n_q_OHb0YOw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=n_q_OHb0YOw)

@@ -4,8 +4,8 @@ date: 2023-10-24
 tags: []
 videoId: "5v32mDS7RjM"
 duration: "59:15"
-views: 2084
-likes: 56
+views: 2106
+likes: 60
 comments: 4
 ---
 # [⎡talks: 10⎦ Смотрим вместе: Все о Dart с Вячеслав Егоров AKA mraleph](https://www.youtube.com/watch?v=5v32mDS7RjM)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 24.10.2023 09:40  
 **Тривалість:** 59:15  
-**Перегляди:** 2084 · **Лайки:** 56 · **Коментарі:** 4
+**Перегляди:** 2106 · **Лайки:** 60 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/5v32mDS7RjM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=5v32mDS7RjM)

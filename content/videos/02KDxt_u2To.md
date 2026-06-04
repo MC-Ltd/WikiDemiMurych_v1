@@ -4,8 +4,8 @@ date: 2023-11-19
 tags: []
 videoId: "02KDxt_u2To"
 duration: "3:08:11"
-views: 3915
-likes: 166
+views: 3971
+likes: 169
 comments: 7
 ---
 # [⎡dlgs:01⎦   JavaScript Беседы: Service Worker-ы](https://www.youtube.com/watch?v=02KDxt_u2To)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.11.2023 10:49  
 **Тривалість:** 3:08:11  
-**Перегляди:** 3915 · **Лайки:** 166 · **Коментарі:** 7
+**Перегляди:** 3971 · **Лайки:** 169 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/02KDxt_u2To/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=02KDxt_u2To)

@@ -4,8 +4,8 @@ date: 2025-02-03
 tags: ["spec", "6", "js", "ecma", "object"]
 videoId: "6FqwosOqJCs"
 duration: "2:48:22"
-views: 6285
-likes: 263
+views: 6380
+likes: 271
 comments: 17
 ---
 # [Что такое Object в JavaScript согласно официальной спецификации.](https://www.youtube.com/watch?v=6FqwosOqJCs)
@@ -13,7 +13,7 @@ comments: 17
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 03.02.2025 19:57  
 **Тривалість:** 2:48:22  
-**Перегляди:** 6285 · **Лайки:** 263 · **Коментарі:** 17
+**Перегляди:** 6380 · **Лайки:** 271 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/6FqwosOqJCs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=6FqwosOqJCs)

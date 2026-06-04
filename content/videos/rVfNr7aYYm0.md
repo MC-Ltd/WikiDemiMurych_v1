@@ -4,8 +4,8 @@ date: 2025-09-21
 tags: ["reverse", "04", "js", "shaiHulud"]
 videoId: "rVfNr7aYYm0"
 duration: "1:33:38"
-views: 3411
-likes: 146
+views: 3481
+likes: 151
 comments: 10
 ---
 # [Глазами реверс-инженера: npm червь Shai-Hulud](https://www.youtube.com/watch?v=rVfNr7aYYm0)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.09.2025 02:39  
 **Тривалість:** 1:33:38  
-**Перегляди:** 3411 · **Лайки:** 146 · **Коментарі:** 10
+**Перегляди:** 3481 · **Лайки:** 151 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/rVfNr7aYYm0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=rVfNr7aYYm0)
@@ -72,7 +72,7 @@ LLM injection :)
 
 ---
 
-**[@vladhutych6451](https://www.youtube.com/channel/UCg1uSMKSPSAGPlw84KnKiNg)** *[23.09.2025 13:26](https://www.youtube.com/watch?v=rVfNr7aYYm0&lc=UgzSAOoeV0ioMrePszl4AaABAg)*
+**[@fnshunfun](https://www.youtube.com/channel/UCg1uSMKSPSAGPlw84KnKiNg)** *[23.09.2025 13:26](https://www.youtube.com/watch?v=rVfNr7aYYm0&lc=UgzSAOoeV0ioMrePszl4AaABAg)*
 
 Він був створений чисто для пафосної назви
 

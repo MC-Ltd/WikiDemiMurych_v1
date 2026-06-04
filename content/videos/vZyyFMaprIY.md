@@ -4,8 +4,8 @@ date: 2023-06-14
 tags: []
 videoId: "vZyyFMaprIY"
 duration: "32:28"
-views: 2459
-likes: 172
+views: 2477
+likes: 176
 comments: 8
 ---
 # [⎡msk⎦⎡RegExp⎦⎡02⎦ Регулярные 5ти минутки. Фундаментальная база JavaScript регулярных выражений](https://www.youtube.com/watch?v=vZyyFMaprIY)
@@ -13,7 +13,7 @@ comments: 8
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.06.2023 17:13  
 **Тривалість:** 32:28  
-**Перегляди:** 2459 · **Лайки:** 172 · **Коментарі:** 8
+**Перегляди:** 2477 · **Лайки:** 176 · **Коментарі:** 8
 ![thumbnail](https://i.ytimg.com/vi/vZyyFMaprIY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=vZyyFMaprIY)

@@ -4,8 +4,8 @@ date: 2023-06-16
 tags: []
 videoId: "bPo3KXcYYBg"
 duration: "1:11:34"
-views: 1544
-likes: 98
+views: 1558
+likes: 102
 comments: 13
 ---
 # [⎡msk⎦⎡RegExp⎦⎡04⎦ Базовые символьные классы в JavaScript регулярных выражениях.](https://www.youtube.com/watch?v=bPo3KXcYYBg)
@@ -13,7 +13,7 @@ comments: 13
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 16.06.2023 18:27  
 **Тривалість:** 1:11:34  
-**Перегляди:** 1544 · **Лайки:** 98 · **Коментарі:** 13
+**Перегляди:** 1558 · **Лайки:** 102 · **Коментарі:** 13
 ![thumbnail](https://i.ytimg.com/vi/bPo3KXcYYBg/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=bPo3KXcYYBg)

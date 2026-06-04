@@ -4,8 +4,8 @@ date: 2025-10-04
 tags: ["dlgs", "14", "js", "bragilevsky", "tumur", "paradigms"]
 videoId: "ES2NPqlDnek"
 duration: "3:02:31"
-views: 5053
-likes: 159
+views: 5121
+likes: 160
 comments: 53
 ---
 # [В живую с Виталий Николаевичем Брагилевским и Тимуром ибн Джафаром](https://www.youtube.com/watch?v=ES2NPqlDnek)
@@ -13,7 +13,7 @@ comments: 53
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.10.2025 18:11  
 **Тривалість:** 3:02:31  
-**Перегляди:** 5053 · **Лайки:** 159 · **Коментарі:** 53
+**Перегляди:** 5121 · **Лайки:** 160 · **Коментарі:** 53
 ![thumbnail](https://i.ytimg.com/vi/ES2NPqlDnek/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ES2NPqlDnek)

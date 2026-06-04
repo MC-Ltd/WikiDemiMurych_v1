@@ -4,8 +4,8 @@ date: 2023-05-10
 tags: []
 videoId: "aaoZm1yHCxw"
 duration: "1:01:23"
-views: 2637
-likes: 141
+views: 2689
+likes: 144
 comments: 21
 ---
 # [Logical Expression в javascript.  Разберемся на примерах. [RU] [JavaScript шорты]](https://www.youtube.com/watch?v=aaoZm1yHCxw)
@@ -13,7 +13,7 @@ comments: 21
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.05.2023 18:31  
 **Тривалість:** 1:01:23  
-**Перегляди:** 2637 · **Лайки:** 141 · **Коментарі:** 21
+**Перегляди:** 2689 · **Лайки:** 144 · **Коментарі:** 21
 ![thumbnail](https://i.ytimg.com/vi/aaoZm1yHCxw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=aaoZm1yHCxw)

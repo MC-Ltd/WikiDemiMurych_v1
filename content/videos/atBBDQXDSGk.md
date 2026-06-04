@@ -4,8 +4,8 @@ date: 2023-07-17
 tags: []
 videoId: "atBBDQXDSGk"
 duration: "2:42:51"
-views: 19341
-likes: 626
+views: 19439
+likes: 627
 comments: 159
 ---
 # [⎡msk⎦ Разбираем видео:  "Продвинутый JS (Григорий Бизюкин)"](https://www.youtube.com/watch?v=atBBDQXDSGk)
@@ -13,7 +13,7 @@ comments: 159
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.07.2023 22:19  
 **Тривалість:** 2:42:51  
-**Перегляди:** 19341 · **Лайки:** 626 · **Коментарі:** 159
+**Перегляди:** 19439 · **Лайки:** 627 · **Коментарі:** 159
 ![thumbnail](https://i.ytimg.com/vi/atBBDQXDSGk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=atBBDQXDSGk)

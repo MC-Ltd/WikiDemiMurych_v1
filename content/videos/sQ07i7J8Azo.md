@@ -4,8 +4,8 @@ date: 2023-11-23
 tags: []
 videoId: "sQ07i7J8Azo"
 duration: "5:47:45"
-views: 11907
-likes: 428
+views: 11930
+likes: 430
 comments: 27
 ---
 # [⎡coding:11⎦ LeetCode или костоломы снова в деле  - JavaScript Live Coding.](https://www.youtube.com/watch?v=sQ07i7J8Azo)
@@ -13,7 +13,7 @@ comments: 27
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 23.11.2023 01:28  
 **Тривалість:** 5:47:45  
-**Перегляди:** 11907 · **Лайки:** 428 · **Коментарі:** 27
+**Перегляди:** 11930 · **Лайки:** 430 · **Коментарі:** 27
 ![thumbnail](https://i.ytimg.com/vi/sQ07i7J8Azo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=sQ07i7J8Azo)
@@ -87,7 +87,7 @@ comments: 27
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[25.11.2023 07:37](https://www.youtube.com/watch?v=sQ07i7J8Azo&lc=Ugz22dgg_tlqy94YQLl4AaABAg) · 👍 1*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[25.11.2023 07:37](https://www.youtube.com/watch?v=sQ07i7J8Azo&lc=Ugz22dgg_tlqy94YQLl4AaABAg) · 👍 1*
 
 О преждевременных оптимизациях могу слушать вечно) хоть одна здравая мысль по этой теме
 

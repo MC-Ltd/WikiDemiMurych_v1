@@ -4,8 +4,8 @@ date: 2023-09-30
 tags: []
 videoId: "1hkPcXEE7to"
 duration: "5:45:16"
-views: 18991
-likes: 506
+views: 19238
+likes: 509
 comments: 39
 ---
 # [⎡JSbook: 04.00⎦   JavaScript: От мифов к спецификации. Как выполняется JS код.](https://www.youtube.com/watch?v=1hkPcXEE7to)
@@ -13,7 +13,7 @@ comments: 39
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 30.09.2023 02:03  
 **Тривалість:** 5:45:16  
-**Перегляди:** 18991 · **Лайки:** 506 · **Коментарі:** 39
+**Перегляди:** 19238 · **Лайки:** 509 · **Коментарі:** 39
 ![thumbnail](https://i.ytimg.com/vi/1hkPcXEE7to/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=1hkPcXEE7to)

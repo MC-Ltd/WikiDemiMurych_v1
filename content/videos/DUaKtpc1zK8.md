@@ -4,16 +4,16 @@ date: 2025-12-19
 tags: ["yt", "13", "js", "solid", "soer", "$mol"]
 videoId: "DUaKtpc1zK8"
 duration: "3:18:31"
-views: 2067
-likes: 88
-comments: 7
+views: 2137
+likes: 90
+comments: 9
 ---
 # [Смотрим вместе YT:  Что попало](https://www.youtube.com/watch?v=DUaKtpc1zK8)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.12.2025 22:31  
 **Тривалість:** 3:18:31  
-**Перегляди:** 2067 · **Лайки:** 88 · **Коментарі:** 7
+**Перегляди:** 2137 · **Лайки:** 90 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/DUaKtpc1zK8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=DUaKtpc1zK8)
@@ -117,7 +117,7 @@ comments: 7
 - [03:07:42](https://www.youtube.com/watch?v=DUaKtpc1zK8&t=11262)   Критика постановки задачи
 - [03:10:11](https://www.youtube.com/watch?v=DUaKtpc1zK8&t=11411)   Пример задачи
 - [03:11:45](https://www.youtube.com/watch?v=DUaKtpc1zK8&t=11505)   Завершение обсуждения
-## Коментарі (4 · відповідей: 3)
+## Коментарі (6 · відповідей: 3)
 
 **[@Ordo-f6z1h](https://www.youtube.com/channel/UCS9KdCXPmknuje16u1w5AjA)** *[20.12.2025 04:04](https://www.youtube.com/watch?v=DUaKtpc1zK8&lc=UgwPFnwlhK2ZNxowNNJ4AaABAg)*
 
@@ -152,5 +152,17 @@ comments: 7
 **[@АлександрТкачук-р4в](https://www.youtube.com/channel/UC3KNIVO-wNhgW-7UoLmUfig)** *[29.12.2025 04:29](https://www.youtube.com/watch?v=DUaKtpc1zK8&lc=UgyHJK06mbl7xHFyYHZ4AaABAg)*
 
 Поймал себя на мысли, что те, кто не клянчат лайки, заслуживают их больше остальных.
+
+---
+
+**[@v.demchenko](https://www.youtube.com/channel/UC7oenkF7y6seTIQr3gNNCKQ)** *[10.04.2026 19:25](https://www.youtube.com/watch?v=DUaKtpc1zK8&lc=UgzmvCGBItsuyDLpRHl4AaABAg)*
+
+Ну эти обычные слова, ребяяятааа. Еб вашу мать... ну и программисты
+
+---
+
+**[@v.demchenko](https://www.youtube.com/channel/UC7oenkF7y6seTIQr3gNNCKQ)** *[10.04.2026 19:30](https://www.youtube.com/watch?v=DUaKtpc1zK8&lc=UgztX1wVQe6RDj3DLA54AaABAg)*
+
+Побольше такого контента, Мурыч
 
 ---

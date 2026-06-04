@@ -4,8 +4,8 @@ date: 2024-01-07
 tags: []
 videoId: "hjYb9tOsumM"
 duration: "2:55:41"
-views: 4698
-likes: 132
+views: 4713
+likes: 135
 comments: 39
 ---
 # [⎡dlgs:3⎦ Беседа о надежности и скорости разработки в JS](https://www.youtube.com/watch?v=hjYb9tOsumM)
@@ -13,7 +13,7 @@ comments: 39
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.01.2024 17:06  
 **Тривалість:** 2:55:41  
-**Перегляди:** 4698 · **Лайки:** 132 · **Коментарі:** 39
+**Перегляди:** 4713 · **Лайки:** 135 · **Коментарі:** 39
 ![thumbnail](https://i.ytimg.com/vi/hjYb9tOsumM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=hjYb9tOsumM)

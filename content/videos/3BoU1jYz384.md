@@ -4,8 +4,8 @@ date: 2025-03-02
 tags: ["sobes", "22", "js", "apex"]
 videoId: "3BoU1jYz384"
 duration: "6:51:23"
-views: 20517
-likes: 536
+views: 20946
+likes: 543
 comments: 91
 ---
 # [Мурыч на собеседовании](https://www.youtube.com/watch?v=3BoU1jYz384)
@@ -13,7 +13,7 @@ comments: 91
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 02.03.2025 00:09  
 **Тривалість:** 6:51:23  
-**Перегляди:** 20517 · **Лайки:** 536 · **Коментарі:** 91
+**Перегляди:** 20946 · **Лайки:** 543 · **Коментарі:** 91
 ![thumbnail](https://i.ytimg.com/vi/3BoU1jYz384/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=3BoU1jYz384)
@@ -204,7 +204,7 @@ function Foo(Constructor, arg1, arg2) {
 
 собеседующие бездарности, позиционируют себя крутыми специалистами выше уровня стажера и джуна, рассказывают что джуны и стажеры должны знать ответы на такие конченые и бесполезные вопросы, но при этом САМИ ЖЕ на свои ублюдские вопросы ПРАВИЛЬНО ОТВЕТИТЬ НЕ МОГУТ))
 
-> **[@NewUser78654](https://www.youtube.com/channel/UC3QNz6kMq_VOD1R96C3Lb3A)** *[03.03.2025 04:30](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgymXj4_v9FjwhxgWbV4AaABAg.AFAGWexsX4CAFBpjW4DLAz) · 👍 2*
+> **[@NewUser78654](https://www.youtube.com/channel/UC3QNz6kMq_VOD1R96C3Lb3A)** *[03.03.2025 04:30](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgymXj4_v9FjwhxgWbV4AaABAg.AFAGWexsX4CAFBpjW4DLAz) · 👍 3*
 
 > Я в айти достаточно давно. В последнее время сильно разочаровался в айти т.к. в виду отсутствия стандартов в этой индустрии (и не возражайте - вот пример в этом видео) каждый может писать любой код, позиционировать себя кем угодно и продавать свои курсы. Как результат куча инфоциган с своими курсами, 100 резюме на 1 вакансию, некомпетентные собеседующие, девочки эйчарки и воронки фильтрации и даже экстрасенсы.
 
@@ -268,7 +268,7 @@ function Foo(Constructor, arg1, arg2) {
 
 ---
 
-**[@alkodeliriy](https://www.youtube.com/channel/UCNEP-kc5FP22duwwn_YvGlw)** *[03.03.2025 11:14](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgzbGKGrWqEFPflWqgV4AaABAg) (ред. 03.03.2025 11:22) · 👍 1*
+**[@alkodeliriy](https://www.youtube.com/channel/UCNEP-kc5FP22duwwn_YvGlw)** *[03.03.2025 11:14](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgzbGKGrWqEFPflWqgV4AaABAg) (ред. 03.03.2025 11:22) · 👍 2*
 
 Им нормально было такой шлак выдавать в качестве задачи на эвентлуп? Там бы трех строк хватило, чтобы механизм пояснить. Смысл копипастить эту чушь с разными задержками? У меня сгорело.
 
@@ -512,7 +512,7 @@ P.S. Если «моя ветка комментариев» там опять (
 
 ---
 
-**[@radio-86rk](https://www.youtube.com/channel/UCKDZLfGLFRqAdFNDAD75Pbw)** *[29.05.2025 08:53](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgzMu6487U6zhObzSEt4AaABAg)*
+**[@radio-86rk](https://www.youtube.com/channel/UCKDZLfGLFRqAdFNDAD75Pbw)** *[29.05.2025 08:53](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgzMu6487U6zhObzSEt4AaABAg) · 👍 1*
 
 "крайний год" -- вы совсем долбанутые?
 
@@ -540,7 +540,7 @@ P.S. Если «моя ветка комментариев» там опять (
 
 ---
 
-**[@kann1ball](https://www.youtube.com/channel/UCvqABMaiDaGcCf8VJXAF65g)** *[10.08.2025 20:04](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgwIVO8Jd66Sd8RJQdB4AaABAg) · 👍 6*
+**[@nz-web-dev](https://www.youtube.com/channel/UCvqABMaiDaGcCf8VJXAF65g)** *[10.08.2025 20:04](https://www.youtube.com/watch?v=3BoU1jYz384&lc=UgwIVO8Jd66Sd8RJQdB4AaABAg) · 👍 6*
 
 Гениально! Взял на заметку метод решения задач на собесах:
 - Решите такую задачу...

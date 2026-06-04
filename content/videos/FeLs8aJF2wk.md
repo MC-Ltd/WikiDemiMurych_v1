@@ -4,8 +4,8 @@ date: 2025-02-09
 tags: ["tthmjs", "2", "magickWord"]
 videoId: "FeLs8aJF2wk"
 duration: "6:31"
-views: 1200
-likes: 50
+views: 1216
+likes: 54
 comments: 18
 ---
 # [Try to hack My JavaScript: Найти Magic Word](https://www.youtube.com/watch?v=FeLs8aJF2wk)
@@ -13,7 +13,7 @@ comments: 18
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.02.2025 04:38  
 **Тривалість:** 6:31  
-**Перегляди:** 1200 · **Лайки:** 50 · **Коментарі:** 18
+**Перегляди:** 1216 · **Лайки:** 54 · **Коментарі:** 18
 ![thumbnail](https://i.ytimg.com/vi/FeLs8aJF2wk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=FeLs8aJF2wk)

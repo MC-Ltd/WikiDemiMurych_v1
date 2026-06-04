@@ -4,8 +4,8 @@ date: 2023-12-19
 tags: []
 videoId: "kIjm6ZEbkiU"
 duration: "4:31:13"
-views: 4009
-likes: 127
+views: 4013
+likes: 130
 comments: 6
 ---
 # [⎡coding:15⎦ Флешбеки по демо-сцене 90тых](https://www.youtube.com/watch?v=kIjm6ZEbkiU)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.12.2023 20:36  
 **Тривалість:** 4:31:13  
-**Перегляди:** 4009 · **Лайки:** 127 · **Коментарі:** 6
+**Перегляди:** 4013 · **Лайки:** 130 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/kIjm6ZEbkiU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=kIjm6ZEbkiU)

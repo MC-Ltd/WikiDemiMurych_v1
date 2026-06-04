@@ -4,8 +4,8 @@ date: 2023-05-18
 tags: []
 videoId: "wkwgWbIdMrQ"
 duration: "48:54"
-views: 3896
-likes: 220
+views: 3936
+likes: 227
 comments: 50
 ---
 # [⎡msk⎦ Почему в JavaScript прибавить число к обьекту - это круто, а не ошибка архитектуры](https://www.youtube.com/watch?v=wkwgWbIdMrQ)
@@ -13,7 +13,7 @@ comments: 50
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 18.05.2023 03:08  
 **Тривалість:** 48:54  
-**Перегляди:** 3896 · **Лайки:** 220 · **Коментарі:** 50
+**Перегляди:** 3936 · **Лайки:** 227 · **Коментарі:** 50
 ![thumbnail](https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=wkwgWbIdMrQ)
@@ -89,7 +89,7 @@ Ruby еще больше может в объектном смысле)))
 
 ---
 
-**[@alekseyk483](https://www.youtube.com/channel/UCdmoSoYGPuRqAbk1hQU7lLw)** *[19.05.2023 18:59](https://www.youtube.com/watch?v=wkwgWbIdMrQ&lc=UgybMtqZYCue7_iZTDx4AaABAg) (ред. 19.05.2023 19:14)*
+**[@alekse4837](https://www.youtube.com/channel/UCdmoSoYGPuRqAbk1hQU7lLw)** *[19.05.2023 18:59](https://www.youtube.com/watch?v=wkwgWbIdMrQ&lc=UgybMtqZYCue7_iZTDx4AaABAg) (ред. 19.05.2023 19:14)*
 
 круто🔥
 вопрос, а что скажете про ts? - в итоге-то все равно большая часть коммерческой разработки двигается от такой гибкости к строгой типизации, пусть даже и различных "вариантов" одной и той же сущности (объекта js). или это больше вопрос безошибочности разработки?

@@ -4,8 +4,8 @@ date: 2025-02-03
 tags: ["tips", "12", "js", "devtools", "copy"]
 videoId: "pvfM_oWFs-o"
 duration: "14:58"
-views: 3051
-likes: 215
+views: 3094
+likes: 220
 comments: 9
 ---
 # [Tips and Tricks:  Google Developer Tools и copy](https://www.youtube.com/watch?v=pvfM_oWFs-o)
@@ -13,7 +13,7 @@ comments: 9
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 03.02.2025 01:34  
 **Тривалість:** 14:58  
-**Перегляди:** 3051 · **Лайки:** 215 · **Коментарі:** 9
+**Перегляди:** 3094 · **Лайки:** 220 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/pvfM_oWFs-o/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=pvfM_oWFs-o)

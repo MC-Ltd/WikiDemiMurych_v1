@@ -4,8 +4,8 @@ date: 2023-12-01
 tags: []
 videoId: "cbuWLCCs1nQ"
 duration: "34:36"
-views: 8371
-likes: 410
+views: 8414
+likes: 415
 comments: 24
 ---
 # [⎡devices:00⎦ JavaScript инструменты: что установить чтобы начать](https://www.youtube.com/watch?v=cbuWLCCs1nQ)
@@ -13,7 +13,7 @@ comments: 24
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.12.2023 15:46  
 **Тривалість:** 34:36  
-**Перегляди:** 8371 · **Лайки:** 410 · **Коментарі:** 24
+**Перегляди:** 8414 · **Лайки:** 415 · **Коментарі:** 24
 ![thumbnail](https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=cbuWLCCs1nQ)

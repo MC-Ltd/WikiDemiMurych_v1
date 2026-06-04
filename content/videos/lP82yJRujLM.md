@@ -4,8 +4,8 @@ date: 2023-12-01
 tags: []
 videoId: "lP82yJRujLM"
 duration: "1:17:45"
-views: 4261
-likes: 229
+views: 4293
+likes: 231
 comments: 5
 ---
 # [⎡devices:02⎦ JavaScript инструменты: Байт-код V8](https://www.youtube.com/watch?v=lP82yJRujLM)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.12.2023 21:44  
 **Тривалість:** 1:17:45  
-**Перегляди:** 4261 · **Лайки:** 229 · **Коментарі:** 5
+**Перегляди:** 4293 · **Лайки:** 231 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=lP82yJRujLM)

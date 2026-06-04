@@ -4,8 +4,8 @@ date: 2025-07-10
 tags: ["intk", "2", "dmytro", "types", "variables", "hoisting"]
 videoId: "xp79fBrLlFw"
 duration: "3:01:39"
-views: 2243
-likes: 123
+views: 2265
+likes: 126
 comments: 21
 ---
 # [Поговоримо з Дмитром про типи, змінні та хоістінг](https://www.youtube.com/watch?v=xp79fBrLlFw)
@@ -13,7 +13,7 @@ comments: 21
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.07.2025 21:12  
 **Тривалість:** 3:01:39  
-**Перегляди:** 2243 · **Лайки:** 123 · **Коментарі:** 21
+**Перегляди:** 2265 · **Лайки:** 126 · **Коментарі:** 21
 ![thumbnail](https://i.ytimg.com/vi/xp79fBrLlFw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=xp79fBrLlFw)

@@ -4,8 +4,8 @@ date: 2024-01-06
 tags: []
 videoId: "eDkheYAsqro"
 duration: "2:13:21"
-views: 16769
-likes: 354
+views: 16806
+likes: 357
 comments: 21
 ---
 # [⎡reverse:01⎦ JavaScript реверс: Ссылки в Google Docs](https://www.youtube.com/watch?v=eDkheYAsqro)
@@ -13,7 +13,7 @@ comments: 21
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 06.01.2024 20:58  
 **Тривалість:** 2:13:21  
-**Перегляди:** 16769 · **Лайки:** 354 · **Коментарі:** 21
+**Перегляди:** 16806 · **Лайки:** 357 · **Коментарі:** 21
 ![thumbnail](https://i.ytimg.com/vi/eDkheYAsqro/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=eDkheYAsqro)

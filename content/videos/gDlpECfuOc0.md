@@ -4,8 +4,8 @@ date: 2024-08-02
 tags: ["yt", "asm", "02", "debug", "td", "x86"]
 videoId: "gDlpECfuOc0"
 duration: "2:00:34"
-views: 4637
-likes: 181
+views: 4674
+likes: 185
 comments: 6
 ---
 # [Asm для JS программиста:  Отладка](https://www.youtube.com/watch?v=gDlpECfuOc0)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 02.08.2024 09:05  
 **Тривалість:** 2:00:34  
-**Перегляди:** 4637 · **Лайки:** 181 · **Коментарі:** 6
+**Перегляди:** 4674 · **Лайки:** 185 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=gDlpECfuOc0)

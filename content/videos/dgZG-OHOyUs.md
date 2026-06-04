@@ -4,8 +4,8 @@ date: 2025-10-17
 tags: ["perf", "17", "v8", "osr", "javascript", "bug"]
 videoId: "dgZG-OHOyUs"
 duration: "2:32:57"
-views: 1081
-likes: 63
+views: 1099
+likes: 66
 comments: 2
 ---
 # [Расследование бага в OSR (On-Stack Replacement) оптимизации V8](https://www.youtube.com/watch?v=dgZG-OHOyUs)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.10.2025 21:10  
 **Тривалість:** 2:32:57  
-**Перегляди:** 1081 · **Лайки:** 63 · **Коментарі:** 2
+**Перегляди:** 1099 · **Лайки:** 66 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=dgZG-OHOyUs)

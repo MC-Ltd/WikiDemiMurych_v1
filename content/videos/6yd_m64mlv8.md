@@ -4,8 +4,8 @@ date: 2024-03-10
 tags: []
 videoId: "6yd_m64mlv8"
 duration: "1:31:11"
-views: 10049
-likes: 402
+views: 10085
+likes: 403
 comments: 44
 ---
 # [⎡spec:05⎦  Проблематика или почему язык JavaScript, оказался самым непонятым языком на планете.](https://www.youtube.com/watch?v=6yd_m64mlv8)
@@ -13,7 +13,7 @@ comments: 44
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.03.2024 22:12  
 **Тривалість:** 1:31:11  
-**Перегляди:** 10049 · **Лайки:** 402 · **Коментарі:** 44
+**Перегляди:** 10085 · **Лайки:** 403 · **Коментарі:** 44
 ![thumbnail](https://i.ytimg.com/vi/6yd_m64mlv8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=6yd_m64mlv8)
@@ -179,7 +179,7 @@ comments: 44
 
 > @swaytornado8327 видимо он подстраивается под ваш код стайл, за 2 года использования ни разу пример с var не выдавал
 
-> **[@gtaplayer379](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[19.03.2024 07:18](https://www.youtube.com/watch?v=6yd_m64mlv8&lc=UgxQp4dJ7uMO90oK4qJ4AaABAg.A0pnQ1SgN6BA19UXyvr7W6) (ред. 13.06.2024 23:55)*
+> **[@namenick123](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[19.03.2024 07:18](https://www.youtube.com/watch?v=6yd_m64mlv8&lc=UgxQp4dJ7uMO90oK4qJ4AaABAg.A0pnQ1SgN6BA19UXyvr7W6) (ред. 13.06.2024 23:55)*
 
 > ​@michaelshumsky7258где-то есть видео у него о более выгодном использовании var, меньше запросов чем у const и let вроде
 

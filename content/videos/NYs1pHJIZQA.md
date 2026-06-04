@@ -4,8 +4,8 @@ date: 2023-12-22
 tags: []
 videoId: "NYs1pHJIZQA"
 duration: "4:32:35"
-views: 9297
-likes: 149
+views: 9299
+likes: 152
 comments: 14
 ---
 # [⎡coding:16⎦ Флешбеки по демо-сцене 90тых: часть 2 -  или Bern baby bern](https://www.youtube.com/watch?v=NYs1pHJIZQA)
@@ -13,7 +13,7 @@ comments: 14
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 22.12.2023 22:00  
 **Тривалість:** 4:32:35  
-**Перегляди:** 9297 · **Лайки:** 149 · **Коментарі:** 14
+**Перегляди:** 9299 · **Лайки:** 152 · **Коментарі:** 14
 ![thumbnail](https://i.ytimg.com/vi/NYs1pHJIZQA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=NYs1pHJIZQA)

@@ -4,8 +4,8 @@ date: 2023-08-09
 tags: []
 videoId: "WsBe8ysO_uA"
 duration: "2:13:10"
-views: 1796
-likes: 71
+views: 1802
+likes: 73
 comments: 4
 ---
 # [⎡msk⎦⎡sobes⎦⎡05⎦   Разбираем задачу JavaScript собеседований о 100500 способах нарисовать башню](https://www.youtube.com/watch?v=WsBe8ysO_uA)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.08.2023 09:19  
 **Тривалість:** 2:13:10  
-**Перегляди:** 1796 · **Лайки:** 71 · **Коментарі:** 4
+**Перегляди:** 1802 · **Лайки:** 73 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/WsBe8ysO_uA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=WsBe8ysO_uA)

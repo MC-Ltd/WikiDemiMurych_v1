@@ -4,8 +4,8 @@ date: 2024-06-17
 tags: ["seo", "0", "google", "leaks", "2500"]
 videoId: "7b3Qc0Q7bQ8"
 duration: "10:24"
-views: 2696
-likes: 141
+views: 2745
+likes: 145
 comments: 5
 ---
 # [Вся правда о Google leaks утечке 2500 Google документов](https://www.youtube.com/watch?v=7b3Qc0Q7bQ8)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.06.2024 06:36  
 **Тривалість:** 10:24  
-**Перегляди:** 2696 · **Лайки:** 141 · **Коментарі:** 5
+**Перегляди:** 2745 · **Лайки:** 145 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=7b3Qc0Q7bQ8)

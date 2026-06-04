@@ -4,20 +4,20 @@ date: 2025-11-09
 tags: ["perf", "19", "v8", "js", "javascript", "neMeshat"]
 videoId: "kz6TmnP9U5s"
 duration: "7:42:05"
-views: 3668
-likes: 112
-comments: 11
+views: 3795
+likes: 116
+comments: 12
 ---
 # [Как не мешать интерпретатору сделать JavaScript код быстрым](https://www.youtube.com/watch?v=kz6TmnP9U5s)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.11.2025 22:31  
 **Тривалість:** 7:42:05  
-**Перегляди:** 3668 · **Лайки:** 112 · **Коментарі:** 11
+**Перегляди:** 3795 · **Лайки:** 116 · **Коментарі:** 12
 ![thumbnail](https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=kz6TmnP9U5s)
-## Коментарі (10 · відповідей: 1)
+## Коментарі (11 · відповідей: 1)
 
 **[@Andrew-NaN](https://www.youtube.com/channel/UCvEyMg75ev6ICAbl2yxUBpg)** *[10.11.2025 05:37](https://www.youtube.com/watch?v=kz6TmnP9U5s&lc=UgyRQFuZRnnBoyTeYOR4AaABAg) (ред. 11.11.2025 06:02) · 👍 1*
 
@@ -50,7 +50,7 @@ comments: 11
 
 ---
 
-**[@YouTube-Admin-69](https://www.youtube.com/channel/UC1ZhrZ49WGKDHvExRItnzlA)** *[10.11.2025 22:01](https://www.youtube.com/watch?v=kz6TmnP9U5s&lc=UgxYfyM7tmdk5-G_VKp4AaABAg)*
+**[@Beyaz_69](https://www.youtube.com/channel/UC1ZhrZ49WGKDHvExRItnzlA)** *[10.11.2025 22:01](https://www.youtube.com/watch?v=kz6TmnP9U5s&lc=UgxYfyM7tmdk5-G_VKp4AaABAg)*
 
 джиес это не про производительность лол
 
@@ -242,5 +242,11 @@ V8 оптимізує цикл окремо; тримайте код усере�
 **[@osad4enko](https://www.youtube.com/channel/UCw_YnBxXo1J-aVuRK3ZuSkA)** *[13.03.2026 10:19](https://www.youtube.com/watch?v=kz6TmnP9U5s&lc=Ugzw4TdNSir8vs-SLRF4AaABAg)*
 
 угар от Gemini: Совет: Если вы хотите пойти еще дальше в стиле Деми, попробуйте избавиться от fetch(...).then() в пользу async/await (в современных версиях V8 это работает отлично) и минимизируйте создание промежуточных объектов-конфигов перед отправкой запроса.
+
+---
+
+**[@Ivan-o9w8w](https://www.youtube.com/channel/UC80H52S-R1kGJaxHxORx1YA)** *[18.05.2026 17:30](https://www.youtube.com/watch?v=kz6TmnP9U5s&lc=UgzUY9qGvMm5IBhGwKx4AaABAg)*
+
+Фраза красота требует жертв заиграла новыми красками :)
 
 ---

@@ -4,8 +4,8 @@ date: 2025-06-26
 tags: ["spec", "9", "js", "ecma", "String", "unicode", "utf16"]
 videoId: "cYxohlw4mV0"
 duration: "2:11:01"
-views: 1792
-likes: 84
+views: 1819
+likes: 88
 comments: 7
 ---
 # [String in wild. Часть 3 из 3.](https://www.youtube.com/watch?v=cYxohlw4mV0)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 26.06.2025 21:16  
 **Тривалість:** 2:11:01  
-**Перегляди:** 1792 · **Лайки:** 84 · **Коментарі:** 7
+**Перегляди:** 1819 · **Лайки:** 88 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/cYxohlw4mV0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=cYxohlw4mV0)

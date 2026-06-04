@@ -4,8 +4,8 @@ date: 2025-10-18
 tags: ["spec", "12", "js", "ecma", "patterns", "assignment", "array", "object"]
 videoId: "3LTiRS55WoQ"
 duration: "3:05:43"
-views: 2286
-likes: 105
+views: 2411
+likes: 108
 comments: 5
 ---
 # [Что Вы не знаете о Assignment Patterns](https://www.youtube.com/watch?v=3LTiRS55WoQ)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 18.10.2025 21:15  
 **Тривалість:** 3:05:43  
-**Перегляди:** 2286 · **Лайки:** 105 · **Коментарі:** 5
+**Перегляди:** 2411 · **Лайки:** 108 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/3LTiRS55WoQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=3LTiRS55WoQ)

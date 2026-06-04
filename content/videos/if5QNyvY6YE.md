@@ -4,16 +4,16 @@ date: 2024-05-26
 tags: ["yt", "01~Ulbi", "fp", "js"]
 videoId: "if5QNyvY6YE"
 duration: "2:40:14"
-views: 28311
-likes: 634
-comments: 151
+views: 28418
+likes: 637
+comments: 149
 ---
 # [Смотрим вместе YT: Ulbi - Функциональное программирование от А до Я. ФП на JS.](https://www.youtube.com/watch?v=if5QNyvY6YE)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 26.05.2024 21:50  
 **Тривалість:** 2:40:14  
-**Перегляди:** 28311 · **Лайки:** 634 · **Коментарі:** 151
+**Перегляди:** 28418 · **Лайки:** 637 · **Коментарі:** 149
 ![thumbnail](https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=if5QNyvY6YE)
@@ -31,7 +31,7 @@ comments: 151
 - [00:51:00](https://www.youtube.com/watch?v=if5QNyvY6YE&t=3060)   Иммутабельность
 - [01:10:30](https://www.youtube.com/watch?v=if5QNyvY6YE&t=4230)   Функции первого класса и Функции высшего порядка
 - [01:29:00](https://www.youtube.com/watch?v=if5QNyvY6YE&t=5340)   Ответы на вопросы и общение с чатом
-## Коментарі (44 · відповідей: 107)
+## Коментарі (44 · відповідей: 105)
 
 **[@DenisXemc](https://www.youtube.com/channel/UCBm_M2BtMr9BCiHEzI3sz0w)** *[26.05.2024 22:16](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=Ugx7oVlVjF8U1nBmRNR4AaABAg) · 👍 15*
 
@@ -176,10 +176,6 @@ JS - это уже палочки и проволочки
 
 > ​@blackFortuna1358реакт не монстр. Реакт это библиотека, которая говорит, что причина изменения DOM может быть только одна и она атомарна в рамках обновления DOM. А так же, она говорит, что надо писать так, что бы было понимание, что выполнится либо все в функции либо ничего. И в этом прелесть реакта.
 
-> **[@kamran_it](https://www.youtube.com/channel/UCelSiy1G5P5JQySjjBF9zUQ)** *[27.05.2024 02:28](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgzSiKFCvQ1ma1oLgkt4AaABAg.A3vEK0_L89PA3vdBD0s2_N) (ред. 27.05.2024 02:29) · 👍 5*
-
-> ⁠@blackFortuna1358​​⁠ зачем Вы пытаетесь кого-то переубедить? Это лишь Ваше мнение и не более. По-моему мнению реакт отлично справляется со своими задачами. KPI с бенчмарками это просто пздц, это смешно, в трудовом договоре прописали? И о какой производительности идет речь? У меня в реакт компонент меняется на другой с ререндером в доли секунды, что Вы там собрались улучшать и уверены, что бизнесу важны Ваши выигранные  миллисекунды и за это нужно доплачивать?
-
 > **[@blackFortuna1358](https://www.youtube.com/channel/UCw67yg8KaUK-21e5U5eXDdA)** *[27.05.2024 10:34](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgzSiKFCvQ1ma1oLgkt4AaABAg.A3vEK0_L89PA3wVmEnNXa8) (ред. 27.05.2024 10:35) · 👍 1*
 
 > ​​@kamran_itпереубеждать я никого не собираюсь. А про производительность – да, рынок готов платить за софт, который будет запущен не так быстро, но без болта на производительности. А миллисекунда там, миллисекунда тут – и о чудо, насколько же нересурсоёмкие приложения и плавные приложения получаются.
@@ -193,10 +189,6 @@ JS - это уже палочки и проволочки
 
 > ​@GoogleHaterлучше него ничего? Ха-ха-ха. Был бы он лучше – не было альтернатив, которые с каждом годом отжирают у него куски рынка. Он был первым, который закрыл тогда задачи рынка и набрал массу. Но это не показатель того, что он идеален и не кривующий с абстракциями ради абстракций.
 > Svelte передаёт привет – фреймворк для удобной работой с DOM, нативные API и минимум навязывания себя в самому логику и учить полчаса. Не просто так он топ 1 по любимости опросах.
-
-> **[@kamran_it](https://www.youtube.com/channel/UCelSiy1G5P5JQySjjBF9zUQ)** *[28.05.2024 04:28](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgzSiKFCvQ1ma1oLgkt4AaABAg.A3vEK0_L89PA3yQm4lPcTK)*
-
-> @blackFortuna1358 альтернативы не показатель, есть у всех, у джавы тоже куча, но это не делает его ужасным. Странные комменты прост, ну бля, так не пишите ужасный код и все, перекладывание ответственности
 
 > **[@astkh4381](https://www.youtube.com/channel/UCAGPpZSlEVprRHeBSikR73w)** *[28.05.2024 07:03](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgzSiKFCvQ1ma1oLgkt4AaABAg.A3vEK0_L89PA3yhQKDBrXA) (ред. 28.05.2024 07:03) · 👍 1*
 
@@ -294,7 +286,7 @@ JS - это уже палочки и проволочки
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[27.05.2024 08:26](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgySIE7rdvC__cLGFi14AaABAg) · 👍 4*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[27.05.2024 08:26](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgySIE7rdvC__cLGFi14AaABAg) · 👍 4*
 
 "JS - язык для детского сада" жаль дока JS не для детского сада)
 
@@ -302,7 +294,7 @@ JS - это уже палочки и проволочки
 
 > Почему для детского сада?
 
-> **[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[28.05.2024 07:06](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgySIE7rdvC__cLGFi14AaABAg.A3wH8uYUUXmA3yhlPdx3PF)*
+> **[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[28.05.2024 07:06](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgySIE7rdvC__cLGFi14AaABAg.A3wH8uYUUXmA3yhlPdx3PF)*
 
 > @astkh4381 цитата мурыча
 
@@ -410,7 +402,7 @@ JS - это уже палочки и проволочки
 
 > Нужно задаться вопросом - преследует ли Мурыч заработок на своем контенте? Мне кажется он кайфует от своей деятельности, что ему не интересны мнения таких как ты, не?)
 
-> **[@hhhgddfhhhgvrs7749](https://www.youtube.com/channel/UCFRgIhGvMY6yh4eLFy0y3Og)** *[29.05.2024 14:16](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgwQXxup7zexjO9Vi9t4AaABAg.A3xvf-iGJIlA412lWBIVWA) · 👍 3*
+> **[@hhhgddfhhhgvrs7749](https://www.youtube.com/channel/UCFRgIhGvMY6yh4eLFy0y3Og)** *[29.05.2024 14:16](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgwQXxup7zexjO9Vi9t4AaABAg.A3xvf-iGJIlA412lWBIVWA) · 👍 2*
 
 > В данном видео, если ты его не смотрел, Мурыч на удивление никого половыми органами особо не обкладывает
 
@@ -788,7 +780,7 @@ JS - это ЯП с высоким уровнем абстракции, но в�
 
 ---
 
-**[@walter10reds](https://www.youtube.com/channel/UCqPC1gKU4G7-h02tagOk-iA)** *[03.07.2024 08:21](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgzIF_Wl0PzJNHoyNDZ4AaABAg) · 👍 7*
+**[@Rotemhell](https://www.youtube.com/channel/UCqPC1gKU4G7-h02tagOk-iA)** *[03.07.2024 08:21](https://www.youtube.com/watch?v=if5QNyvY6YE&lc=UgzIF_Wl0PzJNHoyNDZ4AaABAg) · 👍 7*
 
 Автор смотрит на 1.25, я смотрю автора на 1.25
 

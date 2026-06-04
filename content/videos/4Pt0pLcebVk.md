@@ -4,8 +4,8 @@ date: 2023-06-14
 tags: []
 videoId: "4Pt0pLcebVk"
 duration: "43:35"
-views: 1404
-likes: 98
+views: 1416
+likes: 103
 comments: 7
 ---
 # [⎡msk⎦⎡RegExp⎦⎡04⎦ Регулярные 5ти минутки. Как в JavaScript RegExp, одно, отличить от другого](https://www.youtube.com/watch?v=4Pt0pLcebVk)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.06.2023 19:05  
 **Тривалість:** 43:35  
-**Перегляди:** 1404 · **Лайки:** 98 · **Коментарі:** 7
+**Перегляди:** 1416 · **Лайки:** 103 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/4Pt0pLcebVk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=4Pt0pLcebVk)

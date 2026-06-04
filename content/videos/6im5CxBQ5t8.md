@@ -4,8 +4,8 @@ date: 2023-07-17
 tags: []
 videoId: "6im5CxBQ5t8"
 duration: "17:21"
-views: 818
-likes: 57
+views: 830
+likes: 61
 comments: 2
 ---
 # [⎡msk⎦ ⎡talks⎦ Обсудим часть интервью D. Crockford: Why We Should Stop Using JavaScript](https://www.youtube.com/watch?v=6im5CxBQ5t8)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.07.2023 04:07  
 **Тривалість:** 17:21  
-**Перегляди:** 818 · **Лайки:** 57 · **Коментарі:** 2
+**Перегляди:** 830 · **Лайки:** 61 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/6im5CxBQ5t8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=6im5CxBQ5t8)

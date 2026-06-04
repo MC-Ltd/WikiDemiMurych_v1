@@ -4,8 +4,8 @@ date: 2025-02-12
 tags: ["sobes", "19", "js", "javascript-questions.vercel.app"]
 videoId: "ks0o4gXh9NI"
 duration: "3:38:22"
-views: 7161
-likes: 235
+views: 7214
+likes: 238
 comments: 34
 ---
 # [Решаем 155 задачек с javascript-questions.vercel.app](https://www.youtube.com/watch?v=ks0o4gXh9NI)
@@ -13,7 +13,7 @@ comments: 34
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 12.02.2025 02:08  
 **Тривалість:** 3:38:22  
-**Перегляди:** 7161 · **Лайки:** 235 · **Коментарі:** 34
+**Перегляди:** 7214 · **Лайки:** 238 · **Коментарі:** 34
 ![thumbnail](https://i.ytimg.com/vi/ks0o4gXh9NI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ks0o4gXh9NI)

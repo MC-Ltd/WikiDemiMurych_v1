@@ -4,8 +4,8 @@ date: 2025-09-21
 tags: ["asm", "04", "virus", "td", "x86", "stealth", "evristic"]
 videoId: "qjVKgy835KQ"
 duration: "3:41:39"
-views: 2381
-likes: 93
+views: 2470
+likes: 101
 comments: 7
 ---
 # [Asm для JS программиста:  Вирус и эвристический анализатор](https://www.youtube.com/watch?v=qjVKgy835KQ)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.09.2025 03:06  
 **Тривалість:** 3:41:39  
-**Перегляди:** 2381 · **Лайки:** 93 · **Коментарі:** 7
+**Перегляди:** 2470 · **Лайки:** 101 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=qjVKgy835KQ)

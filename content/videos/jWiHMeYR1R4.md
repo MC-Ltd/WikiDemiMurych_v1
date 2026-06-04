@@ -4,8 +4,8 @@ date: 2023-06-01
 tags: []
 videoId: "jWiHMeYR1R4"
 duration: "2:05:43"
-views: 4851
-likes: 215
+views: 4875
+likes: 222
 comments: 38
 ---
 # [⎡msk⎦ Обзор на видео: "2 вещи которые убивают перформанс в JavaScript"](https://www.youtube.com/watch?v=jWiHMeYR1R4)
@@ -13,7 +13,7 @@ comments: 38
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.06.2023 23:32  
 **Тривалість:** 2:05:43  
-**Перегляди:** 4851 · **Лайки:** 215 · **Коментарі:** 38
+**Перегляди:** 4875 · **Лайки:** 222 · **Коментарі:** 38
 ![thumbnail](https://i.ytimg.com/vi/jWiHMeYR1R4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=jWiHMeYR1R4)
@@ -251,7 +251,7 @@ https://youtu.be/jWiHMeYR1R4?t=6165 - пояснение про Array(1)
 
 ---
 
-**[@Mykola--1](https://www.youtube.com/channel/UC_BqVBc98KHeGkLqatHodXw)** *[19.12.2023 09:30](https://www.youtube.com/watch?v=jWiHMeYR1R4&lc=UgwbYNVRoHADZK0bpyB4AaABAg) · 👍 1*
+**[@Nickolas-m](https://www.youtube.com/channel/UC_BqVBc98KHeGkLqatHodXw)** *[19.12.2023 09:30](https://www.youtube.com/watch?v=jWiHMeYR1R4&lc=UgwbYNVRoHADZK0bpyB4AaABAg) · 👍 1*
 
 Где можно почитать про эти базовые оптимизации которые почти у всех рантаймов одинаковые?
 

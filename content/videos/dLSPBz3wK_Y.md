@@ -4,8 +4,8 @@ date: 2023-09-09
 tags: []
 videoId: "dLSPBz3wK_Y"
 duration: "2:28:25"
-views: 2998
-likes: 120
+views: 3041
+likes: 124
 comments: 11
 ---
 # [⎡razbor:10⎦ Разбираем видео:  "Утечки памяти в SSR. Владимир Захаров."](https://www.youtube.com/watch?v=dLSPBz3wK_Y)
@@ -13,7 +13,7 @@ comments: 11
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.09.2023 04:32  
 **Тривалість:** 2:28:25  
-**Перегляди:** 2998 · **Лайки:** 120 · **Коментарі:** 11
+**Перегляди:** 3041 · **Лайки:** 124 · **Коментарі:** 11
 ![thumbnail](https://i.ytimg.com/vi/dLSPBz3wK_Y/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=dLSPBz3wK_Y)

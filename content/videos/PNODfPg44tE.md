@@ -4,8 +4,8 @@ date: 2021-11-19
 tags: []
 videoId: "PNODfPg44tE"
 duration: "1:01:29"
-views: 1845
-likes: 96
+views: 1867
+likes: 99
 comments: 7
 ---
 # [Разбираемся с Мурой: JavaScript толчек, эпизод 8, кеширование байт кода](https://www.youtube.com/watch?v=PNODfPg44tE)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.11.2021 20:40  
 **Тривалість:** 1:01:29  
-**Перегляди:** 1845 · **Лайки:** 96 · **Коментарі:** 7
+**Перегляди:** 1867 · **Лайки:** 99 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/PNODfPg44tE/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=PNODfPg44tE)

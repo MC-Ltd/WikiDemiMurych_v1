@@ -4,8 +4,8 @@ date: 2026-01-26
 tags: ["dlgs", "15", "js", "timur", "shemsedinov", "serviceWorker"]
 videoId: "WYhufFc4uYI"
 duration: "2:00:55"
-views: 1942
-likes: 63
+views: 2059
+likes: 71
 comments: 5
 ---
 # [Service Worker для PWA приложений](https://www.youtube.com/watch?v=WYhufFc4uYI)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 26.01.2026 19:07  
 **Тривалість:** 2:00:55  
-**Перегляди:** 1942 · **Лайки:** 63 · **Коментарі:** 5
+**Перегляди:** 2059 · **Лайки:** 71 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/WYhufFc4uYI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=WYhufFc4uYI)

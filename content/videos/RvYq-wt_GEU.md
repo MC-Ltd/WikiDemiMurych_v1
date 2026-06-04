@@ -4,8 +4,8 @@ date: 2025-07-05
 tags: ["spec", "10", "js", "ecma", "closure", "funarg"]
 videoId: "RvYq-wt_GEU"
 duration: "6:32:31"
-views: 6294
-likes: 248
+views: 6363
+likes: 252
 comments: 6
 ---
 # [Замыкания с точки зрения официальной спецификации](https://www.youtube.com/watch?v=RvYq-wt_GEU)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 05.07.2025 01:47  
 **Тривалість:** 6:32:31  
-**Перегляди:** 6294 · **Лайки:** 248 · **Коментарі:** 6
+**Перегляди:** 6363 · **Лайки:** 252 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/RvYq-wt_GEU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=RvYq-wt_GEU)
@@ -31,7 +31,7 @@ comments: 6
 
 ---
 
-**[@TheSekhno](https://www.youtube.com/channel/UCvzH_0EMINLIsgt3yAOj6zA)** *[07.07.2025 08:52](https://www.youtube.com/watch?v=RvYq-wt_GEU&lc=UgxRzu15OMC9WCg3LVh4AaABAg) · 👍 2*
+**[@TheNoScopeD-777](https://www.youtube.com/channel/UCvzH_0EMINLIsgt3yAOj6zA)** *[07.07.2025 08:52](https://www.youtube.com/watch?v=RvYq-wt_GEU&lc=UgxRzu15OMC9WCg3LVh4AaABAg) · 👍 2*
 
 Дай Бог вам здоровичка!
 

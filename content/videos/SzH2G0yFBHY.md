@@ -4,8 +4,8 @@ date: 2025-08-02
 tags: ["yt", "13", "js", "solid", "soer", "$mol"]
 videoId: "SzH2G0yFBHY"
 duration: "2:40:11"
-views: 3448
-likes: 90
+views: 3485
+likes: 96
 comments: 29
 ---
 # [Смотрим вместе YT:   Выводим Соера на чистую воду](https://www.youtube.com/watch?v=SzH2G0yFBHY)
@@ -13,7 +13,7 @@ comments: 29
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 02.08.2025 18:48  
 **Тривалість:** 2:40:11  
-**Перегляди:** 3448 · **Лайки:** 90 · **Коментарі:** 29
+**Перегляди:** 3485 · **Лайки:** 96 · **Коментарі:** 29
 ![thumbnail](https://i.ytimg.com/vi/SzH2G0yFBHY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=SzH2G0yFBHY)

@@ -4,8 +4,8 @@ date: 2025-08-14
 tags: ["dlgs", "12", "js", "sobes"]
 videoId: "KeG2OfOYqQA"
 duration: "3:13:07"
-views: 2655
-likes: 80
+views: 2701
+likes: 84
 comments: 8
 ---
 # [Нормальное собеседование: Николай и я](https://www.youtube.com/watch?v=KeG2OfOYqQA)
@@ -13,7 +13,7 @@ comments: 8
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.08.2025 19:39  
 **Тривалість:** 3:13:07  
-**Перегляди:** 2655 · **Лайки:** 80 · **Коментарі:** 8
+**Перегляди:** 2701 · **Лайки:** 84 · **Коментарі:** 8
 ![thumbnail](https://i.ytimg.com/vi/KeG2OfOYqQA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=KeG2OfOYqQA)
@@ -31,7 +31,7 @@ comments: 8
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[15.08.2025 06:54](https://www.youtube.com/watch?v=KeG2OfOYqQA&lc=UgwVVw5daLxbHja1J2N4AaABAg)*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[15.08.2025 06:54](https://www.youtube.com/watch?v=KeG2OfOYqQA&lc=UgwVVw5daLxbHja1J2N4AaABAg)*
 
 Снимаю шляпу
 Действительно Нормальное собеседование

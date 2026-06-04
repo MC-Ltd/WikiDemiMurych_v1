@@ -4,8 +4,8 @@ date: 2023-08-24
 tags: []
 videoId: "-kBKbg6QWug"
 duration: "1:33:36"
-views: 1174
-likes: 61
+views: 1190
+likes: 64
 comments: 8
 ---
 # [⎡coding: 02⎦   JavaScript Live Coding: Demimurych's head roaches, light on](https://www.youtube.com/watch?v=-kBKbg6QWug)
@@ -13,7 +13,7 @@ comments: 8
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 24.08.2023 16:07  
 **Тривалість:** 1:33:36  
-**Перегляди:** 1174 · **Лайки:** 61 · **Коментарі:** 8
+**Перегляди:** 1190 · **Лайки:** 64 · **Коментарі:** 8
 ![thumbnail](https://i.ytimg.com/vi/-kBKbg6QWug/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=-kBKbg6QWug)

@@ -4,20 +4,20 @@ date: 2026-01-30
 tags: ["jsv", "00", "course", "anons"]
 videoId: "4eyGrFv7pzM"
 duration: "2:20:55"
-views: 5058
-likes: 235
-comments: 31
+views: 5307
+likes: 250
+comments: 32
 ---
 # [Анонс и запись на курс JS Vanilla - non penis canina](https://www.youtube.com/watch?v=4eyGrFv7pzM)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 30.01.2026 11:00  
 **Тривалість:** 2:20:55  
-**Перегляди:** 5058 · **Лайки:** 235 · **Коментарі:** 31
+**Перегляди:** 5307 · **Лайки:** 250 · **Коментарі:** 32
 ![thumbnail](https://i.ytimg.com/vi/4eyGrFv7pzM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=4eyGrFv7pzM)
-## Коментарі (19 · відповідей: 12)
+## Коментарі (20 · відповідей: 12)
 
 **[@colorofadog](https://www.youtube.com/channel/UCLlbIlD4T6c24YswWDCzWVg)** *[29.01.2026 22:54](https://www.youtube.com/watch?v=4eyGrFv7pzM&lc=UgxCHtGn9a0VFKznNB14AaABAg) (ред. 29.01.2026 23:59)*
 
@@ -212,8 +212,16 @@ x + y; // = 2, потому что английские
 
 ---
 
-**[@АлександрГончаров-ъ2ч](https://www.youtube.com/channel/UCa6tPkt6KX2L8Bn7FpZLMcQ)** *[12.02.2026 12:37](https://www.youtube.com/watch?v=4eyGrFv7pzM&lc=UgzlCpU5N6PfeksogXl4AaABAg)*
+**[@АлександрГончаров-ъ2ч](https://www.youtube.com/channel/UCa6tPkt6KX2L8Bn7FpZLMcQ)** *[12.02.2026 12:37](https://www.youtube.com/watch?v=4eyGrFv7pzM&lc=UgzlCpU5N6PfeksogXl4AaABAg) · 👍 1*
 
 опоздал)
+
+---
+
+**[@iiinsed](https://www.youtube.com/channel/UCHskw9pS_oquwdxxi0BKIqA)** *[18.03.2026 20:06](https://www.youtube.com/watch?v=4eyGrFv7pzM&lc=UgzOapsrwtvlP73dfUN4AaABAg)*
+
+setInterval(() => {
+    y = Math.round(Math.random() * 4)
+}, 2000)
 
 ---

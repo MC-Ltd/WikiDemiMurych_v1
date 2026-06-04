@@ -4,8 +4,8 @@ date: 2023-05-28
 tags: []
 videoId: "k9lpuV9UlBc"
 duration: "53:41"
-views: 1730
-likes: 110
+views: 1738
+likes: 114
 comments: 20
 ---
 # [⎡msk⎦ JavaScript посрамил chat GPT](https://www.youtube.com/watch?v=k9lpuV9UlBc)
@@ -13,7 +13,7 @@ comments: 20
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.05.2023 04:56  
 **Тривалість:** 53:41  
-**Перегляди:** 1730 · **Лайки:** 110 · **Коментарі:** 20
+**Перегляди:** 1738 · **Лайки:** 114 · **Коментарі:** 20
 ![thumbnail](https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=k9lpuV9UlBc)
@@ -46,7 +46,7 @@ comments: 20
 > 
 > *Человеку может быть достаточно всего лишь одного другого человека, чтобы понять где он ошибается. Но чтобы GPT исправил свою ошибку, ему нужно публичное мнение миллиона человек, которые вдруг перестали ошибаться*
 
-> **[@alekseyk483](https://www.youtube.com/channel/UCdmoSoYGPuRqAbk1hQU7lLw)** *[31.05.2023 07:50](https://www.youtube.com/watch?v=k9lpuV9UlBc&lc=UgwgZ1fjjOE1_XW8rud4AaABAg.9qEO6aMsmR_9qN5HG214Jr) (ред. 31.05.2023 07:52)*
+> **[@alekse4837](https://www.youtube.com/channel/UCdmoSoYGPuRqAbk1hQU7lLw)** *[31.05.2023 07:50](https://www.youtube.com/watch?v=k9lpuV9UlBc&lc=UgwgZ1fjjOE1_XW8rud4AaABAg.9qEO6aMsmR_9qN5HG214Jr) (ред. 31.05.2023 07:52)*
 
 > @AsForJS это все происходит ровно до того момента, пока гпт не предоставят возможности сам код выполнять самостоятельно и учиться на результатах.
 

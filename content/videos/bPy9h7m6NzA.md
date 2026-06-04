@@ -4,8 +4,8 @@ date: 2026-01-23
 tags: ["coding", "21", "sumo", "plugin", "naKolenke"]
 videoId: "bPy9h7m6NzA"
 duration: "1:53:50"
-views: 2396
-likes: 85
+views: 2489
+likes: 92
 comments: 9
 ---
 # [Live Coding: Sumo на коленке или пишем расширение для Google Chrome](https://www.youtube.com/watch?v=bPy9h7m6NzA)
@@ -13,7 +13,7 @@ comments: 9
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 23.01.2026 05:25  
 **Тривалість:** 1:53:50  
-**Перегляди:** 2396 · **Лайки:** 85 · **Коментарі:** 9
+**Перегляди:** 2489 · **Лайки:** 92 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/bPy9h7m6NzA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=bPy9h7m6NzA)

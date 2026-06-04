@@ -4,8 +4,8 @@ date: 2025-09-24
 tags: ["dlgs", "13", "js", "bragilevsky"]
 videoId: "iQ_PRQPBEgQ"
 duration: "3:47:35"
-views: 2900
-likes: 119
+views: 2935
+likes: 122
 comments: 28
 ---
 # [В живую с Виталий Николаевичем Брагилевским про НИИЧаВо.](https://www.youtube.com/watch?v=iQ_PRQPBEgQ)
@@ -13,7 +13,7 @@ comments: 28
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 24.09.2025 16:58  
 **Тривалість:** 3:47:35  
-**Перегляди:** 2900 · **Лайки:** 119 · **Коментарі:** 28
+**Перегляди:** 2935 · **Лайки:** 122 · **Коментарі:** 28
 ![thumbnail](https://i.ytimg.com/vi/iQ_PRQPBEgQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=iQ_PRQPBEgQ)

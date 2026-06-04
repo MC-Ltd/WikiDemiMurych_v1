@@ -4,8 +4,8 @@ date: 2023-07-04
 tags: []
 videoId: "GZ0id4HE8ls"
 duration: "1:34:05"
-views: 1935
-likes: 89
+views: 1950
+likes: 90
 comments: 7
 ---
 # [⎡msk⎦ ⎡talks⎦ JavaScript и передача по ссылке и по значению, через призму статьи Dmitry Soshnikov](https://www.youtube.com/watch?v=GZ0id4HE8ls)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.07.2023 19:58  
 **Тривалість:** 1:34:05  
-**Перегляди:** 1935 · **Лайки:** 89 · **Коментарі:** 7
+**Перегляди:** 1950 · **Лайки:** 90 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/GZ0id4HE8ls/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=GZ0id4HE8ls)

@@ -4,8 +4,8 @@ date: 2023-01-15
 tags: []
 videoId: "nID_kz4a89A"
 duration: "3:28:29"
-views: 1454
-likes: 64
+views: 1463
+likes: 66
 comments: 9
 ---
 # [Огляд співбесіду з JS.](https://www.youtube.com/watch?v=nID_kz4a89A)
@@ -13,7 +13,7 @@ comments: 9
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.01.2023 15:24  
 **Тривалість:** 3:28:29  
-**Перегляди:** 1454 · **Лайки:** 64 · **Коментарі:** 9
+**Перегляди:** 1463 · **Лайки:** 66 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=nID_kz4a89A)

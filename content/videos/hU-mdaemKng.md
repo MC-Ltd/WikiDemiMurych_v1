@@ -4,8 +4,8 @@ date: 2025-08-20
 tags: ["seo", "0", "google", "leaks", "2500"]
 videoId: "hU-mdaemKng"
 duration: "3:46:31"
-views: 3799
-likes: 167
+views: 3960
+likes: 173
 comments: 6
 ---
 # [Семантическая верстка и заголовки H1-H6](https://www.youtube.com/watch?v=hU-mdaemKng)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 20.08.2025 19:59  
 **Тривалість:** 3:46:31  
-**Перегляди:** 3799 · **Лайки:** 167 · **Коментарі:** 6
+**Перегляди:** 3960 · **Лайки:** 173 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=hU-mdaemKng)

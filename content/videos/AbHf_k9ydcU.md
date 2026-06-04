@@ -4,8 +4,8 @@ date: 2024-04-08
 tags: ["talks", "15", "JsForFunAndProfit"]
 videoId: "AbHf_k9ydcU"
 duration: "3:28:35"
-views: 4341
-likes: 184
+views: 4362
+likes: 187
 comments: 14
 ---
 # [Отвечаем на вопросы и разбираем материал: Optimizing JavaScript for fun and for profit](https://www.youtube.com/watch?v=AbHf_k9ydcU)
@@ -13,7 +13,7 @@ comments: 14
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.04.2024 12:21  
 **Тривалість:** 3:28:35  
-**Перегляди:** 4341 · **Лайки:** 184 · **Коментарі:** 14
+**Перегляди:** 4362 · **Лайки:** 187 · **Коментарі:** 14
 ![thumbnail](https://i.ytimg.com/vi/AbHf_k9ydcU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=AbHf_k9ydcU)

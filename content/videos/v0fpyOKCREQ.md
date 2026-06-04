@@ -4,7 +4,7 @@ date: 2022-12-27
 tags: []
 videoId: "v0fpyOKCREQ"
 duration: "1:19:49"
-views: 1635
+views: 1642
 likes: 105
 comments: 15
 ---
@@ -13,7 +13,7 @@ comments: 15
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 27.12.2022 14:43  
 **Тривалість:** 1:19:49  
-**Перегляди:** 1635 · **Лайки:** 105 · **Коментарі:** 15
+**Перегляди:** 1642 · **Лайки:** 105 · **Коментарі:** 15
 ![thumbnail](https://i.ytimg.com/vi/v0fpyOKCREQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=v0fpyOKCREQ)

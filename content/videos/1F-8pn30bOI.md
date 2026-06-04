@@ -4,8 +4,8 @@ date: 2023-08-25
 tags: []
 videoId: "1F-8pn30bOI"
 duration: "56:11"
-views: 5281
-likes: 312
+views: 5392
+likes: 316
 comments: 34
 ---
 # [⎡JSbook: 02.0⎦   JavaScript: От мифов к спецификации. Три JS кита.](https://www.youtube.com/watch?v=1F-8pn30bOI)
@@ -13,7 +13,7 @@ comments: 34
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 25.08.2023 07:56  
 **Тривалість:** 56:11  
-**Перегляди:** 5281 · **Лайки:** 312 · **Коментарі:** 34
+**Перегляди:** 5392 · **Лайки:** 316 · **Коментарі:** 34
 ![thumbnail](https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=1F-8pn30bOI)

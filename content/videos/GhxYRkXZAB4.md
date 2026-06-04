@@ -4,8 +4,8 @@ date: 2025-10-29
 tags: ["coding", "18", "ECMASite"]
 videoId: "GhxYRkXZAB4"
 duration: "5:49:36"
-views: 3567
-likes: 135
+views: 3603
+likes: 139
 comments: 9
 ---
 # [Live Coding: Оптимизируем сайт ECMA Script](https://www.youtube.com/watch?v=GhxYRkXZAB4)
@@ -13,7 +13,7 @@ comments: 9
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.10.2025 01:06  
 **Тривалість:** 5:49:36  
-**Перегляди:** 3567 · **Лайки:** 135 · **Коментарі:** 9
+**Перегляди:** 3603 · **Лайки:** 139 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/GhxYRkXZAB4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=GhxYRkXZAB4)

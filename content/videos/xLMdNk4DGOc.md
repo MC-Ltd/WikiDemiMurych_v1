@@ -4,8 +4,8 @@ date: 2025-02-14
 tags: ["coding", "17", "nativeSyntax"]
 videoId: "xLMdNk4DGOc"
 duration: "1:52:00"
-views: 1719
-likes: 62
+views: 1735
+likes: 64
 comments: 1
 ---
 # [Live Coding: Инструмент для удобной работы с V8 Native Syntax](https://www.youtube.com/watch?v=xLMdNk4DGOc)
@@ -13,7 +13,7 @@ comments: 1
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.02.2025 01:31  
 **Тривалість:** 1:52:00  
-**Перегляди:** 1719 · **Лайки:** 62 · **Коментарі:** 1
+**Перегляди:** 1735 · **Лайки:** 64 · **Коментарі:** 1
 ![thumbnail](https://i.ytimg.com/vi/xLMdNk4DGOc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=xLMdNk4DGOc)

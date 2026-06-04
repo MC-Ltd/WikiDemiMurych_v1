@@ -4,8 +4,8 @@ date: 2025-09-03
 tags: ["seo", "3", "web", "ajax"]
 videoId: "fy8raIuNewE"
 duration: "3:56:08"
-views: 6250
-likes: 213
+views: 6606
+likes: 221
 comments: 34
 ---
 # [Как правильно делать WEB проекты](https://www.youtube.com/watch?v=fy8raIuNewE)
@@ -13,7 +13,7 @@ comments: 34
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 03.09.2025 02:55  
 **Тривалість:** 3:56:08  
-**Перегляди:** 6250 · **Лайки:** 213 · **Коментарі:** 34
+**Перегляди:** 6606 · **Лайки:** 221 · **Коментарі:** 34
 ![thumbnail](https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=fy8raIuNewE)

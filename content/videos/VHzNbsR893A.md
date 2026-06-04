@@ -4,8 +4,8 @@ date: 2023-12-04
 tags: []
 videoId: "VHzNbsR893A"
 duration: "1:40:00"
-views: 7138
-likes: 189
+views: 7196
+likes: 193
 comments: 48
 ---
 # [⎡devices:04⎦ JavaScript инструменты: Оценка производительности](https://www.youtube.com/watch?v=VHzNbsR893A)
@@ -13,7 +13,7 @@ comments: 48
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.12.2023 22:11  
 **Тривалість:** 1:40:00  
-**Перегляди:** 7138 · **Лайки:** 189 · **Коментарі:** 48
+**Перегляди:** 7196 · **Лайки:** 193 · **Коментарі:** 48
 ![thumbnail](https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=VHzNbsR893A)

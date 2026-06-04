@@ -4,8 +4,8 @@ date: 2025-09-12
 tags: ["spec", "11", "js", "ecma", "IEEE754", "NaN"]
 videoId: "QxmS2ny5o3s"
 duration: "1:44:18"
-views: 1946
-likes: 83
+views: 1981
+likes: 86
 comments: 5
 ---
 # [Почему NaN это диапазон из 9 квадриллионов чисел](https://www.youtube.com/watch?v=QxmS2ny5o3s)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 12.09.2025 07:54  
 **Тривалість:** 1:44:18  
-**Перегляди:** 1946 · **Лайки:** 83 · **Коментарі:** 5
+**Перегляди:** 1981 · **Лайки:** 86 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/QxmS2ny5o3s/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=QxmS2ny5o3s)
@@ -55,7 +55,7 @@ www-users . cse . umn . edu / ~vinals / tspot_files / phys4041 / 2020 / IEEE%20S
 
 ---
 
-**[@dimitro.cardellini](https://www.youtube.com/channel/UCiCQBJtKpWMy3O3-NYNMorA)** *[26.09.2025 09:32](https://www.youtube.com/watch?v=QxmS2ny5o3s&lc=Ugwna6KSXDPxQely4gt4AaABAg)*
+**[@demitro.cardellini](https://www.youtube.com/channel/UCiCQBJtKpWMy3O3-NYNMorA)** *[26.09.2025 09:32](https://www.youtube.com/watch?v=QxmS2ny5o3s&lc=Ugwna6KSXDPxQely4gt4AaABAg)*
 
 Пан Мурич,
 Може вартувало почати з банального: що вважати числом, а що числом не вважати.

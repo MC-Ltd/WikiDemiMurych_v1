@@ -4,8 +4,8 @@ date: 2023-10-15
 tags: []
 videoId: "mXNdpPmtvF8"
 duration: "5:58:30"
-views: 2278
-likes: 77
+views: 2290
+likes: 80
 comments: 10
 ---
 # [⎡coding: 08⎦   JavaScript Live Coding: Proxy - Или мы настоящие костоломы](https://www.youtube.com/watch?v=mXNdpPmtvF8)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.10.2023 18:35  
 **Тривалість:** 5:58:30  
-**Перегляди:** 2278 · **Лайки:** 77 · **Коментарі:** 10
+**Перегляди:** 2290 · **Лайки:** 80 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/mXNdpPmtvF8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=mXNdpPmtvF8)

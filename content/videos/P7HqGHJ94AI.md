@@ -4,7 +4,7 @@ date: 2023-07-08
 tags: []
 videoId: "P7HqGHJ94AI"
 duration: "1:48:14"
-views: 6668
+views: 6701
 likes: 265
 comments: 20
 ---
@@ -13,7 +13,7 @@ comments: 20
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.07.2023 07:52  
 **Тривалість:** 1:48:14  
-**Перегляди:** 6668 · **Лайки:** 265 · **Коментарі:** 20
+**Перегляди:** 6701 · **Лайки:** 265 · **Коментарі:** 20
 ![thumbnail](https://i.ytimg.com/vi/P7HqGHJ94AI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=P7HqGHJ94AI)
@@ -164,7 +164,7 @@ this будет пустым обьектом несмотря на bind.
 
 я только начал учить js, чисто интересно. А есть редакторы, которые подсвечивают все внешние API и встроенные в джава скрипт? Чтобы их можно было различать. Или их там немного чтобы напамять выучить?
 
-> **[@whalecoding](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[15.01.2024 10:04](https://www.youtube.com/watch?v=P7HqGHJ94AI&lc=UgxQ5unjRAbpfOMe3Q54AaABAg.9yCT6EWyJD99z_zer6O8vd) · 👍 1*
+> **[@luqpubgmobile](https://www.youtube.com/channel/UCRzmsDBjfHB2NEz_6-9q1-A)** *[15.01.2024 10:04](https://www.youtube.com/watch?v=P7HqGHJ94AI&lc=UgxQ5unjRAbpfOMe3Q54AaABAg.9yCT6EWyJD99z_zer6O8vd) · 👍 1*
 
 > Пока не задумывайся об этом)
 

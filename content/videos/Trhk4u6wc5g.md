@@ -4,8 +4,8 @@ date: 2025-08-07
 tags: ["dlgs", "11", "js", "spivbesid"]
 videoId: "Trhk4u6wc5g"
 duration: "4:12:41"
-views: 1281
-likes: 51
+views: 1290
+likes: 54
 comments: 4
 ---
 # [Українською - другий нормальний співбесід щодо JavaScript](https://www.youtube.com/watch?v=Trhk4u6wc5g)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.08.2025 17:52  
 **Тривалість:** 4:12:41  
-**Перегляди:** 1281 · **Лайки:** 51 · **Коментарі:** 4
+**Перегляди:** 1290 · **Лайки:** 54 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/Trhk4u6wc5g/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Trhk4u6wc5g)

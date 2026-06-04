@@ -4,8 +4,8 @@ date: 2025-02-21
 tags: ["sobes", "21", "js", "top", "best"]
 videoId: "Cc9XBcUioBI"
 duration: "5:21:23"
-views: 5745
-likes: 176
+views: 5786
+likes: 180
 comments: 29
 ---
 # [Лучшая из задач для собеседования](https://www.youtube.com/watch?v=Cc9XBcUioBI)
@@ -13,7 +13,7 @@ comments: 29
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.02.2025 00:41  
 **Тривалість:** 5:21:23  
-**Перегляди:** 5745 · **Лайки:** 176 · **Коментарі:** 29
+**Перегляди:** 5786 · **Лайки:** 180 · **Коментарі:** 29
 ![thumbnail](https://i.ytimg.com/vi/Cc9XBcUioBI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Cc9XBcUioBI)

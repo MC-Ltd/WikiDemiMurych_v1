@@ -4,20 +4,20 @@ date: 2025-06-14
 tags: ["spec", "9", "js", "ecma", "String", "unicode", "utf16"]
 videoId: "wCcVWQ9bikg"
 duration: "50:28"
-views: 2470
-likes: 136
-comments: 16
+views: 2683
+likes: 150
+comments: 17
 ---
 # [[Stripped] Тип String согласно официальной спецификации ECMAScript. Часть 1 из 3.](https://www.youtube.com/watch?v=wCcVWQ9bikg)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.06.2025 05:52  
 **Тривалість:** 50:28  
-**Перегляди:** 2470 · **Лайки:** 136 · **Коментарі:** 16
+**Перегляди:** 2683 · **Лайки:** 150 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/wCcVWQ9bikg/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=wCcVWQ9bikg)
-## Коментарі (12 · відповідей: 4)
+## Коментарі (13 · відповідей: 4)
 
 **[@AlexanderBorshak](https://www.youtube.com/channel/UCcY6GQl77kuMf2BjIB-HjhQ)** *[14.06.2025 08:17](https://www.youtube.com/watch?v=wCcVWQ9bikg&lc=Ugx0_PXUn6cHB2vjrhZ4AaABAg) · 👍 2*
 
@@ -107,7 +107,7 @@ comments: 16
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[18.07.2025 09:00](https://www.youtube.com/watch?v=wCcVWQ9bikg&lc=UgwXh5LI0fi0zLiNgzl4AaABAg)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[18.07.2025 09:00](https://www.youtube.com/watch?v=wCcVWQ9bikg&lc=UgwXh5LI0fi0zLiNgzl4AaABAg)*
 
 Подскажите пожалуйста. Я ввёл в консоли хрома var a = 'й', var b = 'й', и у меня сравнение переменных true даёт. Почему у вас false? Я что-то не так делаю?
 
@@ -138,5 +138,11 @@ comments: 16
 **[@keeeparis](https://www.youtube.com/channel/UCB8CTMJf5M8uWeeLoVZt49A)** *[05.03.2026 09:17](https://www.youtube.com/watch?v=wCcVWQ9bikg&lc=UgyqgjacQEdEy6HGmol4AaABAg)*
 
 это очень крутое видео!
+
+---
+
+**[@exedealer](https://www.youtube.com/channel/UCFhHWgJZB0MWCmK_Cu5rKlQ)** *[22.05.2026 16:44](https://www.youtube.com/watch?v=wCcVWQ9bikg&lc=UgyB-iMszd3Vkfmv0vl4AaABAg)*
+
+спасибо
 
 ---

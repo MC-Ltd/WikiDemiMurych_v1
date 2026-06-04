@@ -4,8 +4,8 @@ date: 2023-05-07
 tags: []
 videoId: "fQ7_GT8_zeM"
 duration: "27:46"
-views: 10059
-likes: 624
+views: 10350
+likes: 639
 comments: 26
 ---
 # [Как работает this в javascript.  Разберемся на примерах. [Короткая версия]  [RU]](https://www.youtube.com/watch?v=fQ7_GT8_zeM)
@@ -13,7 +13,7 @@ comments: 26
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.05.2023 21:06  
 **Тривалість:** 27:46  
-**Перегляди:** 10059 · **Лайки:** 624 · **Коментарі:** 26
+**Перегляди:** 10350 · **Лайки:** 639 · **Коментарі:** 26
 ![thumbnail](https://i.ytimg.com/vi/fQ7_GT8_zeM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=fQ7_GT8_zeM)
@@ -97,7 +97,7 @@ new bound(); // в V8 точно не [1]
 
 ---
 
-**[@russell198309](https://www.youtube.com/channel/UCpazuGXHI-W42jdnYNSvzow)** *[25.01.2024 21:10](https://www.youtube.com/watch?v=fQ7_GT8_zeM&lc=UgwSsbtWE7dIGZWRtaV4AaABAg) (ред. 25.01.2024 21:34) · 👍 3*
+**[@russell198309](https://www.youtube.com/channel/UCpazuGXHI-W42jdnYNSvzow)** *[25.01.2024 21:10](https://www.youtube.com/watch?v=fQ7_GT8_zeM&lc=UgwSsbtWE7dIGZWRtaV4AaABAg) (ред. 25.01.2024 21:34) · 👍 5*
 
 Видео супер, но про стрелочные функции не сказано
 

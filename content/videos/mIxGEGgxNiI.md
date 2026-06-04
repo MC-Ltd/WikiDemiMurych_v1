@@ -4,16 +4,16 @@ date: 2023-08-01
 tags: []
 videoId: "mIxGEGgxNiI"
 duration: "3:36:06"
-views: 11445
-likes: 338
-comments: 76
+views: 11516
+likes: 342
+comments: 77
 ---
 # [⎡msk⎦ Разбираем видео:  "Асинхронность в JS - Григорий Бизюкин"](https://www.youtube.com/watch?v=mIxGEGgxNiI)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.08.2023 10:13  
 **Тривалість:** 3:36:06  
-**Перегляди:** 11445 · **Лайки:** 338 · **Коментарі:** 76
+**Перегляди:** 11516 · **Лайки:** 342 · **Коментарі:** 77
 ![thumbnail](https://i.ytimg.com/vi/mIxGEGgxNiI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=mIxGEGgxNiI)
@@ -50,7 +50,7 @@ comments: 76
 - [03:07:19](https://www.youtube.com/watch?v=mIxGEGgxNiI&t=11239)   Хитрости у Promise
 - [03:17:49](https://www.youtube.com/watch?v=mIxGEGgxNiI&t=11869)   Последний catch в Promise и Garbage Collector
 - [03:32:43](https://www.youtube.com/watch?v=mIxGEGgxNiI&t=12763)   Я устал я мухожук.
-## Коментарі (39 · відповідей: 37)
+## Коментарі (39 · відповідей: 38)
 
 **[@stepanmikhailiuk4571](https://www.youtube.com/channel/UCzfcsYNE13Hngw8s-lAAUNg)** *[31.07.2023 21:30](https://www.youtube.com/watch?v=mIxGEGgxNiI&lc=UgzOItyELddkoGIv1P54AaABAg) (ред. 30.09.2023 03:17) · 👍 4*
 
@@ -317,6 +317,10 @@ https://www.youtube.com/live/mIxGEGgxNiI?feature=share&t=11337
 > **[@hiki7661](https://www.youtube.com/channel/UCkOrb6MOcss99MGJJsmRXtA)** *[01.04.2024 04:41](https://www.youtube.com/watch?v=mIxGEGgxNiI&lc=UgwlcUBEYbXsEdqgjjl4AaABAg.9vZZI0CrFkrA1ffx3S4uyJ)*
 
 > @yavener Согласен потоки это не совсем класическое понятие потоков, тут скорее не так джс не однопоточный, но и назвать его многопоточным нельзя ибо зависит от реализации воркеров в том же браузере, но то что у джс есть более менее управляемый паралелизм, кроме асинхроности это уже факт
+
+> **[@Watozarato](https://www.youtube.com/channel/UC0f-TKFbfRF_PaYbA95TkBA)** *[12.05.2026 14:48](https://www.youtube.com/watch?v=mIxGEGgxNiI&lc=UgwlcUBEYbXsEdqgjjl4AaABAg.9vZZI0CrFkrAWi1J4Kb4bY)*
+
+> ​@eriknaumann-s1x SharedArrayBuffer + Atomics API как бы в самом JS существуют
 
 ---
 

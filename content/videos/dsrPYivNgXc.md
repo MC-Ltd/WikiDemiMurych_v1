@@ -4,8 +4,8 @@ date: 2025-02-08
 tags: ["tthmjs", "1", "drs", "expl"]
 videoId: "dsrPYivNgXc"
 duration: "47:41"
-views: 1921
-likes: 93
+views: 1940
+likes: 98
 comments: 9
 ---
 # [Try to hack My JavaScript: Решения для readyState](https://www.youtube.com/watch?v=dsrPYivNgXc)
@@ -13,7 +13,7 @@ comments: 9
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.02.2025 05:52  
 **Тривалість:** 47:41  
-**Перегляди:** 1921 · **Лайки:** 93 · **Коментарі:** 9
+**Перегляди:** 1940 · **Лайки:** 98 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/dsrPYivNgXc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=dsrPYivNgXc)

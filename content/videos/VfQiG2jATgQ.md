@@ -4,8 +4,8 @@ date: 2025-07-08
 tags: ["perf", "10", "async", "Function", "Ecma", "v8"]
 videoId: "VfQiG2jATgQ"
 duration: "5:30:22"
-views: 3789
-likes: 133
+views: 3840
+likes: 136
 comments: 5
 ---
 # [Производительность  Async Function](https://www.youtube.com/watch?v=VfQiG2jATgQ)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.07.2025 23:43  
 **Тривалість:** 5:30:22  
-**Перегляди:** 3789 · **Лайки:** 133 · **Коментарі:** 5
+**Перегляди:** 3840 · **Лайки:** 136 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/VfQiG2jATgQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=VfQiG2jATgQ)

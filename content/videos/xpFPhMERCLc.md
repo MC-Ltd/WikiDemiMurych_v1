@@ -4,8 +4,8 @@ date: 2024-01-07
 tags: []
 videoId: "xpFPhMERCLc"
 duration: "3:10:51"
-views: 2996
-likes: 89
+views: 3004
+likes: 91
 comments: 9
 ---
 # [⎡talks:14⎦ Отвечаю на комментарии, оставленные под предыдущими стримами](https://www.youtube.com/watch?v=xpFPhMERCLc)
@@ -13,7 +13,7 @@ comments: 9
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.01.2024 13:04  
 **Тривалість:** 3:10:51  
-**Перегляди:** 2996 · **Лайки:** 89 · **Коментарі:** 9
+**Перегляди:** 3004 · **Лайки:** 91 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/xpFPhMERCLc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=xpFPhMERCLc)

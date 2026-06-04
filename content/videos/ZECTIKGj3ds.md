@@ -4,8 +4,8 @@ date: 2025-07-29
 tags: ["perf", "12", "Array", "v9"]
 videoId: "ZECTIKGj3ds"
 duration: "2:33:24"
-views: 2053
-likes: 66
+views: 2064
+likes: 70
 comments: 4
 ---
 # [Тесты Array Allocation. Дополнение к видео о сложности алгоритмов](https://www.youtube.com/watch?v=ZECTIKGj3ds)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.07.2025 21:10  
 **Тривалість:** 2:33:24  
-**Перегляди:** 2053 · **Лайки:** 66 · **Коментарі:** 4
+**Перегляди:** 2064 · **Лайки:** 70 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/ZECTIKGj3ds/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ZECTIKGj3ds)

@@ -4,8 +4,8 @@ date: 2023-07-17
 tags: []
 videoId: "Tfr4vXlc1sw"
 duration: "5:22:37"
-views: 1409
-likes: 64
+views: 1412
+likes: 67
 comments: 31
 ---
 # [⎡msk⎦ ⎡talks⎦ Диалог о том, почему аналогии, которые не отвечают спецификации, это не всегда плохо](https://www.youtube.com/watch?v=Tfr4vXlc1sw)
@@ -13,7 +13,7 @@ comments: 31
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.07.2023 23:45  
 **Тривалість:** 5:22:37  
-**Перегляди:** 1409 · **Лайки:** 64 · **Коментарі:** 31
+**Перегляди:** 1412 · **Лайки:** 67 · **Коментарі:** 31
 ![thumbnail](https://i.ytimg.com/vi/Tfr4vXlc1sw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Tfr4vXlc1sw)

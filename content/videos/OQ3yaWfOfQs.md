@@ -4,8 +4,8 @@ date: 2023-11-19
 tags: []
 videoId: "OQ3yaWfOfQs"
 duration: "3:56:36"
-views: 4210
-likes: 135
+views: 4225
+likes: 137
 comments: 13
 ---
 # [⎡dlgs:02⎦   JavaScript Беседы: Reduce, For, Wasm...](https://www.youtube.com/watch?v=OQ3yaWfOfQs)
@@ -13,7 +13,7 @@ comments: 13
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.11.2023 15:17  
 **Тривалість:** 3:56:36  
-**Перегляди:** 4210 · **Лайки:** 135 · **Коментарі:** 13
+**Перегляди:** 4225 · **Лайки:** 137 · **Коментарі:** 13
 ![thumbnail](https://i.ytimg.com/vi/OQ3yaWfOfQs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=OQ3yaWfOfQs)

@@ -4,8 +4,8 @@ date: 2023-05-07
 tags: []
 videoId: "4tg4qokVS9o"
 duration: "2:04:21"
-views: 39005
-likes: 1303
+views: 39402
+likes: 1325
 comments: 136
 ---
 # [Как работает this в javascript. Разберемся на примерах опираясь на официальную спецификацию. [RU]](https://www.youtube.com/watch?v=4tg4qokVS9o)
@@ -13,11 +13,11 @@ comments: 136
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.05.2023 05:52  
 **Тривалість:** 2:04:21  
-**Перегляди:** 39005 · **Лайки:** 1303 · **Коментарі:** 136
+**Перегляди:** 39402 · **Лайки:** 1325 · **Коментарі:** 136
 ![thumbnail](https://i.ytimg.com/vi/4tg4qokVS9o/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=4tg4qokVS9o)
-## Коментарі (90 · відповідей: 46)
+## Коментарі (91 · відповідей: 45)
 
 **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[07.05.2023 06:12](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=Ugy34elZ2ycyNgb_IvN4AaABAg) (ред. 07.05.2023 06:12) · 👍 8*
 
@@ -483,10 +483,6 @@ Environment функции и то что в интернетах называю
 
 Что произойдет, согласно спецификации, если сначала определить this через .bind, а потом получившуюся функцию вызвать через new?
 
-> **[@klishe2541](https://www.youtube.com/channel/UCk9MNpOzeAuSKMk8T_noASg)** *[02.01.2024 02:47](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgzSMJ6Mpu46-jbqd6R4AaABAg.9yxvE_Sm8fh9z2jKI9Tg6v) · 👍 1*
-
-> Связанный this методом bind игнорируется , функция вызывается как конструктор, то есть this присваивается пустой объект. this = {}
-
 ---
 
 **[@_Good_Evening_](https://www.youtube.com/channel/UC9HBo0_7o8jROXlvkFcVfIg)** *[01.01.2024 14:49](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgzYyM3mmrPRTvQTFB54AaABAg) · 👍 2*
@@ -495,7 +491,7 @@ Environment функции и то что в интернетах называю
 
 ---
 
-**[@grantorino3465](https://www.youtube.com/channel/UC1S67-sFoY5eey9cfkxIj9w)** *[03.01.2024 22:37](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgyViaYrm1ACu9lmsTR4AaABAg) (ред. 03.01.2024 23:19) · 👍 1*
+**[@grantorino_coder](https://www.youtube.com/channel/UC1S67-sFoY5eey9cfkxIj9w)** *[03.01.2024 22:37](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgyViaYrm1ACu9lmsTR4AaABAg) (ред. 03.01.2024 23:19) · 👍 1*
 
 В браузера в use strict this равен undefined и с call,apply,bind тоже чуток ошибка, если после назначения этими методами вызвать эту фцию через new, то не поможет назначения, будет {}
 
@@ -762,7 +758,7 @@ o.memberF();
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[11.10.2024 13:47](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgxsTuTHolkP3UNTI1p4AaABAg)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[11.10.2024 13:47](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgxsTuTHolkP3UNTI1p4AaABAg)*
 
 Большое спасибо. 
 
@@ -774,7 +770,7 @@ o.memberF();
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[15.10.2024 18:16](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgwNym4DspEADx3uv0J4AaABAg)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[15.10.2024 18:16](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgwNym4DspEADx3uv0J4AaABAg)*
 
 Подскажите пожалуйста, почему метод у строки вызывается через точку, а числа через две точки? 12..method() ?
 
@@ -782,7 +778,7 @@ o.memberF();
 
 > єто костыль, который добавлен в спецификацию, чтобы иметь однозначный способ отличить число с дробной частью от вызова метода.
 
-> **[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[16.10.2024 18:27](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgwNym4DspEADx3uv0J4AaABAg.A9cOo7JFNiBA9ezmLXMVf6)*
+> **[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[16.10.2024 18:27](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgwNym4DspEADx3uv0J4AaABAg.A9cOo7JFNiBA9ezmLXMVf6)*
 
 > @demimurych1 понял, спасибо)
 
@@ -959,5 +955,11 @@ JavaScript – это удивительный мир, в котором клю�
 **[@ЯнаБабичева-ъ9д](https://www.youtube.com/channel/UC0BnzePpRW3QAHkhkVD_5RQ)** *[23.10.2025 17:16](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgyzKhGUpgj4uS2nRql4AaABAg) · 👍 3*
 
 Пересматриваю 2х часовой ролик уже 2й раз и каждый раз понимаю, что для меня это лучшее видео на youtube
+
+---
+
+**[@Arthur-d6q](https://www.youtube.com/channel/UCE8hYPaGmTpY4oF-zyvP3Pw)** *[12.04.2026 00:01](https://www.youtube.com/watch?v=4tg4qokVS9o&lc=UgzjM8I_IoEcbS6G0254AaABAg)*
+
+❤❤❤
 
 ---

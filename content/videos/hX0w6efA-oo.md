@@ -4,8 +4,8 @@ date: 2023-09-08
 tags: []
 videoId: "hX0w6efA-oo"
 duration: "5:27:01"
-views: 2557
-likes: 53
+views: 2560
+likes: 56
 comments: 10
 ---
 # [⎡coding: 06⎦   JavaScript Live Coding: Morse. Часть 3.](https://www.youtube.com/watch?v=hX0w6efA-oo)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.09.2023 23:45  
 **Тривалість:** 5:27:01  
-**Перегляди:** 2557 · **Лайки:** 53 · **Коментарі:** 10
+**Перегляди:** 2560 · **Лайки:** 56 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/hX0w6efA-oo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=hX0w6efA-oo)

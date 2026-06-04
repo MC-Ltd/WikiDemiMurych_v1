@@ -4,8 +4,8 @@ date: 2023-06-14
 tags: []
 videoId: "9AlGxr8YsJ4"
 duration: "23:43"
-views: 1303
-likes: 125
+views: 1315
+likes: 129
 comments: 6
 ---
 # [⎡msk⎦⎡RegExp⎦⎡03⎦ Регулярные 5ти минутки. Как в JavaScript RegExp организованы циклы](https://www.youtube.com/watch?v=9AlGxr8YsJ4)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.06.2023 17:51  
 **Тривалість:** 23:43  
-**Перегляди:** 1303 · **Лайки:** 125 · **Коментарі:** 6
+**Перегляди:** 1315 · **Лайки:** 129 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/9AlGxr8YsJ4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=9AlGxr8YsJ4)

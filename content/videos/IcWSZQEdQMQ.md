@@ -4,26 +4,26 @@ date: 2025-06-24
 tags: ["spec", "9", "js", "ecma", "String", "unicode", "utf16"]
 videoId: "IcWSZQEdQMQ"
 duration: "1:17:12"
-views: 1672
-likes: 68
-comments: 6
+views: 1787
+likes: 74
+comments: 9
 ---
 # [[Stripped] Тип String и его две основные проблемы. Часть 2 из 3.](https://www.youtube.com/watch?v=IcWSZQEdQMQ)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 24.06.2025 06:30  
 **Тривалість:** 1:17:12  
-**Перегляди:** 1672 · **Лайки:** 68 · **Коментарі:** 6
+**Перегляди:** 1787 · **Лайки:** 74 · **Коментарі:** 9
 ![thumbnail](https://i.ytimg.com/vi/IcWSZQEdQMQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=IcWSZQEdQMQ)
-## Коментарі (4 · відповідей: 2)
+## Коментарі (6 · відповідей: 3)
 
 **[@AlexanderBorshak](https://www.youtube.com/channel/UCcY6GQl77kuMf2BjIB-HjhQ)** *[24.06.2025 08:37](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgxxQiHvPj9lx7Wq5i54AaABAg) (ред. 25.06.2025 09:02) · 👍 1*
 
 Так в чем собственно заключаются 2 проблемы типа String в JS? Неизменяемость и сравнение ненормализованных Unicode-строк? Первая - не проблема, а особенность языка (в том же Руби, к примеру, строки мутируемые, что проблема в некоторых случаях); а вторая - к JS не имеет косвенное отношение, скорее особенность Unicode. И по итогу, у нас получилась лекция по стандарту Unicode, хотя обещалось видео про 2 проблемы типа String. Нет, видео о Unicode нужно! Просто в данном случае название не отражаeт суть самого видео.
 
-> **[@demimurych1](https://www.youtube.com/channel/UCesD1HRn9NPKXcyXV0-8oMg)** *[25.06.2025 22:01](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgxxQiHvPj9lx7Wq5i54AaABAg.AJkEoPyHXNLAJoFcqu69m8) (ред. 25.06.2025 22:02)*
+> **[@demimurych1](https://www.youtube.com/channel/UCesD1HRn9NPKXcyXV0-8oMg)** *[25.06.2025 22:01](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgxxQiHvPj9lx7Wq5i54AaABAg.AJkEoPyHXNLAJoFcqu69m8) (ред. 25.06.2025 22:02) · 👍 1*
 
 > Проблема заключается в том, что формат Unicode позволит Вам получить какую либо информацию о том, чем является отображаемая строка, только после интерпретации всей последовательности Code Unit-ов этой строки.
 > Никакая нормализация Вам ничего не даст для решение этой проблемы. 
@@ -41,6 +41,10 @@ comments: 6
 > 
 > Сам факт того, что разные методы обслуживают строки по разному, уже достаточное основание говорить о существующих проблемах.
 
+> **[@Ivan-o9w8w](https://www.youtube.com/channel/UC80H52S-R1kGJaxHxORx1YA)** *[30.05.2026 17:47](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgxxQiHvPj9lx7Wq5i54AaABAg.AJkEoPyHXNLAXRh2_RkO6M)*
+
+> Это может иногда дать неожиданный результат при работе со строками. Вроде такой пример был, да отстранённым, но всё же, когда человек разбил слово на массивы букв, потом собрал их и сравнил с такой же строкой, а сравнение выдало фолс, потому что строки были закодированы по разному
+
 ---
 
 **[@rerurkful](https://www.youtube.com/channel/UCgJQG9TBnlKENdGSnxqh2bA)** *[27.06.2025 08:39](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgyXYxMS4Cb8_idKTjt4AaABAg)*
@@ -55,7 +59,7 @@ comments: 6
 Метод at() в JavaScript правильно обрабатывает символы Unicode, в отличие от старого метода charAt(). В JavaScript строки хранятся как последовательность кодовых единиц UTF-16, и charAt() может возвращать неправильные результаты при работе с символами Unicode, представленными несколькими кодовыми единицами, например, эмодзи или символами из определённых скриптов. at() возвращает правильный символ.
 Я думаю из-за charAt ИИ путаются
 
-> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[07.07.2025 01:10](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgzjH8iZaaiIUxN2WPh4AaABAg.AK9wU-BxdnbAKFuyXkITVi)*
+> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[07.07.2025 01:10](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgzjH8iZaaiIUxN2WPh4AaABAg.AK9wU-BxdnbAKFuyXkITVi) · 👍 1*
 
 > Экспериментальным путем было установлено, что в GPT даже форма одного и того же вопроса, может радикально изменить ответ. Не говоря уже о том, что GPT помнит какие-то части контекстов из разговоров бывших ранее. 
 > 
@@ -90,5 +94,17 @@ comments: 6
 01:03:20 Стандартный итератор String
 01:08:40 Отдельно про графемы (конец второй части)
 01:11:20 Заключение
+
+---
+
+**[@exedealer](https://www.youtube.com/channel/UCFhHWgJZB0MWCmK_Cu5rKlQ)** *[23.05.2026 00:17](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=UgyWfLUHXvNDvj1BPI14AaABAg)*
+
+посоветуйте какие ноотропы надо употреблять чтобы ни разу за несколько часов разговора не перепутать code point и code unit
+
+---
+
+**[@Ivan-o9w8w](https://www.youtube.com/channel/UC80H52S-R1kGJaxHxORx1YA)** *[30.05.2026 17:44](https://www.youtube.com/watch?v=IcWSZQEdQMQ&lc=Ugz6mkhRzvv99NmcEpN4AaABAg)*
+
+Да, да, как-то сталкивался с ютф-8, когда мне слово в кириллице из 4 букв посчитал как 8 букв 😂😂😂😂😂
 
 ---

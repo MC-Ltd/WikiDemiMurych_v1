@@ -4,8 +4,8 @@ date: 2023-11-25
 tags: []
 videoId: "_su4lhLXwfk"
 duration: "5:22:01"
-views: 4535
-likes: 117
+views: 4545
+likes: 121
 comments: 15
 ---
 # [⎡coding:12-3⎦ LeetCode: 30 JavaScript задач за 30 часов - Part3 - JavaScript Live Coding.](https://www.youtube.com/watch?v=_su4lhLXwfk)
@@ -13,7 +13,7 @@ comments: 15
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 25.11.2023 09:38  
 **Тривалість:** 5:22:01  
-**Перегляди:** 4535 · **Лайки:** 117 · **Коментарі:** 15
+**Перегляди:** 4545 · **Лайки:** 121 · **Коментарі:** 15
 ![thumbnail](https://i.ytimg.com/vi/_su4lhLXwfk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=_su4lhLXwfk)

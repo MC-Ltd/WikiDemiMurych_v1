@@ -4,8 +4,8 @@ date: 2023-09-18
 tags: []
 videoId: "ICwDR01RgnA"
 duration: "6:02:16"
-views: 4395
-likes: 150
+views: 4420
+likes: 153
 comments: 49
 ---
 # [⎡sobes: 09⎦   JavaScript собеседования: Палиндром, плоский массив, поиск пути и еще две](https://www.youtube.com/watch?v=ICwDR01RgnA)
@@ -13,7 +13,7 @@ comments: 49
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 18.09.2023 23:50  
 **Тривалість:** 6:02:16  
-**Перегляди:** 4395 · **Лайки:** 150 · **Коментарі:** 49
+**Перегляди:** 4420 · **Лайки:** 153 · **Коментарі:** 49
 ![thumbnail](https://i.ytimg.com/vi/ICwDR01RgnA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ICwDR01RgnA)

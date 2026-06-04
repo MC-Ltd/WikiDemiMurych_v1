@@ -4,8 +4,8 @@ date: 2023-05-17
 tags: []
 videoId: "P3KQkLUvFFw"
 duration: "24:55"
-views: 1874
-likes: 149
+views: 1896
+likes: 153
 comments: 22
 ---
 # [⎡msk⎦ JavaScript JSON как эффективный прием оптимизации холодного старта JS кода.](https://www.youtube.com/watch?v=P3KQkLUvFFw)
@@ -13,7 +13,7 @@ comments: 22
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.05.2023 01:56  
 **Тривалість:** 24:55  
-**Перегляди:** 1874 · **Лайки:** 149 · **Коментарі:** 22
+**Перегляди:** 1896 · **Лайки:** 153 · **Коментарі:** 22
 ![thumbnail](https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=P3KQkLUvFFw)

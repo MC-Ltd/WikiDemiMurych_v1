@@ -4,8 +4,8 @@ date: 2025-10-09
 tags: ["someThingUseful", "00", "devtools", "settings"]
 videoId: "_On4jSu1vUQ"
 duration: "40:28"
-views: 2225
-likes: 143
+views: 2257
+likes: 150
 comments: 16
 ---
 # [Что-нибудь полезное: DevTools settings](https://www.youtube.com/watch?v=_On4jSu1vUQ)
@@ -13,7 +13,7 @@ comments: 16
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.10.2025 17:17  
 **Тривалість:** 40:28  
-**Перегляди:** 2225 · **Лайки:** 143 · **Коментарі:** 16
+**Перегляди:** 2257 · **Лайки:** 150 · **Коментарі:** 16
 ![thumbnail](https://i.ytimg.com/vi/_On4jSu1vUQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=_On4jSu1vUQ)

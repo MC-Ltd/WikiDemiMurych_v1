@@ -4,8 +4,8 @@ date: 2023-04-25
 tags: []
 videoId: "ii4uyl61xns"
 duration: "3:41:30"
-views: 7657
-likes: 294
+views: 7680
+likes: 298
 comments: 63
 ---
 # [Собеседование chatGPT на должность Junior JavaScript Developer](https://www.youtube.com/watch?v=ii4uyl61xns)
@@ -13,7 +13,7 @@ comments: 63
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 25.04.2023 07:50  
 **Тривалість:** 3:41:30  
-**Перегляди:** 7657 · **Лайки:** 294 · **Коментарі:** 63
+**Перегляди:** 7680 · **Лайки:** 298 · **Коментарі:** 63
 ![thumbnail](https://i.ytimg.com/vi/ii4uyl61xns/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ii4uyl61xns)
@@ -399,7 +399,7 @@ ECMAScript 2025, 20.5 Error Objects: "Instances of Error objects are *thrown as 
 
 ---
 
-**[@malyuga4726](https://www.youtube.com/channel/UC_f5XegaLAZlpeZoJG7WRHg)** *[14.07.2024 16:08](https://www.youtube.com/watch?v=ii4uyl61xns&lc=UgzccbTAF9NqeqdFuq54AaABAg)*
+**[@Malyugam](https://www.youtube.com/channel/UC_f5XegaLAZlpeZoJG7WRHg)** *[14.07.2024 16:08](https://www.youtube.com/watch?v=ii4uyl61xns&lc=UgzccbTAF9NqeqdFuq54AaABAg)*
 
 Уважаемые программисты, подскажите пожалуйста, по первому кейсу с разделением строки, где можно встретить реальный пример в котором, условно, пользователь ввел строку, где вместо символа U+0020 использовал другой пробел?
 
@@ -407,7 +407,7 @@ ECMAScript 2025, 20.5 Error Objects: "Instances of Error objects are *thrown as 
 
 > Я не программист, ну например перенос на другую строку не подходит?
 
-> **[@malyuga4726](https://www.youtube.com/channel/UC_f5XegaLAZlpeZoJG7WRHg)** *[13.12.2024 05:03](https://www.youtube.com/watch?v=ii4uyl61xns&lc=UgzccbTAF9NqeqdFuq54AaABAg.A5sh9H65ax6ABytvRT6ZIA)*
+> **[@Malyugam](https://www.youtube.com/channel/UC_f5XegaLAZlpeZoJG7WRHg)** *[13.12.2024 05:03](https://www.youtube.com/watch?v=ii4uyl61xns&lc=UgzccbTAF9NqeqdFuq54AaABAg.A5sh9H65ax6ABytvRT6ZIA)*
 
 > @jellylemonchannel  нет, не подходит. Здесь говорилось именно о том, что пользователь вводит символ из группы пробелов, а ты ввел перенос строки и к пробельным символам вообще никакого отношения не имеет
 

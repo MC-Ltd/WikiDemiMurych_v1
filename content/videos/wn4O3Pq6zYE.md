@@ -4,8 +4,8 @@ date: 2023-06-27
 tags: []
 videoId: "wn4O3Pq6zYE"
 duration: "2:07:15"
-views: 2803
-likes: 140
+views: 2814
+likes: 146
 comments: 6
 ---
 # [⎡msk⎦ Разбираем вопрос JavaScript собеседований о передаче по ссылке и по значению](https://www.youtube.com/watch?v=wn4O3Pq6zYE)
@@ -13,7 +13,7 @@ comments: 6
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 27.06.2023 09:22  
 **Тривалість:** 2:07:15  
-**Перегляди:** 2803 · **Лайки:** 140 · **Коментарі:** 6
+**Перегляди:** 2814 · **Лайки:** 146 · **Коментарі:** 6
 ![thumbnail](https://i.ytimg.com/vi/wn4O3Pq6zYE/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=wn4O3Pq6zYE)

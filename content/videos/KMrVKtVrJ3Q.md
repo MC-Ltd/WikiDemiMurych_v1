@@ -4,8 +4,8 @@ date: 2025-02-07
 tags: ["perf", "8", "v8", "object"]
 videoId: "KMrVKtVrJ3Q"
 duration: "7:05:56"
-views: 5301
-likes: 174
+views: 5343
+likes: 177
 comments: 14
 ---
 # [Производительность JS:  Обьекты в V8](https://www.youtube.com/watch?v=KMrVKtVrJ3Q)
@@ -13,7 +13,7 @@ comments: 14
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.02.2025 00:25  
 **Тривалість:** 7:05:56  
-**Перегляди:** 5301 · **Лайки:** 174 · **Коментарі:** 14
+**Перегляди:** 5343 · **Лайки:** 177 · **Коментарі:** 14
 ![thumbnail](https://i.ytimg.com/vi/KMrVKtVrJ3Q/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=KMrVKtVrJ3Q)

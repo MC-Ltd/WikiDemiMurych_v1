@@ -4,8 +4,8 @@ date: 2023-10-27
 tags: []
 videoId: "VEPHWJ5SQko"
 duration: "4:13:05"
-views: 4034
-likes: 164
+views: 4053
+likes: 167
 comments: 18
 ---
 # [⎡sobes: 12⎦  Задачи собеседований: Этапы интерпретации JS кода](https://www.youtube.com/watch?v=VEPHWJ5SQko)
@@ -13,7 +13,7 @@ comments: 18
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 27.10.2023 00:12  
 **Тривалість:** 4:13:05  
-**Перегляди:** 4034 · **Лайки:** 164 · **Коментарі:** 18
+**Перегляди:** 4053 · **Лайки:** 167 · **Коментарі:** 18
 ![thumbnail](https://i.ytimg.com/vi/VEPHWJ5SQko/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=VEPHWJ5SQko)

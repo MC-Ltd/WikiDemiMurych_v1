@@ -4,8 +4,8 @@ date: 2025-01-30
 tags: ["yt", "asm", "03", "virus", "td", "x86"]
 videoId: "nCM2-bsdnKI"
 duration: "5:29:58"
-views: 12209
-likes: 443
+views: 12309
+likes: 448
 comments: 30
 ---
 # [Asm для JS программиста:  Пишем вирус](https://www.youtube.com/watch?v=nCM2-bsdnKI)
@@ -13,7 +13,7 @@ comments: 30
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 30.01.2025 23:16  
 **Тривалість:** 5:29:58  
-**Перегляди:** 12209 · **Лайки:** 443 · **Коментарі:** 30
+**Перегляди:** 12309 · **Лайки:** 448 · **Коментарі:** 30
 ![thumbnail](https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=nCM2-bsdnKI)

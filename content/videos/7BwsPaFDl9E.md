@@ -4,8 +4,8 @@ date: 2025-03-08
 tags: ["talks", "16", "lightOn"]
 videoId: "7BwsPaFDl9E"
 duration: "6:16:42"
-views: 4295
-likes: 140
+views: 4312
+likes: 143
 comments: 2
 ---
 # [Разговор с чатом, пока есть свет](https://www.youtube.com/watch?v=7BwsPaFDl9E)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.03.2025 06:22  
 **Тривалість:** 6:16:42  
-**Перегляди:** 4295 · **Лайки:** 140 · **Коментарі:** 2
+**Перегляди:** 4312 · **Лайки:** 143 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/7BwsPaFDl9E/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=7BwsPaFDl9E)

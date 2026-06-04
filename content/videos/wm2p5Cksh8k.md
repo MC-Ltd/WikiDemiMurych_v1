@@ -4,8 +4,8 @@ date: 2023-10-21
 tags: []
 videoId: "wm2p5Cksh8k"
 duration: "5:58:45"
-views: 3107
-likes: 113
+views: 3119
+likes: 114
 comments: 14
 ---
 # [⎡dlgs: 00⎦   JavaScript Беседы: Идентификаторы](https://www.youtube.com/watch?v=wm2p5Cksh8k)
@@ -13,7 +13,7 @@ comments: 14
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.10.2023 02:59  
 **Тривалість:** 5:58:45  
-**Перегляди:** 3107 · **Лайки:** 113 · **Коментарі:** 14
+**Перегляди:** 3119 · **Лайки:** 114 · **Коментарі:** 14
 ![thumbnail](https://i.ytimg.com/vi/wm2p5Cksh8k/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=wm2p5Cksh8k)

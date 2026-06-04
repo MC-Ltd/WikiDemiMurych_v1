@@ -4,8 +4,8 @@ date: 2023-09-24
 tags: []
 videoId: "b9ommSutEvo"
 duration: "2:03:36"
-views: 787
-likes: 30
+views: 792
+likes: 34
 comments: 3
 ---
 # [⎡coding: 07⎦   JavaScript Live Coding: Morse. Часть 4.](https://www.youtube.com/watch?v=b9ommSutEvo)
@@ -13,7 +13,7 @@ comments: 3
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 24.09.2023 04:38  
 **Тривалість:** 2:03:36  
-**Перегляди:** 787 · **Лайки:** 30 · **Коментарі:** 3
+**Перегляди:** 792 · **Лайки:** 34 · **Коментарі:** 3
 ![thumbnail](https://i.ytimg.com/vi/b9ommSutEvo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=b9ommSutEvo)

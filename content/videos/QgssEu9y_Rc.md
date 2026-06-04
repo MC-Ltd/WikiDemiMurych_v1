@@ -4,8 +4,8 @@ date: 2023-08-21
 tags: []
 videoId: "QgssEu9y_Rc"
 duration: "4:11:05"
-views: 1906
-likes: 94
+views: 1909
+likes: 97
 comments: 19
 ---
 # [⎡msk⎦⎡sobes: 06⎦   Решение JS Is Weird с пояснениями в рамках спецификации](https://www.youtube.com/watch?v=QgssEu9y_Rc)
@@ -13,7 +13,7 @@ comments: 19
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.08.2023 08:18  
 **Тривалість:** 4:11:05  
-**Перегляди:** 1906 · **Лайки:** 94 · **Коментарі:** 19
+**Перегляди:** 1909 · **Лайки:** 97 · **Коментарі:** 19
 ![thumbnail](https://i.ytimg.com/vi/QgssEu9y_Rc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=QgssEu9y_Rc)

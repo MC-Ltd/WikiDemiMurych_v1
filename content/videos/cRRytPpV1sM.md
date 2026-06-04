@@ -4,8 +4,8 @@ date: 2025-01-24
 tags: []
 videoId: "cRRytPpV1sM"
 duration: "0:55"
-views: 13941
-likes: 580
+views: 14211
+likes: 589
 comments: 72
 ---
 # [JavaScript и спорт. #javascript](https://www.youtube.com/watch?v=cRRytPpV1sM)
@@ -13,7 +13,7 @@ comments: 72
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 24.01.2025 14:21  
 **Тривалість:** 0:55  
-**Перегляди:** 13941 · **Лайки:** 580 · **Коментарі:** 72
+**Перегляди:** 14211 · **Лайки:** 589 · **Коментарі:** 72
 ![thumbnail](https://i.ytimg.com/vi/cRRytPpV1sM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=cRRytPpV1sM)
@@ -135,7 +135,7 @@ comments: 72
 
 ---
 
-**[@aki7162](https://www.youtube.com/channel/UCh4TFfKzFmFsZVXVGY8tsbg)** *[24.01.2025 19:05](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=Ugx06uOnmHvA067wI4F4AaABAg) · 👍 7*
+**[@aki7162](https://www.youtube.com/channel/UCh4TFfKzFmFsZVXVGY8tsbg)** *[24.01.2025 19:05](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=Ugx06uOnmHvA067wI4F4AaABAg) · 👍 8*
 
 У вас будет двойня!
 
@@ -197,7 +197,7 @@ ass for js
 
 ---
 
-**[@andriiyer](https://www.youtube.com/channel/UCfIgBMbC4E4DhcY-4aIxWjg)** *[24.01.2025 21:10](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=UgxCHk-8qrRHvBCKA6B4AaABAg) · 👍 35*
+**[@nodesorp](https://www.youtube.com/channel/UCfIgBMbC4E4DhcY-4aIxWjg)** *[24.01.2025 21:10](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=UgxCHk-8qrRHvBCKA6B4AaABAg) · 👍 37*
 
 Автор не только прекрасный програмист, спортсмен, а и непревзойдённый монтажер
 
@@ -247,7 +247,7 @@ ass for js
 
 ---
 
-**[@boycovclub](https://www.youtube.com/channel/UCxbDPizEG96FDSCQ8JFpFRA)** *[25.01.2025 07:12](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=Ugy5u5hAUcaddcfh-Vh4AaABAg) · 👍 16*
+**[@boycovclub](https://www.youtube.com/channel/UCxbDPizEG96FDSCQ8JFpFRA)** *[25.01.2025 07:12](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=Ugy5u5hAUcaddcfh-Vh4AaABAg) · 👍 18*
 
 А что насчет спецификации))) Вы согласно спецификации сделали это ?))
 
@@ -293,7 +293,7 @@ Nice back salto
 
 ---
 
-**[@leolaoshi3997](https://www.youtube.com/channel/UCrt6-UznK8w7yVGIINm5s5Q)** *[30.01.2025 09:48](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=UgxJyLVfrItoueuUDR94AaABAg) · 👍 21*
+**[@leolaoshi3997](https://www.youtube.com/channel/UCrt6-UznK8w7yVGIINm5s5Q)** *[30.01.2025 09:48](https://www.youtube.com/watch?v=cRRytPpV1sM&lc=UgxJyLVfrItoueuUDR94AaABAg) · 👍 23*
 
 Когда спор про var let и const разрешен и у Мурыча больше нет тем для обсуждения 😂
 

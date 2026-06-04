@@ -4,8 +4,8 @@ date: 2023-11-15
 tags: []
 videoId: "Qf1Ny0lSxHA"
 duration: "2:46:20"
-views: 2527
-likes: 121
+views: 2538
+likes: 126
 comments: 10
 ---
 # [⎡coding: 10⎦   JavaScript Live Coding: Второе в мире JS радио](https://www.youtube.com/watch?v=Qf1Ny0lSxHA)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.11.2023 00:42  
 **Тривалість:** 2:46:20  
-**Перегляди:** 2527 · **Лайки:** 121 · **Коментарі:** 10
+**Перегляди:** 2538 · **Лайки:** 126 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/Qf1Ny0lSxHA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Qf1Ny0lSxHA)

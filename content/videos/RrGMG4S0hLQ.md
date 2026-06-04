@@ -4,16 +4,16 @@ date: 2024-02-21
 tags: []
 videoId: "RrGMG4S0hLQ"
 duration: "3:17:26"
-views: 15979
-likes: 375
-comments: 97
+views: 16094
+likes: 380
+comments: 96
 ---
 # [⎡razbor:13⎦ Разбор видео: Выводим Мурыча на чистую воду от Дмитрия Карловского.](https://www.youtube.com/watch?v=RrGMG4S0hLQ)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.02.2024 21:36  
 **Тривалість:** 3:17:26  
-**Перегляди:** 15979 · **Лайки:** 375 · **Коментарі:** 97
+**Перегляди:** 16094 · **Лайки:** 380 · **Коментарі:** 96
 ![thumbnail](https://i.ytimg.com/vi/RrGMG4S0hLQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=RrGMG4S0hLQ)
@@ -80,13 +80,7 @@ comments: 97
 - [03:13:00](https://www.youtube.com/watch?v=RrGMG4S0hLQ&t=11580)   Мелодия пистолетика
 - [03:13:50](https://www.youtube.com/watch?v=RrGMG4S0hLQ&t=11630)   Про мономорфность объектов, воспоминания разговора
 - [03:15:05](https://www.youtube.com/watch?v=RrGMG4S0hLQ&t=11705)   ИГОГО
-## Коментарі (28 · відповідей: 69)
-
-**[@old.magadan](https://www.youtube.com/channel/UCILPJ4jiEDlQ6bzmUVRX_3w)** *[21.02.2024 21:21](https://www.youtube.com/watch?v=RrGMG4S0hLQ&lc=Ugwv5_Sstj8Cr05wlgt4AaABAg) · 👍 2*
-
-Посмотримсссс
-
----
+## Коментарі (27 · відповідей: 69)
 
 **[@roadblogru](https://www.youtube.com/channel/UCRVi-t3A5q9g2HDVxWZsPpQ)** *[21.02.2024 21:50](https://www.youtube.com/watch?v=RrGMG4S0hLQ&lc=UgwiK2ojTZXfSLnrJct4AaABAg) · 👍 2*
 

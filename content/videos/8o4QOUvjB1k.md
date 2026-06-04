@@ -4,16 +4,16 @@ date: 2025-10-13
 tags: ["someThingUseful", "01", "chrome", "optimization"]
 videoId: "8o4QOUvjB1k"
 duration: "18:04"
-views: 1353
-likes: 106
-comments: 20
+views: 1423
+likes: 115
+comments: 17
 ---
 # [Что-нибудь полезное: Крутим Google Chrome](https://www.youtube.com/watch?v=8o4QOUvjB1k)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 13.10.2025 10:49  
 **Тривалість:** 18:04  
-**Перегляди:** 1353 · **Лайки:** 106 · **Коментарі:** 20
+**Перегляди:** 1423 · **Лайки:** 115 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/8o4QOUvjB1k/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=8o4QOUvjB1k)
@@ -28,7 +28,7 @@ comments: 20
 - [00:11:18](https://www.youtube.com/watch?v=8o4QOUvjB1k&t=678)   Повторное отключение графического процессора
 - [00:12:50](https://www.youtube.com/watch?v=8o4QOUvjB1k&t=770)   Область
 - [00:17:09](https://www.youtube.com/watch?v=8o4QOUvjB1k&t=1029)   Последнее отключение графического процессора
-## Коментарі (13 · відповідей: 7)
+## Коментарі (12 · відповідей: 5)
 
 **[@omahaLinkva](https://www.youtube.com/channel/UCzpe5YASSzjFIT4QN2ZVT4g)** *[12.10.2025 22:56](https://www.youtube.com/watch?v=8o4QOUvjB1k&lc=UgynUnvwuwDB37FsY8t4AaABAg) · 👍 5*
 
@@ -124,22 +124,6 @@ comments: 20
 
 > @josephlagrange9531 опытные стримеров комментят,
 > а я два года на единственном стримлере сижу…
-
----
-
-**[@antony6911](https://www.youtube.com/channel/UCxBrMtZPMegdYyTv8zeiCuw)** *[13.10.2025 03:26](https://www.youtube.com/watch?v=8o4QOUvjB1k&lc=Ugw3a7PO7dVaYa-B0sZ4AaABAg) (ред. 13.10.2025 03:27) · 👍 1*
-
-Тема интересная, но, подход на уровне школьника васи-тюнинговщика винды, а не инженера: "попробуйте включить вдруг быстрее будет". Каким объективным способом протестировать оба изменения (было/стало)? Оценивать скорость надо объективно, а не "мне показалось что на 0,2 fps быстрее".
-
-> **[@demimurych1](https://www.youtube.com/channel/UCesD1HRn9NPKXcyXV0-8oMg)** *[13.10.2025 07:25](https://www.youtube.com/watch?v=8o4QOUvjB1k&lc=Ugw3a7PO7dVaYa-B0sZ4AaABAg.AOCVUQm-FhiAOCvqaTn6Lv) · 👍 1*
-
-> Формат записи предполагает дать пищу для размышлений. Вложившись в 20 минут.
-> 
-> В прямом смысле слова как Вы и сказали - на уровне школьника. Скорее даже для того, чтобы обратить внимание на что-то, что может быть интересным/полезным.
-
-> **[@antony6911](https://www.youtube.com/channel/UCxBrMtZPMegdYyTv8zeiCuw)** *[13.10.2025 11:57](https://www.youtube.com/watch?v=8o4QOUvjB1k&lc=Ugw3a7PO7dVaYa-B0sZ4AaABAg.AOCVUQm-FhiAODPyPHjSi_)*
-
-> @demimurych1  @demimurych1  ок, понятно. Просто что бы говорить о приросте или замедлении производительности, нужен объективный тест производительности, иначе всё это "с опцией --поднажми_ещё показалось что быстрее" начинает обрастать легендами не имея реальных измерений. Хотя бы на одном тесте проверяли объективные отличия скорости? Ну не знаю web_basemark какой-нить хоть, или кто что лучше знает для этих задач: изменения и пробы сочетания ключей.
 
 ---
 

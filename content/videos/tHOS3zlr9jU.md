@@ -4,8 +4,8 @@ date: 2023-05-29
 tags: []
 videoId: "tHOS3zlr9jU"
 duration: "18:28"
-views: 1743
-likes: 200
+views: 1757
+likes: 203
 comments: 20
 ---
 # [⎡msk⎦ JavaScript template literal или 100 плюс 1 способ вызвать функцию](https://www.youtube.com/watch?v=tHOS3zlr9jU)
@@ -13,7 +13,7 @@ comments: 20
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.05.2023 17:32  
 **Тривалість:** 18:28  
-**Перегляди:** 1743 · **Лайки:** 200 · **Коментарі:** 20
+**Перегляди:** 1757 · **Лайки:** 203 · **Коментарі:** 20
 ![thumbnail](https://i.ytimg.com/vi/tHOS3zlr9jU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=tHOS3zlr9jU)

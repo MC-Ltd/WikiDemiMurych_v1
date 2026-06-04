@@ -4,8 +4,8 @@ date: 2023-10-10
 tags: []
 videoId: "7CRrc3niEto"
 duration: "5:56:31"
-views: 5242
-likes: 158
+views: 5249
+likes: 160
 comments: 39
 ---
 # [⎡msk⎦ ⎡talks: 07⎦ Предвзятый обзор YouTube JavaScript стримлеров.](https://www.youtube.com/watch?v=7CRrc3niEto)
@@ -13,7 +13,7 @@ comments: 39
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.10.2023 20:48  
 **Тривалість:** 5:56:31  
-**Перегляди:** 5242 · **Лайки:** 158 · **Коментарі:** 39
+**Перегляди:** 5249 · **Лайки:** 160 · **Коментарі:** 39
 ![thumbnail](https://i.ytimg.com/vi/7CRrc3niEto/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=7CRrc3niEto)
@@ -169,7 +169,7 @@ comments: 39
 
 ---
 
-**[@СергейБит](https://www.youtube.com/channel/UCuYrIwO1yNDjKjX5omk9DAw)** *[27.11.2023 18:54](https://www.youtube.com/watch?v=7CRrc3niEto&lc=Ugy-RcuJZ_rt80rTS2B4AaABAg) (ред. 27.11.2023 18:56) · 👍 6*
+**[@мойсонс](https://www.youtube.com/channel/UCuYrIwO1yNDjKjX5omk9DAw)** *[27.11.2023 18:54](https://www.youtube.com/watch?v=7CRrc3niEto&lc=Ugy-RcuJZ_rt80rTS2B4AaABAg) (ред. 27.11.2023 18:56) · 👍 6*
 
 1:23:30 почему популярный контент популярный? Просто вслушайтесь в слово популярный. Это значит то, что этот контент нравится множеству людей. А что нравится множеству людей? Положительные эмоции при малой интеллектуальной нагрузке(высокая это больно, вы сами знаете). Так что никакая это не загадка
 

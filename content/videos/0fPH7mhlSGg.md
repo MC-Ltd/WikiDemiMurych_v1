@@ -4,8 +4,8 @@ date: 2024-07-27
 tags: ["yt", "7", "js", "stack", "heap", "Rock’n’Roll"]
 videoId: "0fPH7mhlSGg"
 duration: "1:31:21"
-views: 4444
-likes: 178
+views: 4471
+likes: 180
 comments: 31
 ---
 # [Смотрим вместе YT:  Реализация хранения данных. Стек и куча. Oddball и иммутабельные примитивы](https://www.youtube.com/watch?v=0fPH7mhlSGg)
@@ -13,7 +13,7 @@ comments: 31
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 27.07.2024 18:52  
 **Тривалість:** 1:31:21  
-**Перегляди:** 4444 · **Лайки:** 178 · **Коментарі:** 31
+**Перегляди:** 4471 · **Лайки:** 180 · **Коментарі:** 31
 ![thumbnail](https://i.ytimg.com/vi/0fPH7mhlSGg/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=0fPH7mhlSGg)
@@ -44,7 +44,7 @@ comments: 31
 
 ---
 
-**[@alexeysk8046](https://www.youtube.com/channel/UCLKN3bPVCWJtX-3gglLkxRw)** *[27.07.2024 05:11](https://www.youtube.com/watch?v=0fPH7mhlSGg&lc=UgzzY3kKgzXSSbw1vil4AaABAg)*
+**[@alexwebYT](https://www.youtube.com/channel/UCLKN3bPVCWJtX-3gglLkxRw)** *[27.07.2024 05:11](https://www.youtube.com/watch?v=0fPH7mhlSGg&lc=UgzzY3kKgzXSSbw1vil4AaABAg)*
 
 ничего не понятно))) но очень интересно... На самом деле немного понятно... спасибо.
 

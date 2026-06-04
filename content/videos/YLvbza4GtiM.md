@@ -4,8 +4,8 @@ date: 2024-07-17
 tags: ["yt", "6", "advanced", "js", "bizykin"]
 videoId: "YLvbza4GtiM"
 duration: "2:10:37"
-views: 7443
-likes: 278
+views: 7487
+likes: 282
 comments: 38
 ---
 # [Смотрим вместе YT: Григорий Бизюкин - Продвинутый JS. ШРИ 2024](https://www.youtube.com/watch?v=YLvbza4GtiM)
@@ -13,7 +13,7 @@ comments: 38
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.07.2024 22:29  
 **Тривалість:** 2:10:37  
-**Перегляди:** 7443 · **Лайки:** 278 · **Коментарі:** 38
+**Перегляди:** 7487 · **Лайки:** 282 · **Коментарі:** 38
 ![thumbnail](https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=YLvbza4GtiM)
@@ -102,7 +102,7 @@ comments: 38
 
 ---
 
-**[@Tunec_s_hlebom](https://www.youtube.com/channel/UCDps2YiJsmFhRak1L0QWdRQ)** *[18.07.2024 08:45](https://www.youtube.com/watch?v=YLvbza4GtiM&lc=UgwulYijkJXes2qQF3F4AaABAg) (ред. 18.07.2024 08:46) · 👍 5*
+**[@Tunec_s_hlebom](https://www.youtube.com/channel/UCDps2YiJsmFhRak1L0QWdRQ)** *[18.07.2024 08:45](https://www.youtube.com/watch?v=YLvbza4GtiM&lc=UgwulYijkJXes2qQF3F4AaABAg) (ред. 18.07.2024 08:46) · 👍 6*
 
 канал уже нужно переименовать в "JS с Григорием Бизюкиным"🤣
 

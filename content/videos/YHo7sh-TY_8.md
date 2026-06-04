@@ -4,8 +4,8 @@ date: 2025-02-22
 tags: []
 videoId: "YHo7sh-TY_8"
 duration: "0:33"
-views: 23268
-likes: 1072
+views: 24031
+likes: 1084
 comments: 105
 ---
 # [JavaScript, Спорт, и Йога](https://www.youtube.com/watch?v=YHo7sh-TY_8)
@@ -13,7 +13,7 @@ comments: 105
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 22.02.2025 13:27  
 **Тривалість:** 0:33  
-**Перегляди:** 23268 · **Лайки:** 1072 · **Коментарі:** 105
+**Перегляди:** 24031 · **Лайки:** 1084 · **Коментарі:** 105
 ![thumbnail](https://i.ytimg.com/vi/YHo7sh-TY_8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=YHo7sh-TY_8)
@@ -51,15 +51,15 @@ comments: 105
 
 ---
 
-**[@mv.mmaksm](https://www.youtube.com/channel/UCOKj-GNHlMKIcLHgbZKZvrg)** *[22.02.2025 13:50](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgxdFSzUqxYOfYJQ-YJ4AaABAg) · 👍 84*
+**[@mv.mmaksm](https://www.youtube.com/channel/UCOKj-GNHlMKIcLHgbZKZvrg)** *[22.02.2025 13:50](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgxdFSzUqxYOfYJQ-YJ4AaABAg) · 👍 85*
 
 Снимите изоленту с вебки, не могу за вами подсматривать
 
-> **[@oswi__](https://www.youtube.com/channel/UCucpXbxUJfjJvOBtooch7oA)** *[22.02.2025 14:19](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgxdFSzUqxYOfYJQ-YJ4AaABAg.AEqefheX7eFAEqhz7FNBzs) · 👍 3*
+> **[@oswi__](https://www.youtube.com/channel/UCucpXbxUJfjJvOBtooch7oA)** *[22.02.2025 14:19](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgxdFSzUqxYOfYJQ-YJ4AaABAg.AEqefheX7eFAEqhz7FNBzs) · 👍 4*
 
 > Жизненно, задолбали со своими изолентами
 
-> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[18.04.2025 22:05](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgxdFSzUqxYOfYJQ-YJ4AaABAg.AEqefheX7eFAH4A1qIaWbd) · 👍 2*
+> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[18.04.2025 22:05](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgxdFSzUqxYOfYJQ-YJ4AaABAg.AEqefheX7eFAH4A1qIaWbd) · 👍 3*
 
 > Это был подсказанный режиссерский ход
 
@@ -121,11 +121,11 @@ comments: 105
 
 ---
 
-**[@lemonetrambone](https://www.youtube.com/channel/UC_2b54qV4TqVdTObmnKCcfQ)** *[22.02.2025 14:40](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgwA0VbJx_ochQO4cDJ4AaABAg) · 👍 250*
+**[@lemonetrambone](https://www.youtube.com/channel/UC_2b54qV4TqVdTObmnKCcfQ)** *[22.02.2025 14:40](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgwA0VbJx_ochQO4cDJ4AaABAg) · 👍 256*
 
 В животе папка с node_modules просто
 
-> **[@demimurych1](https://www.youtube.com/channel/UCesD1HRn9NPKXcyXV0-8oMg)** *[22.02.2025 16:00](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgwA0VbJx_ochQO4cDJ4AaABAg.AEqkPpxjBcyAEqtaDZsS9a) · 👍 19*
+> **[@demimurych1](https://www.youtube.com/channel/UCesD1HRn9NPKXcyXV0-8oMg)** *[22.02.2025 16:00](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgwA0VbJx_ochQO4cDJ4AaABAg.AEqkPpxjBcyAEqtaDZsS9a) · 👍 22*
 
 > гениально
 
@@ -137,7 +137,7 @@ comments: 105
 
 > @videoaudio7669 сам зарифмуешь? (;
 
-> **[@РоманМ-й5ш](https://www.youtube.com/channel/UCpYKvj2Z-GzTBetoS8JYDKw)** *[24.02.2025 14:14](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgwA0VbJx_ochQO4cDJ4AaABAg.AEqkPpxjBcyAEvr2s_FWJ6) · 👍 2*
+> **[@РоманМ-й5ш](https://www.youtube.com/channel/UCpYKvj2Z-GzTBetoS8JYDKw)** *[24.02.2025 14:14](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgwA0VbJx_ochQO4cDJ4AaABAg.AEqkPpxjBcyAEvr2s_FWJ6) · 👍 3*
 
 > я думал распечатка спецификации
 
@@ -175,12 +175,6 @@ comments: 105
 
 ---
 
-**[@vipiman8360](https://www.youtube.com/channel/UCGuARHkMl9qo-hNwne08SDQ)** *[22.02.2025 15:09](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgztDyKPTne0mb657_h4AaABAg)*
-
-Ну нихуя себе
-
----
-
 **[@urkalev](https://www.youtube.com/channel/UCzUBs5ixdgPad-JnD_By5vA)** *[22.02.2025 15:12](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgxJ8kkDY8TeBg5Sn_Z4AaABAg)*
 
 sus
@@ -203,7 +197,7 @@ sus
 
 > Ахахахахах
 
-> **[@function_TrainEatSleepRepeat](https://www.youtube.com/channel/UCcDJBR-loHAEWAxyJBYF5ow)** *[24.02.2025 20:01](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=Ugy6Bzl4fixv7F9bkDd4AaABAg.AEqo7k2Z1VjAEwTewcV6dL)*
+> **[@abandoned_dreams](https://www.youtube.com/channel/UCcDJBR-loHAEWAxyJBYF5ow)** *[24.02.2025 20:01](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=Ugy6Bzl4fixv7F9bkDd4AaABAg.AEqo7k2Z1VjAEwTewcV6dL)*
 
 > мурыч реально большой лебовски
 
@@ -355,7 +349,7 @@ JS-ники ебнулись уже
 
 ---
 
-**[@oldodyn](https://www.youtube.com/channel/UCQdjlCNxQrnjNSXianAT5lw)** *[22.02.2025 17:57](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=Ugwtr-VrKrMS2keKjdV4AaABAg) · 👍 9*
+**[@oldodyn](https://www.youtube.com/channel/UCQdjlCNxQrnjNSXianAT5lw)** *[22.02.2025 17:57](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=Ugwtr-VrKrMS2keKjdV4AaABAg) · 👍 10*
 
 Почему нет такого человека в php. Я бы на него молился. А пока такого нет, буду на этого.
 
@@ -585,8 +579,14 @@ JS-ники ебнулись уже
 
 ---
 
-**[@qweertyyd](https://www.youtube.com/channel/UC3qm4Qe_NtsyQgl1t7Ls2eA)** *[04.12.2025 17:18](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=Ugx3LfGmcOtc5et7DdR4AaABAg)*
+**[@alexplay9719](https://www.youtube.com/channel/UCrtMmZqVnWjx5ZbV6ntaBzw)** *[17.03.2026 17:27](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=Ugwj_2RHyhY9ANhuHXh4AaABAg)*
 
-Мистер Проперти оценил бы
+Ваши неожиданные решения нихера не работают и все из-за мнимой веры в гибкость ума. С возрастом мозг уже не такой гибкий, поэтому у молодежи больше идей.
+
+---
+
+**[@p_r_o_e_k_t_o_r](https://www.youtube.com/channel/UChzbp3d77aqv2FGeYs_3B5w)** *[04.05.2026 18:34](https://www.youtube.com/watch?v=YHo7sh-TY_8&lc=UgwRzlIHumqvBdrKOb54AaABAg)*
+
+Вызывайте скорую!
 
 ---

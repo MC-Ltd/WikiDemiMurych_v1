@@ -4,8 +4,8 @@ date: 2025-10-31
 tags: ["intk", "1", "js", "qst", "weakRef", "weakMap"]
 videoId: "5o5kv-4TyYw"
 duration: "3:42:11"
-views: 2290
-likes: 74
+views: 2365
+likes: 75
 comments: 4
 ---
 # [Мне нужно знать о JavaScript:  WeakRef и WeakMap](https://www.youtube.com/watch?v=5o5kv-4TyYw)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 31.10.2025 16:27  
 **Тривалість:** 3:42:11  
-**Перегляди:** 2290 · **Лайки:** 74 · **Коментарі:** 4
+**Перегляди:** 2365 · **Лайки:** 75 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/5o5kv-4TyYw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=5o5kv-4TyYw)

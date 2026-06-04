@@ -4,8 +4,8 @@ date: 2023-06-11
 tags: []
 videoId: "VZlhhFDVa24"
 duration: "1:34:10"
-views: 4802
-likes: 254
+views: 4851
+likes: 257
 comments: 29
 ---
 # [⎡msk⎦ Как JavaScript - код, на этапе его подготовки к выполнению, влияет на производительность](https://www.youtube.com/watch?v=VZlhhFDVa24)
@@ -13,7 +13,7 @@ comments: 29
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 11.06.2023 11:56  
 **Тривалість:** 1:34:10  
-**Перегляди:** 4802 · **Лайки:** 254 · **Коментарі:** 29
+**Перегляди:** 4851 · **Лайки:** 257 · **Коментарі:** 29
 ![thumbnail](https://i.ytimg.com/vi/VZlhhFDVa24/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=VZlhhFDVa24)

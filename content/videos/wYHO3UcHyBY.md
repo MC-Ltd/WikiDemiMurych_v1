@@ -4,8 +4,8 @@ date: 2024-11-08
 tags: ["intk", "0", "js", "qst", "opti"]
 videoId: "wYHO3UcHyBY"
 duration: "1:34:20"
-views: 6552
-likes: 269
+views: 6599
+likes: 270
 comments: 20
 ---
 # [Мне нужно знать о JavaScript: ArisenRising](https://www.youtube.com/watch?v=wYHO3UcHyBY)
@@ -13,7 +13,7 @@ comments: 20
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.11.2024 07:26  
 **Тривалість:** 1:34:20  
-**Перегляди:** 6552 · **Лайки:** 269 · **Коментарі:** 20
+**Перегляди:** 6599 · **Лайки:** 270 · **Коментарі:** 20
 ![thumbnail](https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=wYHO3UcHyBY)

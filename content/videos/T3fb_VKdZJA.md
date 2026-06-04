@@ -4,8 +4,8 @@ date: 2023-05-14
 tags: []
 videoId: "T3fb_VKdZJA"
 duration: "2:53:36"
-views: 1948
-likes: 132
+views: 1975
+likes: 137
 comments: 13
 ---
 # [⎡UA⎦ JavaScript та this. Розбираємося на прикладах спираючись на специфікацію.](https://www.youtube.com/watch?v=T3fb_VKdZJA)
@@ -13,7 +13,7 @@ comments: 13
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.05.2023 22:38  
 **Тривалість:** 2:53:36  
-**Перегляди:** 1948 · **Лайки:** 132 · **Коментарі:** 13
+**Перегляди:** 1975 · **Лайки:** 137 · **Коментарі:** 13
 ![thumbnail](https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=T3fb_VKdZJA)

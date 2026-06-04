@@ -4,8 +4,8 @@ date: 2023-04-25
 tags: []
 videoId: "g_VO2ioDsnA"
 duration: "2:27:09"
-views: 3239
-likes: 127
+views: 3289
+likes: 132
 comments: 12
 ---
 # [Співбесід chatGPT на посаду Junior JavaScript Developer](https://www.youtube.com/watch?v=g_VO2ioDsnA)
@@ -13,7 +13,7 @@ comments: 12
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 25.04.2023 03:59  
 **Тривалість:** 2:27:09  
-**Перегляди:** 3239 · **Лайки:** 127 · **Коментарі:** 12
+**Перегляди:** 3289 · **Лайки:** 132 · **Коментарі:** 12
 ![thumbnail](https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=g_VO2ioDsnA)

@@ -4,8 +4,8 @@ date: 2023-12-19
 tags: []
 videoId: "u_bsXuBOO74"
 duration: "1:26:36"
-views: 6439
-likes: 192
+views: 6459
+likes: 194
 comments: 22
 ---
 # [⎡tips:11⎦ JavaScript Tips: Один символ и производительность](https://www.youtube.com/watch?v=u_bsXuBOO74)
@@ -13,7 +13,7 @@ comments: 22
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.12.2023 22:51  
 **Тривалість:** 1:26:36  
-**Перегляди:** 6439 · **Лайки:** 192 · **Коментарі:** 22
+**Перегляди:** 6459 · **Лайки:** 194 · **Коментарі:** 22
 ![thumbnail](https://i.ytimg.com/vi/u_bsXuBOO74/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=u_bsXuBOO74)

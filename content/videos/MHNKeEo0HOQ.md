@@ -4,8 +4,8 @@ date: 2024-07-28
 tags: ["yt", "00", "asm", "x86", "intro"]
 videoId: "MHNKeEo0HOQ"
 duration: "1:07:31"
-views: 12525
-likes: 658
+views: 12629
+likes: 663
 comments: 66
 ---
 # [Asm для JS программиста:  Введение](https://www.youtube.com/watch?v=MHNKeEo0HOQ)
@@ -13,7 +13,7 @@ comments: 66
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.07.2024 21:39  
 **Тривалість:** 1:07:31  
-**Перегляди:** 12525 · **Лайки:** 658 · **Коментарі:** 66
+**Перегляди:** 12629 · **Лайки:** 663 · **Коментарі:** 66
 ![thumbnail](https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=MHNKeEo0HOQ)
@@ -81,7 +81,7 @@ comments: 66
 
 ---
 
-**[@yevhensluchynskyi8509](https://www.youtube.com/channel/UCEJAthN2wrSmT_61pOYhJxw)** *[29.07.2024 00:35](https://www.youtube.com/watch?v=MHNKeEo0HOQ&lc=UgwIQ0Ebx0czpOGi8254AaABAg) · 👍 7*
+**[@yevhensluchynskyi](https://www.youtube.com/channel/UCEJAthN2wrSmT_61pOYhJxw)** *[29.07.2024 00:35](https://www.youtube.com/watch?v=MHNKeEo0HOQ&lc=UgwIQ0Ebx0czpOGi8254AaABAg) · 👍 7*
 
 Кому все еще не понятно, интересно и вы любите поиграть, советую игрушку Turing Complete. Очень упрощает порог вхождения.
 
@@ -365,7 +365,7 @@ great video
 
 ---
 
-**[@justcallmehyde](https://www.youtube.com/channel/UCmodMcmaDmoFKXrWSvKtDXg)** *[22.08.2024 10:37](https://www.youtube.com/watch?v=MHNKeEo0HOQ&lc=Ugw5EBab12ahgOeLE1Z4AaABAg)*
+**[@hyde.youtub3](https://www.youtube.com/channel/UCmodMcmaDmoFKXrWSvKtDXg)** *[22.08.2024 10:37](https://www.youtube.com/watch?v=MHNKeEo0HOQ&lc=Ugw5EBab12ahgOeLE1Z4AaABAg)*
 
 будет ли у вас разбор гидры?
 

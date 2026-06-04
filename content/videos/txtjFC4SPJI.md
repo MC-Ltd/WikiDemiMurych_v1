@@ -4,8 +4,8 @@ date: 2024-02-18
 tags: []
 videoId: "txtjFC4SPJI"
 duration: "2:19:35"
-views: 4810
-likes: 237
+views: 4836
+likes: 240
 comments: 17
 ---
 # [⎡dlgs:5⎦ JavaScript, HTML5 и SEO](https://www.youtube.com/watch?v=txtjFC4SPJI)
@@ -13,7 +13,7 @@ comments: 17
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 18.02.2024 08:19  
 **Тривалість:** 2:19:35  
-**Перегляди:** 4810 · **Лайки:** 237 · **Коментарі:** 17
+**Перегляди:** 4836 · **Лайки:** 240 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/txtjFC4SPJI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=txtjFC4SPJI)

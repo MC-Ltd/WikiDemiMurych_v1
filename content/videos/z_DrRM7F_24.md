@@ -4,8 +4,8 @@ date: 2025-10-16
 tags: ["someThingUseful", "03", "devTools"]
 videoId: "z_DrRM7F_24"
 duration: "13:52"
-views: 1227
-likes: 94
+views: 1258
+likes: 101
 comments: 7
 ---
 # [Что-нибудь полезное: Google Developer Tools Hints](https://www.youtube.com/watch?v=z_DrRM7F_24)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 16.10.2025 05:46  
 **Тривалість:** 13:52  
-**Перегляди:** 1227 · **Лайки:** 94 · **Коментарі:** 7
+**Перегляди:** 1258 · **Лайки:** 101 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/z_DrRM7F_24/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=z_DrRM7F_24)

@@ -4,8 +4,8 @@ date: 2025-02-04
 tags: ["sobes", "17", "js", "headhunter", "hh", "hack"]
 videoId: "CxD9xy_NmFQ"
 duration: "4:01:51"
-views: 8370
-likes: 251
+views: 8422
+likes: 250
 comments: 24
 ---
 # [Ломаем тест на Head Hunter](https://www.youtube.com/watch?v=CxD9xy_NmFQ)
@@ -13,7 +13,7 @@ comments: 24
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.02.2025 17:25  
 **Тривалість:** 4:01:51  
-**Перегляди:** 8370 · **Лайки:** 251 · **Коментарі:** 24
+**Перегляди:** 8422 · **Лайки:** 250 · **Коментарі:** 24
 ![thumbnail](https://i.ytimg.com/vi/CxD9xy_NmFQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=CxD9xy_NmFQ)
@@ -91,7 +91,7 @@ comments: 24
 
 ---
 
-**[@ЭрвинЮсеф](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[06.02.2025 10:54](https://www.youtube.com/watch?v=CxD9xy_NmFQ&lc=UgzRRdLwdr751jK4I994AaABAg) · 👍 9*
+**[@МенеджерПоставок](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[06.02.2025 10:54](https://www.youtube.com/watch?v=CxD9xy_NmFQ&lc=UgzRRdLwdr751jK4I994AaABAg) · 👍 10*
 
 Мурычу сказали что он не знает js на начальном уровне, и он взломал сайт чтоб доказать обратное
 

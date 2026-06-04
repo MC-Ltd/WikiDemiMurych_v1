@@ -4,8 +4,8 @@ date: 2023-06-21
 tags: []
 videoId: "YntHgxlmKy4"
 duration: "33:25"
-views: 2667
-likes: 215
+views: 2704
+likes: 220
 comments: 19
 ---
 # [⎡msk⎦⎡04⎦ Производительность JavaScript и типы данных: Числа / Number.](https://www.youtube.com/watch?v=YntHgxlmKy4)
@@ -13,7 +13,7 @@ comments: 19
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 21.06.2023 06:38  
 **Тривалість:** 33:25  
-**Перегляди:** 2667 · **Лайки:** 215 · **Коментарі:** 19
+**Перегляди:** 2704 · **Лайки:** 220 · **Коментарі:** 19
 ![thumbnail](https://i.ytimg.com/vi/YntHgxlmKy4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=YntHgxlmKy4)

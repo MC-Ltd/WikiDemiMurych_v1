@@ -4,8 +4,8 @@ date: 2023-01-15
 tags: []
 videoId: "196yyub_Kro"
 duration: "1:01"
-views: 5171
-likes: 139
+views: 5279
+likes: 141
 comments: 12
 ---
 # [Як довжина масиву може впливати на швидкість виконання JavaScript коду.](https://www.youtube.com/watch?v=196yyub_Kro)
@@ -13,7 +13,7 @@ comments: 12
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.01.2023 11:23  
 **Тривалість:** 1:01  
-**Перегляди:** 5171 · **Лайки:** 139 · **Коментарі:** 12
+**Перегляди:** 5279 · **Лайки:** 141 · **Коментарі:** 12
 ![thumbnail](https://i.ytimg.com/vi/196yyub_Kro/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=196yyub_Kro)

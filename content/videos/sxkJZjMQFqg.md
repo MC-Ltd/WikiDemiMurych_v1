@@ -4,8 +4,8 @@ date: 2024-06-18
 tags: ["yt", "2", "js", "ulbi", "fp", "try2"]
 videoId: "sxkJZjMQFqg"
 duration: "3:30:20"
-views: 9788
-likes: 268
+views: 9841
+likes: 273
 comments: 78
 ---
 # [Смотрим вместе YT: [Try2] Ulbi - Функциональное программирование от А до Я. ФП на JS.](https://www.youtube.com/watch?v=sxkJZjMQFqg)
@@ -13,7 +13,7 @@ comments: 78
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 18.06.2024 03:10  
 **Тривалість:** 3:30:20  
-**Перегляди:** 9788 · **Лайки:** 268 · **Коментарі:** 78
+**Перегляди:** 9841 · **Лайки:** 273 · **Коментарі:** 78
 ![thumbnail](https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=sxkJZjMQFqg)

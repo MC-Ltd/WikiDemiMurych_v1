@@ -4,8 +4,8 @@ date: 2023-12-01
 tags: []
 videoId: "0_D2ox_N6hw"
 duration: "1:02:35"
-views: 3319
-likes: 141
+views: 3341
+likes: 142
 comments: 24
 ---
 # [⎡devices:01⎦ JavaScript инструменты: Как запускать сборку V8](https://www.youtube.com/watch?v=0_D2ox_N6hw)
@@ -13,7 +13,7 @@ comments: 24
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.12.2023 17:46  
 **Тривалість:** 1:02:35  
-**Перегляди:** 3319 · **Лайки:** 141 · **Коментарі:** 24
+**Перегляди:** 3341 · **Лайки:** 142 · **Коментарі:** 24
 ![thumbnail](https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=0_D2ox_N6hw)

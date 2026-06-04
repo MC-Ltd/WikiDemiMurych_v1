@@ -4,8 +4,8 @@ date: 2024-05-03
 tags: ["yt", "0", "uilbi", "seo"]
 videoId: "obrvyaU6Plg"
 duration: "2:56:35"
-views: 12215
-likes: 417
+views: 12298
+likes: 424
 comments: 55
 ---
 # [Смотрим вместе YT: Ulbi - SEO от А до Я](https://www.youtube.com/watch?v=obrvyaU6Plg)
@@ -13,7 +13,7 @@ comments: 55
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 03.05.2024 23:10  
 **Тривалість:** 2:56:35  
-**Перегляди:** 12215 · **Лайки:** 417 · **Коментарі:** 55
+**Перегляди:** 12298 · **Лайки:** 424 · **Коментарі:** 55
 ![thumbnail](https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=obrvyaU6Plg)
@@ -110,7 +110,7 @@ comments: 55
 
 Влияет ли показатели lighthouse на seo ? Скажем если пк версия в целом 90 поинтов набирает средне по всем показателям, а вот мобильная набирает 90 по всем показателям, кроме производительности - 60 ? Благодарю за ответ.
 
-> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[05.05.2024 12:44](https://www.youtube.com/watch?v=obrvyaU6Plg&lc=UgyPzhX7r7ddFvT6JjF4AaABAg.A30vR4w8TddA335BfBcbXX) · 👍 6*
+> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[05.05.2024 12:44](https://www.youtube.com/watch?v=obrvyaU6Plg&lc=UgyPzhX7r7ddFvT6JjF4AaABAg.A30vR4w8TddA335BfBcbXX) · 👍 7*
 
 > Да влияет.
 > И тут важно пояснить что влияет и как.
@@ -247,7 +247,7 @@ great video
 
 Какой дистрибутив использует Мурыч ?
 
-> **[@Nikita.Landman](https://www.youtube.com/channel/UC3V_dpZBu67QzCbyOkFDYxA)** *[18.05.2024 08:58](https://www.youtube.com/watch?v=obrvyaU6Plg&lc=UgwNb6rDKLKCyJLnKxd4AaABAg.A3UkY1eyJ5yA3_9cuBp-jT)*
+> **[@land_wars](https://www.youtube.com/channel/UC3V_dpZBu67QzCbyOkFDYxA)** *[18.05.2024 08:58](https://www.youtube.com/watch?v=obrvyaU6Plg&lc=UgwNb6rDKLKCyJLnKxd4AaABAg.A3UkY1eyJ5yA3_9cuBp-jT)*
 
 > Кубунту
 
@@ -275,7 +275,7 @@ O_0
 
 > По якобы фиговой релевантности Яндекса - тоже бред, исходя из моего опыта. А я как раз активно юзал оба поисковика. Сейчас вообще на Яндекс перешел как на основной.
 
-> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[17.06.2024 05:40](https://www.youtube.com/watch?v=obrvyaU6Plg&lc=UgwrUUaDRNv3NjTcMUl4AaABAg.A3pmefnu8mjA4m2r7UIyHH) · 👍 2*
+> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[17.06.2024 05:40](https://www.youtube.com/watch?v=obrvyaU6Plg&lc=UgwrUUaDRNv3NjTcMUl4AaABAg.A3pmefnu8mjA4m2r7UIyHH) · 👍 3*
 
 > Вы совершенно не поняли что я хотел сказать.
 > Дам Вам пару аргументов подумать:

@@ -4,8 +4,8 @@ date: 2025-01-28
 tags: []
 videoId: "t1JY_MMPyhU"
 duration: "4:31:31"
-views: 4948
-likes: 186
+views: 4970
+likes: 189
 comments: 32
 ---
 # [⎡razbor:15⎦ Разбор видео: Let и Const диссиденты в языке JavaScript](https://www.youtube.com/watch?v=t1JY_MMPyhU)
@@ -13,7 +13,7 @@ comments: 32
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.01.2025 00:42  
 **Тривалість:** 4:31:31  
-**Перегляди:** 4948 · **Лайки:** 186 · **Коментарі:** 32
+**Перегляди:** 4970 · **Лайки:** 189 · **Коментарі:** 32
 ![thumbnail](https://i.ytimg.com/vi/t1JY_MMPyhU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=t1JY_MMPyhU)

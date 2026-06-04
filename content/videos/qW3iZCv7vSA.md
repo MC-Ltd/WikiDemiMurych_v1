@@ -4,8 +4,8 @@ date: 2025-02-01
 tags: ["perf", "7", "v8", "switch", "if"]
 videoId: "qW3iZCv7vSA"
 duration: "1:59:56"
-views: 4654
-likes: 187
+views: 4702
+likes: 189
 comments: 40
 ---
 # [Производительность JS:  Switch против IF](https://www.youtube.com/watch?v=qW3iZCv7vSA)
@@ -13,7 +13,7 @@ comments: 40
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.02.2025 18:42  
 **Тривалість:** 1:59:56  
-**Перегляди:** 4654 · **Лайки:** 187 · **Коментарі:** 40
+**Перегляди:** 4702 · **Лайки:** 189 · **Коментарі:** 40
 ![thumbnail](https://i.ytimg.com/vi/qW3iZCv7vSA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=qW3iZCv7vSA)
@@ -91,7 +91,7 @@ PS: в начале видео было упомянуто, что в жс эт�
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[01.02.2025 10:28](https://www.youtube.com/watch?v=qW3iZCv7vSA&lc=Ugw1hXkmvabrgC2oGqR4AaABAg)*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[01.02.2025 10:28](https://www.youtube.com/watch?v=qW3iZCv7vSA&lc=Ugw1hXkmvabrgC2oGqR4AaABAg)*
 
 А есть где то видео подробности про 1 return? Оч интересная тема и радикальная)
 
@@ -102,13 +102,13 @@ PS: в начале видео было упомянуто, что в жс эт�
 Сейчас очень популярно "функциональное" программирование, но многие даже не понимают что такое функциональное программирование.
 Жду видосы о фп, очень важный видос будет!
 
-> **[@Mono6lade](https://www.youtube.com/channel/UCvgI6zM5E4lirvp2wUsRaow)** *[01.02.2025 15:33](https://www.youtube.com/watch?v=qW3iZCv7vSA&lc=UgzGJMCdleWJNd5X-kJ4AaABAg.AE-Id7oR7CHAE-ljrCidAf)*
+> **[@redefinedqq](https://www.youtube.com/channel/UCvgI6zM5E4lirvp2wUsRaow)** *[01.02.2025 15:33](https://www.youtube.com/watch?v=qW3iZCv7vSA&lc=UgzGJMCdleWJNd5X-kJ4AaABAg.AE-Id7oR7CHAE-ljrCidAf)*
 
 > Была вроде реакция стрим на ульби тв про фп
 
 > **[@cvtmyveins](https://www.youtube.com/channel/UCA9hrLr1Yx8sNWR1_73vgEg)** *[02.02.2025 16:49](https://www.youtube.com/watch?v=qW3iZCv7vSA&lc=UgzGJMCdleWJNd5X-kJ4AaABAg.AE-Id7oR7CHAE2UFYyuFfk)*
 
-> @Mono6lade была, но там он больше объясняет ошибки автора, а я говорю про то, что было бы круто если бы он начал с самого начала, с базы, как нам "думать функциями"
+> @redefinedqq была, но там он больше объясняет ошибки автора, а я говорю про то, что было бы круто если бы он начал с самого начала, с базы, как нам "думать функциями"
 
 ---
 

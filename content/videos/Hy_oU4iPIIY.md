@@ -4,8 +4,8 @@ date: 2023-07-10
 tags: []
 videoId: "Hy_oU4iPIIY"
 duration: "37:50"
-views: 4316
-likes: 105
+views: 4325
+likes: 109
 comments: 5
 ---
 # [⎡msk⎦ JavaScript Tips And Tricks:  Как из кода функции сослаться на обьект этой функции](https://www.youtube.com/watch?v=Hy_oU4iPIIY)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.07.2023 19:02  
 **Тривалість:** 37:50  
-**Перегляди:** 4316 · **Лайки:** 105 · **Коментарі:** 5
+**Перегляди:** 4325 · **Лайки:** 109 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/Hy_oU4iPIIY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Hy_oU4iPIIY)

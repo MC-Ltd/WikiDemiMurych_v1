@@ -4,8 +4,8 @@ date: 2023-11-03
 tags: []
 videoId: "CE0BhheYFQk"
 duration: "4:41:54"
-views: 7506
-likes: 316
+views: 7598
+likes: 319
 comments: 74
 ---
 # [⎡spec: 00⎦  JavaScript и Call Stack согласно официальной спецификации](https://www.youtube.com/watch?v=CE0BhheYFQk)
@@ -13,7 +13,7 @@ comments: 74
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 03.11.2023 00:53  
 **Тривалість:** 4:41:54  
-**Перегляди:** 7506 · **Лайки:** 316 · **Коментарі:** 74
+**Перегляди:** 7598 · **Лайки:** 319 · **Коментарі:** 74
 ![thumbnail](https://i.ytimg.com/vi/CE0BhheYFQk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=CE0BhheYFQk)

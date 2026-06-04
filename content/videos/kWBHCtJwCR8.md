@@ -4,8 +4,8 @@ date: 2023-06-14
 tags: []
 videoId: "kWBHCtJwCR8"
 duration: "18:25"
-views: 1968
-likes: 125
+views: 1983
+likes: 129
 comments: 4
 ---
 # [⎡msk⎦⎡RegExp⎦⎡01⎦ Регулярные 5ти минутки. Или введение в Regular Epressions](https://www.youtube.com/watch?v=kWBHCtJwCR8)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.06.2023 04:34  
 **Тривалість:** 18:25  
-**Перегляди:** 1968 · **Лайки:** 125 · **Коментарі:** 4
+**Перегляди:** 1983 · **Лайки:** 129 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=kWBHCtJwCR8)

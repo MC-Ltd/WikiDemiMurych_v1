@@ -4,8 +4,8 @@ date: 2023-05-13
 tags: []
 videoId: "biy50-ssgVQ"
 duration: "15:08"
-views: 3268
-likes: 202
+views: 3301
+likes: 206
 comments: 24
 ---
 # [JavaScript и идентификаторы. В рамках подкаста Tips and Tricks [Msk] [JavaScript шорты]](https://www.youtube.com/watch?v=biy50-ssgVQ)
@@ -13,7 +13,7 @@ comments: 24
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 13.05.2023 03:58  
 **Тривалість:** 15:08  
-**Перегляди:** 3268 · **Лайки:** 202 · **Коментарі:** 24
+**Перегляди:** 3301 · **Лайки:** 206 · **Коментарі:** 24
 ![thumbnail](https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=biy50-ssgVQ)

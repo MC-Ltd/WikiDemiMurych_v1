@@ -4,8 +4,8 @@ date: 2023-01-01
 tags: []
 videoId: "VC98ywj3J1Q"
 duration: "3:45:48"
-views: 1207
-likes: 65
+views: 1210
+likes: 67
 comments: 28
 ---
 # [JS в 2023 году или стрим который точно будет забанен.](https://www.youtube.com/watch?v=VC98ywj3J1Q)
@@ -13,7 +13,7 @@ comments: 28
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.01.2023 03:43  
 **Тривалість:** 3:45:48  
-**Перегляди:** 1207 · **Лайки:** 65 · **Коментарі:** 28
+**Перегляди:** 1210 · **Лайки:** 67 · **Коментарі:** 28
 ![thumbnail](https://i.ytimg.com/vi/VC98ywj3J1Q/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=VC98ywj3J1Q)

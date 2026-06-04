@@ -4,8 +4,8 @@ date: 2023-10-22
 tags: []
 videoId: "lC2j5DXSXOE"
 duration: "2:43:46"
-views: 3793
-likes: 63
+views: 3819
+likes: 70
 comments: 7
 ---
 # [⎡razbor:12⎦ Разбираем видео:  Палиндром, плоский массив, поиск пути и еще две](https://www.youtube.com/watch?v=lC2j5DXSXOE)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 22.10.2023 07:49  
 **Тривалість:** 2:43:46  
-**Перегляди:** 3793 · **Лайки:** 63 · **Коментарі:** 7
+**Перегляди:** 3819 · **Лайки:** 70 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/lC2j5DXSXOE/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=lC2j5DXSXOE)

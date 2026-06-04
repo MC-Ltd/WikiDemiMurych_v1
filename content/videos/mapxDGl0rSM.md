@@ -4,8 +4,8 @@ date: 2023-12-04
 tags: []
 videoId: "mapxDGl0rSM"
 duration: "5:51:06"
-views: 9207
-likes: 219
+views: 9223
+likes: 223
 comments: 27
 ---
 # [⎡talks:11⎦ Награждение AsForJS плюс ответы на вопросы](https://www.youtube.com/watch?v=mapxDGl0rSM)
@@ -13,7 +13,7 @@ comments: 27
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 04.12.2023 01:39  
 **Тривалість:** 5:51:06  
-**Перегляди:** 9207 · **Лайки:** 219 · **Коментарі:** 27
+**Перегляди:** 9223 · **Лайки:** 223 · **Коментарі:** 27
 ![thumbnail](https://i.ytimg.com/vi/mapxDGl0rSM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=mapxDGl0rSM)

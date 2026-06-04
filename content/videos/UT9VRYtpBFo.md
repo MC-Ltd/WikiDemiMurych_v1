@@ -4,8 +4,8 @@ date: 2021-11-29
 tags: []
 videoId: "UT9VRYtpBFo"
 duration: "1:10:54"
-views: 1258
-likes: 63
+views: 1265
+likes: 66
 comments: 4
 ---
 # [JavaScript толчек - 9: Что не так с новым рендерером в Google Docs](https://www.youtube.com/watch?v=UT9VRYtpBFo)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.11.2021 00:17  
 **Тривалість:** 1:10:54  
-**Перегляди:** 1258 · **Лайки:** 63 · **Коментарі:** 4
+**Перегляди:** 1265 · **Лайки:** 66 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/UT9VRYtpBFo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=UT9VRYtpBFo)

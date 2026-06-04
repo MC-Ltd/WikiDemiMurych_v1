@@ -4,8 +4,8 @@ date: 2024-03-26
 tags: []
 videoId: "JcrguEFkW0k"
 duration: "1:53:27"
-views: 5146
-likes: 176
+views: 5172
+likes: 179
 comments: 14
 ---
 # [⎡dlgs:6⎦ Про оптимизацию JavaScript данных в браузере](https://www.youtube.com/watch?v=JcrguEFkW0k)
@@ -13,7 +13,7 @@ comments: 14
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 26.03.2024 05:52  
 **Тривалість:** 1:53:27  
-**Перегляди:** 5146 · **Лайки:** 176 · **Коментарі:** 14
+**Перегляди:** 5172 · **Лайки:** 179 · **Коментарі:** 14
 ![thumbnail](https://i.ytimg.com/vi/JcrguEFkW0k/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=JcrguEFkW0k)

@@ -4,8 +4,8 @@ date: 2023-11-19
 tags: []
 videoId: "f6NZZ3z27Mk"
 duration: "3:26:21"
-views: 7495
-likes: 314
+views: 7560
+likes: 320
 comments: 38
 ---
 # [⎡spec03⎦  Hoisting согласно официальной спецификации JavaScript](https://www.youtube.com/watch?v=f6NZZ3z27Mk)
@@ -13,7 +13,7 @@ comments: 38
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 19.11.2023 03:17  
 **Тривалість:** 3:26:21  
-**Перегляди:** 7495 · **Лайки:** 314 · **Коментарі:** 38
+**Перегляди:** 7560 · **Лайки:** 320 · **Коментарі:** 38
 ![thumbnail](https://i.ytimg.com/vi/f6NZZ3z27Mk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=f6NZZ3z27Mk)
@@ -86,7 +86,7 @@ comments: 38
 
 > Напішіть мені будь ласка в телеграмм.
 
-> **[@БогданЛитвинов-ы5и](https://www.youtube.com/channel/UCb3j8s50HXkgLozTEqtvt9Q)** *[24.12.2023 21:25](https://www.youtube.com/watch?v=f6NZZ3z27Mk&lc=UgxCGvXE68tiedRwFxt4AaABAg.9xc76CDJNiY9yiZ8994UV5) (ред. 13.06.2024 22:14)*
+> **[@just_bodyas](https://www.youtube.com/channel/UCb3j8s50HXkgLozTEqtvt9Q)** *[24.12.2023 21:25](https://www.youtube.com/watch?v=f6NZZ3z27Mk&lc=UgxCGvXE68tiedRwFxt4AaABAg.9xc76CDJNiY9yiZ8994UV5) (ред. 13.06.2024 22:14)*
 
 > @AsForJS Максим Юрьевич, если есть готовая информация по данному вопросу, то тоже бы с большим удовольствием изучил жизненный цикл, это бы добавило понимания, спасибо.
 

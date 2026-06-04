@@ -4,8 +4,8 @@ date: 2023-05-12
 tags: []
 videoId: "eghLLFbTDYM"
 duration: "57:17"
-views: 5258
-likes: 272
+views: 5359
+likes: 281
 comments: 43
 ---
 # [JavaScript и Lexical Environment.  Разберемся на примерах. [Msk] [JavaScript шорты]](https://www.youtube.com/watch?v=eghLLFbTDYM)
@@ -13,7 +13,7 @@ comments: 43
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 12.05.2023 21:26  
 **Тривалість:** 57:17  
-**Перегляди:** 5258 · **Лайки:** 272 · **Коментарі:** 43
+**Перегляди:** 5359 · **Лайки:** 281 · **Коментарі:** 43
 ![thumbnail](https://i.ytimg.com/vi/eghLLFbTDYM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=eghLLFbTDYM)
@@ -37,7 +37,7 @@ const increment2 = createCounter();
 
 Тобто при кожному виклику createCounter створиться різний енвайремент, і у функцій increment1 і increment2 буде різний [[outer]] ?
 
-> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[16.05.2023 12:24](https://www.youtube.com/watch?v=eghLLFbTDYM&lc=UgwT9bW2BI2Sb5yA1Kh4AaABAg.9pjCyDJWzGt9plxkld2hkd) (ред. 16.05.2023 12:42) · 👍 4*
+> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[16.05.2023 12:24](https://www.youtube.com/watch?v=eghLLFbTDYM&lc=UgwT9bW2BI2Sb5yA1Kh4AaABAg.9pjCyDJWzGt9plxkld2hkd) (ред. 16.05.2023 12:42) · 👍 3*
 
 > *Саме ТАК* 
 > Ви вловили суть.
@@ -92,7 +92,7 @@ const increment2 = createCounter();
 
 В конце концов, вы же называете функцию функцией, а не: "Член типа Object, который может вызываться как подпрограмма", как указано в спецификации ECMA-262... Если мы начнем говорить определениями из спецификаций, то боюсь, что мы превратимся в юристов )
 
-> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[27.05.2023 23:32](https://www.youtube.com/watch?v=eghLLFbTDYM&lc=UgxoEfDg7lnyfZ_cfZd4AaABAg.9qBtYsbxeCV9qETw8tWtU2) · 👍 20*
+> **[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[27.05.2023 23:32](https://www.youtube.com/watch?v=eghLLFbTDYM&lc=UgxoEfDg7lnyfZ_cfZd4AaABAg.9qBtYsbxeCV9qETw8tWtU2) · 👍 19*
 
 > Спасибо большое за Ваше, на мой взгляд очень верное замечание. Я поясню свою позицию...
 > 
@@ -433,7 +433,7 @@ ECMA 14.2.2 - это иллюстрация  мема "у меня есть Env 
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[09.10.2024 22:36](https://www.youtube.com/watch?v=eghLLFbTDYM&lc=UgysebU-LrXAi-iHiSV4AaABAg)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[09.10.2024 22:36](https://www.youtube.com/watch?v=eghLLFbTDYM&lc=UgysebU-LrXAi-iHiSV4AaABAg)*
 
 Большущее спасибо
 

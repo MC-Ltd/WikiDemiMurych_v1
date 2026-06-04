@@ -4,8 +4,8 @@ date: 2023-09-05
 tags: []
 videoId: "jVoNLKT1pfc"
 duration: "3:05:00"
-views: 1308
-likes: 52
+views: 1314
+likes: 54
 comments: 10
 ---
 # [⎡coding: 04⎦   JavaScript Live Coding: Morse. Часть 1.](https://www.youtube.com/watch?v=jVoNLKT1pfc)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 05.09.2023 04:38  
 **Тривалість:** 3:05:00  
-**Перегляди:** 1308 · **Лайки:** 52 · **Коментарі:** 10
+**Перегляди:** 1314 · **Лайки:** 54 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/jVoNLKT1pfc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=jVoNLKT1pfc)

@@ -4,8 +4,8 @@ date: 2025-09-25
 tags: ["perf", "13", "v8", "wasm", "WebAssembly", "javascript"]
 videoId: "yGjqZeTVq24"
 duration: "3:11:27"
-views: 2812
-likes: 113
+views: 2890
+likes: 117
 comments: 7
 ---
 # [Так ли быстр WASM / WebAssembly как о нем говорят](https://www.youtube.com/watch?v=yGjqZeTVq24)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 25.09.2025 21:14  
 **Тривалість:** 3:11:27  
-**Перегляди:** 2812 · **Лайки:** 113 · **Коментарі:** 7
+**Перегляди:** 2890 · **Лайки:** 117 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/yGjqZeTVq24/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=yGjqZeTVq24)

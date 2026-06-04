@@ -4,20 +4,20 @@ date: 2023-06-07
 tags: []
 videoId: "UNSjfNfvUFU"
 duration: "1:10:13"
-views: 5828
-likes: 316
-comments: 33
+views: 5897
+likes: 319
+comments: 32
 ---
 # [⎡msk⎦ Введение в производительность JavaScript кода](https://www.youtube.com/watch?v=UNSjfNfvUFU)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.06.2023 10:16  
 **Тривалість:** 1:10:13  
-**Перегляди:** 5828 · **Лайки:** 316 · **Коментарі:** 33
+**Перегляди:** 5897 · **Лайки:** 319 · **Коментарі:** 32
 ![thumbnail](https://i.ytimg.com/vi/UNSjfNfvUFU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=UNSjfNfvUFU)
-## Коментарі (24 · відповідей: 9)
+## Коментарі (24 · відповідей: 8)
 
 **[@brains-UP1](https://www.youtube.com/channel/UCPSRs1WODXodiiY0KpUkW0w)** *[06.06.2023 22:10](https://www.youtube.com/watch?v=UNSjfNfvUFU&lc=UgykIA_eIB0-p4SQtqF4AaABAg) · 👍 13*
 
@@ -142,10 +142,6 @@ comments: 33
 
 > @Alex-hs8xj Совершенно с Вами согласен. Потому как строгие правила, могу ограничить только в том, каки ошибок может не наделать программист. Но они не сделают программиста лучше. Более того, они вообще не сделают из него программиста.
 
-> **[@klishe2541](https://www.youtube.com/channel/UCk9MNpOzeAuSKMk8T_noASg)** *[11.01.2024 08:59](https://www.youtube.com/watch?v=UNSjfNfvUFU&lc=Ugzx0Ld1SlhV-DI3EvV4AaABAg.9yYZr23pDEB9zQ_014Chop) (ред. 13.06.2024 22:47) · 👍 1*
-
-> ​Здравствуйте, объясните новичку. Только начал изучать программирование.  Вот вы говорите, что в js надо полностью избегать динамической природы языка, а в другом видео вы говорите что в js нет никаких других типов ,кроме объекта.  Если у нас язык состоит всего из одного типа, то как динамическая типизация имеет место быть в принципе?  Разве идентификатор может динамически пересвязываться с другим типом, когда этих других типов не существует, а существует только объект?​@AsForJS
-
 > **[@mr_robot_1337](https://www.youtube.com/channel/UCoUheaKAM4rciv4hnNFdXeg)** *[08.02.2024 19:51](https://www.youtube.com/watch?v=UNSjfNfvUFU&lc=Ugzx0Ld1SlhV-DI3EvV4AaABAg.9yYZr23pDEBA-Zps5pfGZg) (ред. 13.06.2024 22:47)*
 
 > @AsForJSа можно пожалуйста какой-нибудь небольшой пример, когда ts делает хуже?
@@ -185,7 +181,7 @@ good video
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[16.10.2024 20:21](https://www.youtube.com/watch?v=UNSjfNfvUFU&lc=Ugw93atpF7OiFXhpbKd4AaABAg)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[16.10.2024 20:21](https://www.youtube.com/watch?v=UNSjfNfvUFU&lc=Ugw93atpF7OiFXhpbKd4AaABAg)*
 
 Спасибо
 

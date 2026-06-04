@@ -4,8 +4,8 @@ date: 2021-04-11
 tags: []
 videoId: "msrbSSZQApI"
 duration: "48:08"
-views: 27916
-likes: 1335
+views: 28061
+likes: 1343
 comments: 262
 ---
 # [Почему все неправильно используют var, let и const и при этом учат других поступать так же.](https://www.youtube.com/watch?v=msrbSSZQApI)
@@ -13,7 +13,7 @@ comments: 262
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 11.04.2021 18:21  
 **Тривалість:** 48:08  
-**Перегляди:** 27916 · **Лайки:** 1335 · **Коментарі:** 262
+**Перегляди:** 28061 · **Лайки:** 1343 · **Коментарі:** 262
 ![thumbnail](https://i.ytimg.com/vi/msrbSSZQApI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=msrbSSZQApI)
@@ -117,7 +117,7 @@ comments: 262
 
 ---
 
-**[@ITKAMASUTRA](https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g)** *[16.12.2021 20:27](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgwBJLcfsnkfgq2t72J4AaABAg) · 👍 69*
+**[@ITKAMASUTRA](https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g)** *[16.12.2021 20:27](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgwBJLcfsnkfgq2t72J4AaABAg) · 👍 68*
 
 👍👍👍 познавательно и круто! Для тех, кто хочет глубинных глубин как раз контента и не хватает 🚀
 
@@ -413,7 +413,7 @@ luchiy prosta SPS za urok MASTER
 
 ---
 
-**[@andriiyer](https://www.youtube.com/channel/UCfIgBMbC4E4DhcY-4aIxWjg)** *[28.10.2023 13:18](https://www.youtube.com/watch?v=msrbSSZQApI&lc=Ugwu0aiKToI5F3DDry54AaABAg) (ред. 28.10.2023 13:18)*
+**[@nodesorp](https://www.youtube.com/channel/UCfIgBMbC4E4DhcY-4aIxWjg)** *[28.10.2023 13:18](https://www.youtube.com/watch?v=msrbSSZQApI&lc=Ugwu0aiKToI5F3DDry54AaABAg) (ред. 28.10.2023 13:18)*
 
 Правильно ли я понимаю на счет ТурбоФан и одного уровня вложености: будет ли оптимизация, если я использую const в первом уровне вложености для копирования значения в новую const, которую, в свою очередь, использую во втором уровне вложености?
 
@@ -711,7 +711,7 @@ PS. Очень полезное видео. Я ни разу не пробова
 
 ---
 
-**[@VadimCh81](https://www.youtube.com/channel/UChzBqhTBv8RT4x7_XlUufvg)** *[13.12.2023 10:40](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgxJslG1A63grcTg0114AaABAg) · 👍 3*
+**[@VadimCh81](https://www.youtube.com/channel/UChzBqhTBv8RT4x7_XlUufvg)** *[13.12.2023 10:40](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgxJslG1A63grcTg0114AaABAg) · 👍 4*
 
 говорит "...не являюсь профессиональным программистом". Дальше можно не смотреть - становится ясно почему такие путанные мысли и слова у человека.
 
@@ -759,7 +759,7 @@ PS. Очень полезное видео. Я ни разу не пробова
 
 ---
 
-**[@denysshnurenko](https://www.youtube.com/channel/UCAL1ksR3oxxMwp992ufE5FA)** *[18.12.2023 14:35](https://www.youtube.com/watch?v=msrbSSZQApI&lc=Ugy5Z0Ixoa4TEVzapjR4AaABAg) · 👍 7*
+**[@denysshnurenko](https://www.youtube.com/channel/UCAL1ksR3oxxMwp992ufE5FA)** *[18.12.2023 14:35](https://www.youtube.com/watch?v=msrbSSZQApI&lc=Ugy5Z0Ixoa4TEVzapjR4AaABAg) · 👍 8*
 
 Вопрос: зачем писать на javascript максимально производительный код, если с таким успехом можно было пойти просто писать на c++?
 
@@ -947,7 +947,7 @@ PS. Очень полезное видео. Я ни разу не пробова
 
 ---
 
-**[@КвадрикКоптеров](https://www.youtube.com/channel/UCNbf917Sqey15xoHCaaZy9Q)** *[23.12.2023 14:45](https://www.youtube.com/watch?v=msrbSSZQApI&lc=Ugweq-NgCuAzbFmeJkZ4AaABAg) (ред. 23.12.2023 15:00) · 👍 7*
+**[@КвадрикКоптеров](https://www.youtube.com/channel/UCNbf917Sqey15xoHCaaZy9Q)** *[23.12.2023 14:45](https://www.youtube.com/watch?v=msrbSSZQApI&lc=Ugweq-NgCuAzbFmeJkZ4AaABAg) (ред. 23.12.2023 15:00) · 👍 8*
 
 Автор, когда Вы делаете такие "сенсационные" заявления, потрудитесь, пожалуйста, сделать реальный пример и показать разницу в производительности более наглядно. Лучше это делать в виде графика с выводом среднего значения. Иначе Вы рискуете только создать новую секту, но не сделать ничего полезного для общества. Кстати, замерять нужно не только время выполнения, но и расход оперативной памяти.
 
@@ -1184,7 +1184,7 @@ console.log(i)
 
 ---
 
-**[@softbrigada](https://www.youtube.com/channel/UCHk6GM55Chub3vSqCL7_EHA)** *[27.01.2024 11:15](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgzPMR_vEMBdQwV1Sw54AaABAg) · 👍 9*
+**[@softbrigada](https://www.youtube.com/channel/UCHk6GM55Chub3vSqCL7_EHA)** *[27.01.2024 11:15](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgzPMR_vEMBdQwV1Sw54AaABAg) · 👍 10*
 
 1. Примеры синтетические
 2. Вебпак зареплейсит const/let на var
@@ -1241,7 +1241,7 @@ console.log(i)
 
 ---
 
-**[@alekseydanchin](https://www.youtube.com/channel/UC3aOiUkcKkQAxBCPPJ15S4g)** *[08.03.2024 12:53](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgzJYJBJcY6PGq2LfK14AaABAg) · 👍 6*
+**[@alekseydanchin](https://www.youtube.com/channel/UC3aOiUkcKkQAxBCPPJ15S4g)** *[08.03.2024 12:53](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgzJYJBJcY6PGq2LfK14AaABAg) · 👍 7*
 
 ИМХО конечно, но var - "устарел" не по документации, а "морально". let и const появились не просто так, а как раз потому что они решают задачи, которые решались с помощью var или ужасно, или никак. Уж очень узкий спектр задач, в которых var лучше, чем let и const, чтобы хотя задуматься о применение var. Даже в этом самом узком спектре задач.
 
@@ -1331,19 +1331,13 @@ console.log(i)
 
 ---
 
-**[@jamjam3337](https://www.youtube.com/channel/UC3Y9fqSUlIcmnZJOEhz6-NQ)** *[17.07.2024 19:55](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgwpGEE33uEgPSXzYAR4AaABAg)*
-
-😎
-
----
-
 **[@ihor3474](https://www.youtube.com/channel/UCJmixWm2IwcalkKAt7NWVDg)** *[21.09.2024 20:25](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgwszOzMeHh5QBTMSxF4AaABAg) · 👍 1*
 
 Дякую за інформацію та труди )
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[09.10.2024 19:59](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgxxfVugtPsEsM_0Z9V4AaABAg)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[09.10.2024 19:59](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgxxfVugtPsEsM_0Z9V4AaABAg)*
 
 Спасибо
 
@@ -1517,5 +1511,11 @@ Thx a lot 🕶
 **[@eugenysuglobov4700](https://www.youtube.com/channel/UC_MCa55ooebz6xhzY1Eyv9Q)** *[08.11.2025 09:37](https://www.youtube.com/watch?v=msrbSSZQApI&lc=UgzktdXtzC4EQ_VyAwp4AaABAg) · 👍 1*
 
 Получается чистые функции, в целом, решение всех проблем :)
+
+---
+
+**[@АлександрХ-ф5й](https://www.youtube.com/channel/UCr6abaEsVeMXaMGBhz-pJkQ)** *[19.03.2026 12:16](https://www.youtube.com/watch?v=msrbSSZQApI&lc=Ugwe-6wEmxS1YJGu0Vt4AaABAg) (ред. 19.03.2026 12:16)*
+
+Короче говоря Мурыч пытается остановить прогресс и просит вернуть в обиход книжки на костях )
 
 ---

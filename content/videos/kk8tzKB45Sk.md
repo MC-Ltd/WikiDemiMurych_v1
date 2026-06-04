@@ -4,8 +4,8 @@ date: 2023-12-31
 tags: []
 videoId: "kk8tzKB45Sk"
 duration: "7:23:52"
-views: 3424
-likes: 87
+views: 3427
+likes: 89
 comments: 2
 ---
 # [⎡talks:13-3⎦ Новый год и шоПопало](https://www.youtube.com/watch?v=kk8tzKB45Sk)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 31.12.2023 20:35  
 **Тривалість:** 7:23:52  
-**Перегляди:** 3424 · **Лайки:** 87 · **Коментарі:** 2
+**Перегляди:** 3427 · **Лайки:** 89 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/kk8tzKB45Sk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=kk8tzKB45Sk)

@@ -4,8 +4,8 @@ date: 2024-04-10
 tags: ["perf", "6", "Array", "v8", "reduce", "for"]
 videoId: "OkVgzONhpiU"
 duration: "51:00"
-views: 5627
-likes: 369
+views: 5657
+likes: 374
 comments: 34
 ---
 # [Сравнение JavaScript Array метода reduce с for statement](https://www.youtube.com/watch?v=OkVgzONhpiU)
@@ -13,7 +13,7 @@ comments: 34
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 10.04.2024 15:12  
 **Тривалість:** 51:00  
-**Перегляди:** 5627 · **Лайки:** 369 · **Коментарі:** 34
+**Перегляди:** 5657 · **Лайки:** 374 · **Коментарі:** 34
 ![thumbnail](https://i.ytimg.com/vi/OkVgzONhpiU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=OkVgzONhpiU)

@@ -4,16 +4,16 @@ date: 2023-10-22
 tags: []
 videoId: "gdrDBiNLRVU"
 duration: "4:09:00"
-views: 4841
-likes: 140
-comments: 46
+views: 4880
+likes: 143
+comments: 45
 ---
 # [⎡perf: 05⎦   JavaScript Performance: Как правильно оценить эффективность JS кода.](https://www.youtube.com/watch?v=gdrDBiNLRVU)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 22.10.2023 00:45  
 **Тривалість:** 4:09:00  
-**Перегляди:** 4841 · **Лайки:** 140 · **Коментарі:** 46
+**Перегляди:** 4880 · **Лайки:** 143 · **Коментарі:** 45
 ![thumbnail](https://i.ytimg.com/vi/gdrDBiNLRVU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=gdrDBiNLRVU)
@@ -44,7 +44,7 @@ comments: 46
 - [03:13:00](https://www.youtube.com/watch?v=gdrDBiNLRVU&t=11580)   Читаем чат
 - [03:14:00](https://www.youtube.com/watch?v=gdrDBiNLRVU&t=11640)   Разбираем почему *let a = 1; a = a++* не изменяет значение *a*
 - [03:41:00](https://www.youtube.com/watch?v=gdrDBiNLRVU&t=13260)   Читаем чат
-## Коментарі (15 · відповідей: 31)
+## Коментарі (14 · відповідей: 31)
 
 **[@BorderInVais](https://www.youtube.com/channel/UC1qmXy2vQ-hICupQzU6Jgpw)** *[23.10.2023 20:47](https://www.youtube.com/watch?v=gdrDBiNLRVU&lc=UgyQNvPS-Al_WLJZFRJ4AaABAg) · 👍 2*
 
@@ -324,7 +324,7 @@ comments: 46
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[13.01.2024 09:36](https://www.youtube.com/watch?v=gdrDBiNLRVU&lc=Ugz2xmmwtm1-OrtPMKF4AaABAg)*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[13.01.2024 09:36](https://www.youtube.com/watch?v=gdrDBiNLRVU&lc=Ugz2xmmwtm1-OrtPMKF4AaABAg)*
 
 Капец собеседник туговат😅
 
@@ -375,31 +375,5 @@ great video
 **[@valvetigu5207](https://www.youtube.com/channel/UC4hEa6vhI7hFePcFTb-pPSQ)** *[13.10.2024 14:13](https://www.youtube.com/watch?v=gdrDBiNLRVU&lc=Ugxy-xoZXqPiJpFdtwF4AaABAg)*
 
 ТГ СВОЙ ЗАСВЕТИЛ НА ВЕС ИНЕТ... ПРОФЕССИОНАЛЬНЫЙ СТРИМЛЕР)
-
----
-
-**[@i_kuser](https://www.youtube.com/channel/UC3NP9L1CO34teQWWcezdBuQ)** *[05.02.2025 01:13](https://www.youtube.com/watch?v=gdrDBiNLRVU&lc=Ugyy7_z8Yl5P32NbfCp4AaABAg)*
-
-03:44:50
-
-Ну как же шаги с 1го по 5й ничего не значат.
-
-Связывание идентификатора с новым значением происходит, 
-А значит это новое значение можно получить, главное знать как.
-
-<code>
-( () => {
-    var theA = 1;
-    var theB = 0;
-    a = (
-        theB = theA++ && 
-        console.log('theA after increment', theA) || 
-        console.log('theB', theB) || 
-        theB
-    );
-    console.log('theA in end', theA);
-}
-)()
-</code>
 
 ---

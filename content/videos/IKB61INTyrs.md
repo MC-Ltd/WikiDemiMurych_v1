@@ -4,8 +4,8 @@ date: 2022-08-14
 tags: []
 videoId: "IKB61INTyrs"
 duration: "5:12:11"
-views: 1257
-likes: 65
+views: 1261
+likes: 69
 comments: 7
 ---
 # [Regular Function vs Arrow Function або відповіді на запитання для маленьких ДжаваСкриптерів](https://www.youtube.com/watch?v=IKB61INTyrs)
@@ -13,7 +13,7 @@ comments: 7
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.08.2022 21:54  
 **Тривалість:** 5:12:11  
-**Перегляди:** 1257 · **Лайки:** 65 · **Коментарі:** 7
+**Перегляди:** 1261 · **Лайки:** 69 · **Коментарі:** 7
 ![thumbnail](https://i.ytimg.com/vi/IKB61INTyrs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=IKB61INTyrs)

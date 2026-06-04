@@ -4,8 +4,8 @@ date: 2021-11-29
 tags: []
 videoId: "wnfZnnrsL1Q"
 duration: "15:04"
-views: 5986
-likes: 457
+views: 6036
+likes: 463
 comments: 34
 ---
 # [Как получить максимальную производительность при работе с JavaScript массивами.](https://www.youtube.com/watch?v=wnfZnnrsL1Q)
@@ -13,7 +13,7 @@ comments: 34
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 29.11.2021 08:04  
 **Тривалість:** 15:04  
-**Перегляди:** 5986 · **Лайки:** 457 · **Коментарі:** 34
+**Перегляди:** 6036 · **Лайки:** 463 · **Коментарі:** 34
 ![thumbnail](https://i.ytimg.com/vi/wnfZnnrsL1Q/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=wnfZnnrsL1Q)
@@ -206,7 +206,7 @@ https://v8.dev/blog/elements-kinds?fbclid=IwAR0ES597YDlfDdkV0xFdGFE0KMJvCb2ZNHZW
 
 ---
 
-**[@АлександрВидин-с6я](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[09.10.2024 20:49](https://www.youtube.com/watch?v=wnfZnnrsL1Q&lc=UgwOiZpdB3g0YCMJLOt4AaABAg)*
+**[@vidinnenpc](https://www.youtube.com/channel/UCEDy_EJsn0QxuJGGx9QnNbQ)** *[09.10.2024 20:49](https://www.youtube.com/watch?v=wnfZnnrsL1Q&lc=UgwOiZpdB3g0YCMJLOt4AaABAg)*
 
 Спасибо
 

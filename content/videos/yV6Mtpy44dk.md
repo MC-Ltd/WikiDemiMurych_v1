@@ -4,8 +4,8 @@ date: 2025-06-14
 tags: ["spec", "9", "js", "ecma", "String", "unicode", "utf16"]
 videoId: "yV6Mtpy44dk"
 duration: "5:39:50"
-views: 3923
-likes: 183
+views: 3966
+likes: 187
 comments: 10
 ---
 # [Тип String согласно официальной спецификации ECMAScript. Часть 1 из 3.](https://www.youtube.com/watch?v=yV6Mtpy44dk)
@@ -13,13 +13,13 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.06.2025 00:54  
 **Тривалість:** 5:39:50  
-**Перегляди:** 3923 · **Лайки:** 183 · **Коментарі:** 10
+**Перегляди:** 3966 · **Лайки:** 187 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/yV6Mtpy44dk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=yV6Mtpy44dk)
 ## Коментарі (7 · відповідей: 3)
 
-**[@vdbxxx](https://www.youtube.com/channel/UClsjzAwVoVWWQEpnJE8pDJg)** *[14.06.2025 04:53](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=Ugy78XX_5d8J16kD7N94AaABAg) · 👍 5*
+**[@vdbxxx](https://www.youtube.com/channel/UClsjzAwVoVWWQEpnJE8pDJg)** *[14.06.2025 04:53](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=Ugy78XX_5d8J16kD7N94AaABAg) · 👍 6*
 
 "Javascript - язык оочень простой" - любил повторять Мурыч, записывая третью 6-часовую часть про тип String ;)
 
@@ -29,7 +29,7 @@ comments: 10
 
 ---
 
-**[@alenache1](https://www.youtube.com/channel/UCJ-u6p_Urn0fbRu7MgvV_tQ)** *[14.06.2025 05:12](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=UgwufWFu33dab-ucQAN4AaABAg) · 👍 3*
+**[@alenache1](https://www.youtube.com/channel/UCJ-u6p_Urn0fbRu7MgvV_tQ)** *[14.06.2025 05:12](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=UgwufWFu33dab-ucQAN4AaABAg) · 👍 4*
 
 Не, я конечно разное чудесное видел, в том числе туториал на 4 часа как открыть папку в Виндовс, но 5+ часов про стрингу - снимаю шляпу 😂
 
@@ -37,7 +37,7 @@ comments: 10
 
 > Еще две части впереди
 
-> **[@alenache1](https://www.youtube.com/channel/UCJ-u6p_Urn0fbRu7MgvV_tQ)** *[15.06.2025 06:25](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=UgwufWFu33dab-ucQAN4AaABAg.AJL7R2pyenpAJNpa7euzM5)*
+> **[@alenache1](https://www.youtube.com/channel/UCJ-u6p_Urn0fbRu7MgvV_tQ)** *[15.06.2025 06:25](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=UgwufWFu33dab-ucQAN4AaABAg.AJL7R2pyenpAJNpa7euzM5) · 👍 1*
 
 > @AsForJS Преклоняюсь
 
@@ -49,13 +49,13 @@ comments: 10
 
 ---
 
-**[@Fanil-z3u](https://www.youtube.com/channel/UCS1SK1qxGYaqP-zuievvX4A)** *[14.06.2025 09:27](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=Ugzk21U0VvNg4JSpwYF4AaABAg) · 👍 1*
+**[@Fanil-z3u](https://www.youtube.com/channel/UCS1SK1qxGYaqP-zuievvX4A)** *[14.06.2025 09:27](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=Ugzk21U0VvNg4JSpwYF4AaABAg) · 👍 2*
 
 Спасибо за Вашу работу дядя Мурыч😊
 
 ---
 
-**[@TheSekhno](https://www.youtube.com/channel/UCvzH_0EMINLIsgt3yAOj6zA)** *[19.06.2025 05:53](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=Ugxd6xcuspbxhhc9rTN4AaABAg)*
+**[@TheNoScopeD-777](https://www.youtube.com/channel/UCvzH_0EMINLIsgt3yAOj6zA)** *[19.06.2025 05:53](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=Ugxd6xcuspbxhhc9rTN4AaABAg)*
 
 Спасибо!
 
@@ -67,7 +67,7 @@ comments: 10
 
 ---
 
-**[@kowkavn2356](https://www.youtube.com/channel/UCaCYq3PjfpFeCpZT0xciyfQ)** *[23.10.2025 16:13](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=UgxLEtQZciDqafjXQKB4AaABAg) · 👍 1*
+**[@kowkavn2356](https://www.youtube.com/channel/UCaCYq3PjfpFeCpZT0xciyfQ)** *[23.10.2025 16:13](https://www.youtube.com/watch?v=yV6Mtpy44dk&lc=UgxLEtQZciDqafjXQKB4AaABAg) · 👍 2*
 
 13:50 Начало
  --- code units

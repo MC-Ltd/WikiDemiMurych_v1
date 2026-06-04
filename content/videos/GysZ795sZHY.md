@@ -4,8 +4,8 @@ date: 2022-08-17
 tags: []
 videoId: "GysZ795sZHY"
 duration: "1:47:08"
-views: 2183
-likes: 93
+views: 2193
+likes: 95
 comments: 10
 ---
 # [Regular Function vs Arrow Function або відповіді на запитання для маленьких ДжаваСкриптерів](https://www.youtube.com/watch?v=GysZ795sZHY)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.08.2022 09:07  
 **Тривалість:** 1:47:08  
-**Перегляди:** 2183 · **Лайки:** 93 · **Коментарі:** 10
+**Перегляди:** 2193 · **Лайки:** 95 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/GysZ795sZHY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=GysZ795sZHY)

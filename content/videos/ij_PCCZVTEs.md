@@ -4,8 +4,8 @@ date: 2025-10-14
 tags: ["someThingUseful", "02", "vscode"]
 videoId: "ij_PCCZVTEs"
 duration: "22:19"
-views: 3151
-likes: 184
+views: 3197
+likes: 190
 comments: 24
 ---
 # [Что-нибудь полезное: Крутим VSCode](https://www.youtube.com/watch?v=ij_PCCZVTEs)
@@ -13,7 +13,7 @@ comments: 24
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 14.10.2025 16:28  
 **Тривалість:** 22:19  
-**Перегляди:** 3151 · **Лайки:** 184 · **Коментарі:** 24
+**Перегляди:** 3197 · **Лайки:** 190 · **Коментарі:** 24
 ![thumbnail](https://i.ytimg.com/vi/ij_PCCZVTEs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ij_PCCZVTEs)
@@ -99,7 +99,7 @@ Grate video
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[14.10.2025 11:02](https://www.youtube.com/watch?v=ij_PCCZVTEs&lc=UgyqARg3wjFKWN4tMRV4AaABAg) · 👍 1*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[14.10.2025 11:02](https://www.youtube.com/watch?v=ij_PCCZVTEs&lc=UgyqARg3wjFKWN4tMRV4AaABAg) · 👍 1*
 
 вот реально полезное и практическое видео, спасибо
 

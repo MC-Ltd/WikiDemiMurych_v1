@@ -4,8 +4,8 @@ date: 2025-01-28
 tags: []
 videoId: "_v6OyPyqt9U"
 duration: "3:08:15"
-views: 2088
-likes: 60
+views: 2105
+likes: 63
 comments: 15
 ---
 # [⎡razbor:15.1⎦ Дополнение к разбору видео: Let и Const диссиденты в языке JavaScript](https://www.youtube.com/watch?v=_v6OyPyqt9U)
@@ -13,7 +13,7 @@ comments: 15
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.01.2025 05:34  
 **Тривалість:** 3:08:15  
-**Перегляди:** 2088 · **Лайки:** 60 · **Коментарі:** 15
+**Перегляди:** 2105 · **Лайки:** 63 · **Коментарі:** 15
 ![thumbnail](https://i.ytimg.com/vi/_v6OyPyqt9U/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=_v6OyPyqt9U)
@@ -99,7 +99,7 @@ comments: 15
 
 ---
 
-**[@НиколайИванов-ц2ы2ъ](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[28.01.2025 17:13](https://www.youtube.com/watch?v=_v6OyPyqt9U&lc=UgyL-YJaTC-I6IlTR5p4AaABAg) · 👍 3*
+**[@anonimous-q2w2r](https://www.youtube.com/channel/UCgxeWKiiq-PMdquq0kiVfhQ)** *[28.01.2025 17:13](https://www.youtube.com/watch?v=_v6OyPyqt9U&lc=UgyL-YJaTC-I6IlTR5p4AaABAg) · 👍 3*
 
 Никогда не слушал блогеров всяких, пытался как то Минина слушать несколько лет назад. Тогда он просто то что из документации к фреймворку можно понять за 5 минут, он размазывал на 2 или 3 видео. С тех пор нелюбовь у меня к обучающим видосам. Но Мурыча не могу перестать смотреть, слишком глубокие вещи, особенно когда потом нахожу подтверждение в спецификации то прям ощущение теперь что я вообще ничего не знаю, хотя уж 8 лет веб приложения пишу.
 

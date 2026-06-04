@@ -4,8 +4,8 @@ date: 2025-06-07
 tags: []
 videoId: "L4AW6-kDK84"
 duration: "4:14:27"
-views: 4582
-likes: 120
+views: 4602
+likes: 123
 comments: 46
 ---
 # [⎡razbor:16⎦ Разберем видео: 6 ненужных фич в JavaScript](https://www.youtube.com/watch?v=L4AW6-kDK84)
@@ -13,7 +13,7 @@ comments: 46
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 07.06.2025 02:54  
 **Тривалість:** 4:14:27  
-**Перегляди:** 4582 · **Лайки:** 120 · **Коментарі:** 46
+**Перегляди:** 4602 · **Лайки:** 123 · **Коментарі:** 46
 ![thumbnail](https://i.ytimg.com/vi/L4AW6-kDK84/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=L4AW6-kDK84)

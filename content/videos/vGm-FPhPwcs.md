@@ -4,8 +4,8 @@ date: 2024-06-20
 tags: ["yt", "3", "cleanCode"]
 videoId: "vGm-FPhPwcs"
 duration: "51:18"
-views: 5521
-likes: 271
+views: 5573
+likes: 276
 comments: 43
 ---
 # [Смотрим вместе YT: Производительность и Clean Code](https://www.youtube.com/watch?v=vGm-FPhPwcs)
@@ -13,7 +13,7 @@ comments: 43
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 20.06.2024 15:37  
 **Тривалість:** 51:18  
-**Перегляди:** 5521 · **Лайки:** 271 · **Коментарі:** 43
+**Перегляди:** 5573 · **Лайки:** 276 · **Коментарі:** 43
 ![thumbnail](https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=vGm-FPhPwcs)

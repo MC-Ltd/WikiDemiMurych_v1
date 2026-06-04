@@ -4,8 +4,8 @@ date: 2023-12-31
 tags: []
 videoId: "jJq6jxuKm28"
 duration: "6:52:21"
-views: 3224
-likes: 100
+views: 3229
+likes: 103
 comments: 4
 ---
 # [⎡talks:13-3⎦ Новый год и ФП](https://www.youtube.com/watch?v=jJq6jxuKm28)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 31.12.2023 12:14  
 **Тривалість:** 6:52:21  
-**Перегляди:** 3224 · **Лайки:** 100 · **Коментарі:** 4
+**Перегляди:** 3229 · **Лайки:** 103 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/jJq6jxuKm28/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=jJq6jxuKm28)

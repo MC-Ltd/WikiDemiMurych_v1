@@ -4,8 +4,8 @@ date: 2023-09-28
 tags: []
 videoId: "Bf6uEqrfsOU"
 duration: "2:59:06"
-views: 1480
-likes: 49
+views: 1488
+likes: 54
 comments: 5
 ---
 # [⎡sobes: 11⎦   JavaScript собеседования: Решаем задачи wtfjs.com - часть 2](https://www.youtube.com/watch?v=Bf6uEqrfsOU)
@@ -13,7 +13,7 @@ comments: 5
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.09.2023 22:25  
 **Тривалість:** 2:59:06  
-**Перегляди:** 1480 · **Лайки:** 49 · **Коментарі:** 5
+**Перегляди:** 1488 · **Лайки:** 54 · **Коментарі:** 5
 ![thumbnail](https://i.ytimg.com/vi/Bf6uEqrfsOU/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=Bf6uEqrfsOU)

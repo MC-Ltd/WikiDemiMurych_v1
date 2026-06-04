@@ -4,8 +4,8 @@ date: 2023-08-01
 tags: []
 videoId: "ZzxhnWf4HNc"
 duration: "37:55"
-views: 1692
-likes: 97
+views: 1703
+likes: 102
 comments: 4
 ---
 # [⎡msk⎦⎡sobes⎦⎡03⎦   Разбираем задачу JavaScript собеседований о приведении типов](https://www.youtube.com/watch?v=ZzxhnWf4HNc)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 01.08.2023 01:55  
 **Тривалість:** 37:55  
-**Перегляди:** 1692 · **Лайки:** 97 · **Коментарі:** 4
+**Перегляди:** 1703 · **Лайки:** 102 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/ZzxhnWf4HNc/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=ZzxhnWf4HNc)

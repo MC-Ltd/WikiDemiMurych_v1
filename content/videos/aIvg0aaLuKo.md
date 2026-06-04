@@ -4,7 +4,7 @@ date: 2025-08-06
 tags: ["dlgs", "10", "js", "spivbesid"]
 videoId: "aIvg0aaLuKo"
 duration: "3:22:30"
-views: 1886
+views: 1901
 likes: 77
 comments: 10
 ---
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 06.08.2025 16:37  
 **Тривалість:** 3:22:30  
-**Перегляди:** 1886 · **Лайки:** 77 · **Коментарі:** 10
+**Перегляди:** 1901 · **Лайки:** 77 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/aIvg0aaLuKo/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=aIvg0aaLuKo)

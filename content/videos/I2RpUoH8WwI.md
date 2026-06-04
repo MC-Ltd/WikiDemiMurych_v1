@@ -4,7 +4,7 @@ date: 2023-09-28
 tags: []
 videoId: "I2RpUoH8WwI"
 duration: "3:09:21"
-views: 1688
+views: 1699
 likes: 62
 comments: 11
 ---
@@ -13,7 +13,7 @@ comments: 11
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.09.2023 01:29  
 **Тривалість:** 3:09:21  
-**Перегляди:** 1688 · **Лайки:** 62 · **Коментарі:** 11
+**Перегляди:** 1699 · **Лайки:** 62 · **Коментарі:** 11
 ![thumbnail](https://i.ytimg.com/vi/I2RpUoH8WwI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=I2RpUoH8WwI)

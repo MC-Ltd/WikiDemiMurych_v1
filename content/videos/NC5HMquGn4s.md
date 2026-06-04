@@ -4,8 +4,8 @@ date: 2025-02-03
 tags: ["sobes", "16", "js", "headhunter", "hh"]
 videoId: "NC5HMquGn4s"
 duration: "2:19:06"
-views: 5379
-likes: 180
+views: 5488
+likes: 185
 comments: 28
 ---
 # [Проходим тест на Head Hunter](https://www.youtube.com/watch?v=NC5HMquGn4s)
@@ -13,7 +13,7 @@ comments: 28
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 03.02.2025 22:41  
 **Тривалість:** 2:19:06  
-**Перегляди:** 5379 · **Лайки:** 180 · **Коментарі:** 28
+**Перегляди:** 5488 · **Лайки:** 185 · **Коментарі:** 28
 ![thumbnail](https://i.ytimg.com/vi/NC5HMquGn4s/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=NC5HMquGn4s)

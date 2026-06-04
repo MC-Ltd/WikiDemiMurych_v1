@@ -4,8 +4,8 @@ date: 2025-10-08
 tags: ["perf", "15", "v8", "imperative", "functional", "javascript"]
 videoId: "g7bXeDJDZaA"
 duration: "5:23:23"
-views: 2435
-likes: 107
+views: 2454
+likes: 109
 comments: 3
 ---
 # [Как императивный код легко ложится на процессор](https://www.youtube.com/watch?v=g7bXeDJDZaA)
@@ -13,7 +13,7 @@ comments: 3
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.10.2025 22:09  
 **Тривалість:** 5:23:23  
-**Перегляди:** 2435 · **Лайки:** 107 · **Коментарі:** 3
+**Перегляди:** 2454 · **Лайки:** 109 · **Коментарі:** 3
 ![thumbnail](https://i.ytimg.com/vi/g7bXeDJDZaA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=g7bXeDJDZaA)

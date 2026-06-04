@@ -4,22 +4,22 @@ date: 2025-07-08
 tags: ["perf", "10", "async", "Function", "Ecma", "v8"]
 videoId: "A6zgTaxo3R4"
 duration: "44:11"
-views: 3276
-likes: 157
-comments: 27
+views: 3638
+likes: 169
+comments: 28
 ---
 # [[Stripped] Производительность  Async Function](https://www.youtube.com/watch?v=A6zgTaxo3R4)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 08.07.2025 23:41  
 **Тривалість:** 44:11  
-**Перегляди:** 3276 · **Лайки:** 157 · **Коментарі:** 27
+**Перегляди:** 3638 · **Лайки:** 169 · **Коментарі:** 28
 ![thumbnail](https://i.ytimg.com/vi/A6zgTaxo3R4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=A6zgTaxo3R4)
-## Коментарі (20 · відповідей: 7)
+## Коментарі (21 · відповідей: 7)
 
-**[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[09.07.2025 00:08](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyvNyLN3g3boQUeWCR4AaABAg) · 👍 4*
+**[@AsForJS](https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA)** *[09.07.2025 00:08](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyvNyLN3g3boQUeWCR4AaABAg) · 👍 5*
 
 Это урезанная до 40 минут версия 6 часового стрима. Полная версия со всеми вопросами и ответами тут https://youtube.com/live/VfQiG2jATgQ
 
@@ -35,7 +35,7 @@ comments: 27
 
 ---
 
-**[@alenache1](https://www.youtube.com/channel/UCJ-u6p_Urn0fbRu7MgvV_tQ)** *[09.07.2025 05:50](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyVoZ4EWj-_bng6Edl4AaABAg) · 👍 13*
+**[@alenache1](https://www.youtube.com/channel/UCJ-u6p_Urn0fbRu7MgvV_tQ)** *[09.07.2025 05:50](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyVoZ4EWj-_bng6Edl4AaABAg) · 👍 15*
 
 Шортсы от Мурыча на 40 минут 🤣🤣🤣
 
@@ -128,7 +128,7 @@ UPD. Вы дальше в видео уже объясняете про посл
 
 ---
 
-**[@mavricus](https://www.youtube.com/channel/UCs2TxbiYdbk_SVh7tApG32A)** *[14.07.2025 00:12](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyntXRMWXXgOJUgjVF4AaABAg) · 👍 1*
+**[@mavricus](https://www.youtube.com/channel/UCs2TxbiYdbk_SVh7tApG32A)** *[14.07.2025 00:12](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyntXRMWXXgOJUgjVF4AaABAg) · 👍 2*
 
 Согласен с автором, async/await действительно удобен, но под капотом это синтаксический сахар над генераторами, и его использование не бесплатно с точки зрения производительности. В high-load сценариях (например, серверный код) важно понимать, как это устроено внутри.
 
@@ -136,7 +136,7 @@ UPD. Вы дальше в видео уже объясняете про посл
 
 Поэтому этот подход допустим только при полном контроле над промисами. Во всех остальных случаях лучше считать его антипаттерном.
 
-> **[@ixplo](https://www.youtube.com/channel/UCi1w3WhkVWha0BAIBEXL-bA)** *[29.07.2025 20:52](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyntXRMWXXgOJUgjVF4AaABAg.AKXpwQz-WZHALAfj0sGEJf)*
+> **[@ixplo](https://www.youtube.com/channel/UCi1w3WhkVWha0BAIBEXL-bA)** *[29.07.2025 20:52](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgyntXRMWXXgOJUgjVF4AaABAg.AKXpwQz-WZHALAfj0sGEJf) · 👍 1*
 
 > +1 хз что автору помешало сделать await Promise.all([fetch1, fetch2])
 
@@ -194,5 +194,13 @@ https://youtu.be/76wzB8-GB98?si=n83dCd-LJKKofP27
 **[@jiunov](https://www.youtube.com/channel/UCHNliZIxswncH3-HO0w5BHw)** *[26.02.2026 01:01](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=UgzRQ0Nm4SmSK1I9swt4AaABAg)*
 
 Без использования Firefox ничего не стоит, похуй на ваш V9, и ты старый успокойся, rust или zig  поучи, один язык не стоит жизни, технологии меняются, разное там пробуй... Js имеет историю и оброс хуйней всякой из-за этого, вывод, убоать лишнее, придумать простой новый язвк для скриптинга. Вы бля старики заебали хвалить свои могилы и в них разбираться, вы в лингвистику посмотрите. Языки нужны чтобы просто передавать хуйню между "оюъектами", если сложный нахуй нужен. JS охуенный язык всё равно, но нужно подумать орациональности и будущем, чё мы дальше будем растить кодовую базу движка которая один хуй на си пишется или чё делать?
+
+---
+
+**[@advance5189](https://www.youtube.com/channel/UCikjXPtUzv58EGw2wStgnsQ)** *[14.05.2026 14:42](https://www.youtube.com/watch?v=A6zgTaxo3R4&lc=Ugw3rJkZwboFOUC4OqV4AaABAg) (ред. 14.05.2026 15:43)*
+
+Разве async/await - это синтаксический сахар над генераторами? Может я не туда смотрю, но согласно той же спецификации async/await и генераторы - это две независимые друг от друга конструкции, хоть и используют похожий механизм приостановки текущего execution context и его подальшее возобновление (27.7.5.1 AsyncFunctionStart, 27.7.5.3 Await, 27.5.3.1 GeneratorStart). Раньше, до появления встроенной поддержки async/await браузерами, действительно такие транспайлеры как Babel транспилировали async/await через генераторы. Но сейчас они никак не связаны между собой, хоть и концептуально похожи.
+
+UPD: Все зависит от реализации async/await движком. Например, как показано в видео на 13:06, V8 похоже переиспользует байт-код генераторов.
 
 ---

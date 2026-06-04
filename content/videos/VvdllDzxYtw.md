@@ -4,8 +4,8 @@ date: 2023-06-05
 tags: []
 videoId: "VvdllDzxYtw"
 duration: "1:25:06"
-views: 3616
-likes: 200
+views: 3633
+likes: 202
 comments: 18
 ---
 # [⎡msk⎦ Обзор на видео: "Новый JavaScript!"](https://www.youtube.com/watch?v=VvdllDzxYtw)
@@ -13,7 +13,7 @@ comments: 18
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 05.06.2023 09:41  
 **Тривалість:** 1:25:06  
-**Перегляди:** 3616 · **Лайки:** 200 · **Коментарі:** 18
+**Перегляди:** 3633 · **Лайки:** 202 · **Коментарі:** 18
 ![thumbnail](https://i.ytimg.com/vi/VvdllDzxYtw/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=VvdllDzxYtw)

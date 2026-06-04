@@ -4,8 +4,8 @@ date: 2025-11-12
 tags: ["review", "00", "js", "arrayFrom", "for"]
 videoId: "z6m6FT-Tj90"
 duration: "5:47:07"
-views: 3046
-likes: 102
+views: 3155
+likes: 107
 comments: 4
 ---
 # [Code Review: Array.from и два вложенных for](https://www.youtube.com/watch?v=z6m6FT-Tj90)
@@ -13,7 +13,7 @@ comments: 4
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 12.11.2025 23:07  
 **Тривалість:** 5:47:07  
-**Перегляди:** 3046 · **Лайки:** 102 · **Коментарі:** 4
+**Перегляди:** 3155 · **Лайки:** 107 · **Коментарі:** 4
 ![thumbnail](https://i.ytimg.com/vi/z6m6FT-Tj90/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=z6m6FT-Tj90)

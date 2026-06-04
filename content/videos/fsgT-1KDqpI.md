@@ -4,8 +4,8 @@ date: 2024-07-28
 tags: ["perf", "6", "v8", "lazy", "parser", "compilation", "yandex"]
 videoId: "fsgT-1KDqpI"
 duration: "2:46:04"
-views: 6462
-likes: 263
+views: 6505
+likes: 266
 comments: 10
 ---
 # [Производительность JS:  V8 lazy Compilation или как Яндекс ногтей набросал.](https://www.youtube.com/watch?v=fsgT-1KDqpI)
@@ -13,7 +13,7 @@ comments: 10
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.07.2024 13:54  
 **Тривалість:** 2:46:04  
-**Перегляди:** 6462 · **Лайки:** 263 · **Коментарі:** 10
+**Перегляди:** 6505 · **Лайки:** 266 · **Коментарі:** 10
 ![thumbnail](https://i.ytimg.com/vi/fsgT-1KDqpI/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=fsgT-1KDqpI)

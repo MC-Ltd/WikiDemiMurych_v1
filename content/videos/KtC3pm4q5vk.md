@@ -4,8 +4,8 @@ date: 2021-10-09
 tags: []
 videoId: "KtC3pm4q5vk"
 duration: "0:32"
-views: 16924
-likes: 421
+views: 16946
+likes: 425
 comments: 59
 ---
 # [Почему все неправильно используют var, let и const и при этом учат других поступать так же.](https://www.youtube.com/watch?v=KtC3pm4q5vk)
@@ -13,7 +13,7 @@ comments: 59
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.10.2021 22:45  
 **Тривалість:** 0:32  
-**Перегляди:** 16924 · **Лайки:** 421 · **Коментарі:** 59
+**Перегляди:** 16946 · **Лайки:** 425 · **Коментарі:** 59
 ![thumbnail](https://i.ytimg.com/vi/KtC3pm4q5vk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=KtC3pm4q5vk)
@@ -198,7 +198,7 @@ Whaaaay*?
 
 ---
 
-**[@gtaplayer379](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[17.01.2024 09:16](https://www.youtube.com/watch?v=KtC3pm4q5vk&lc=Ugx0uwm8w1Y1zbKvJVd4AaABAg) · 👍 7*
+**[@namenick123](https://www.youtube.com/channel/UCyaZ0ncBqNSIzVIic5DwCEQ)** *[17.01.2024 09:16](https://www.youtube.com/watch?v=KtC3pm4q5vk&lc=Ugx0uwm8w1Y1zbKvJVd4AaABAg) · 👍 7*
 
 Скорее всего, чтобы не мьютить маты, Мурыч решил промолчать
 
@@ -336,7 +336,7 @@ Whaaaay*?
 
 ---
 
-**[@ЭрвинЮсеф](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[05.02.2025 21:09](https://www.youtube.com/watch?v=KtC3pm4q5vk&lc=Ugz0GkElQAM02M-2dqF4AaABAg) · 👍 2*
+**[@МенеджерПоставок](https://www.youtube.com/channel/UCEj_ofkaRnIYyT-HCDMb_-A)** *[05.02.2025 21:09](https://www.youtube.com/watch?v=KtC3pm4q5vk&lc=Ugz0GkElQAM02M-2dqF4AaABAg) · 👍 2*
 
 Мурыч просто ждал когда разрабы фейсбука и v8 сами это скажут, а видео должно было автозагрузкой на 3 года позже загрузиться
 

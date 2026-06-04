@@ -4,8 +4,8 @@ date: 2021-11-17
 tags: []
 videoId: "IivYJj4w9wA"
 duration: "29:04"
-views: 1840
-likes: 145
+views: 1852
+likes: 150
 comments: 22
 ---
 # [Разбираемся с Мурой: JavaScript толчек, эпизод 5, Ignition vs TuroFan](https://www.youtube.com/watch?v=IivYJj4w9wA)
@@ -13,7 +13,7 @@ comments: 22
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 17.11.2021 17:15  
 **Тривалість:** 29:04  
-**Перегляди:** 1840 · **Лайки:** 145 · **Коментарі:** 22
+**Перегляди:** 1852 · **Лайки:** 150 · **Коментарі:** 22
 ![thumbnail](https://i.ytimg.com/vi/IivYJj4w9wA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=IivYJj4w9wA)

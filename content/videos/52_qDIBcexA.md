@@ -4,8 +4,8 @@ date: 2024-11-09
 tags: ["yt", "09", "js", "sobes", "front"]
 videoId: "52_qDIBcexA"
 duration: "4:34:34"
-views: 13340
-likes: 478
+views: 13462
+likes: 479
 comments: 64
 ---
 # [Смотрим вместе YT:  16 САМЫХ ПОПУЛЯРНЫХ вопросов по JavaScript на собеседованиях](https://www.youtube.com/watch?v=52_qDIBcexA)
@@ -13,7 +13,7 @@ comments: 64
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 09.11.2024 18:01  
 **Тривалість:** 4:34:34  
-**Перегляди:** 13340 · **Лайки:** 478 · **Коментарі:** 64
+**Перегляди:** 13462 · **Лайки:** 479 · **Коментарі:** 64
 ![thumbnail](https://i.ytimg.com/vi/52_qDIBcexA/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=52_qDIBcexA)
@@ -125,7 +125,7 @@ comments: 64
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[10.11.2024 10:33](https://www.youtube.com/watch?v=52_qDIBcexA&lc=UgxsMonfCwW980qbH_J4AaABAg)*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[10.11.2024 10:33](https://www.youtube.com/watch?v=52_qDIBcexA&lc=UgxsMonfCwW980qbH_J4AaABAg)*
 
 Если вас спрашивают на собесе что такое javascript, проверьте заполнена ли графа в резюме про опыт работы))
 
@@ -249,7 +249,7 @@ JS на самом деле все много проще можно объясн
 
 ---
 
-**[@dmitrytrofimtv](https://www.youtube.com/channel/UCaOQpTNGw2lAMZNSVZ2z-lA)** *[13.11.2024 06:24](https://www.youtube.com/watch?v=52_qDIBcexA&lc=Ugxs-T-EPH1qCANtUQ94AaABAg)*
+**[@direbombit](https://www.youtube.com/channel/UCaOQpTNGw2lAMZNSVZ2z-lA)** *[13.11.2024 06:24](https://www.youtube.com/watch?v=52_qDIBcexA&lc=Ugxs-T-EPH1qCANtUQ94AaABAg)*
 
 Лайк поставил, коммент написал. Спасибо за видео, оч полезно!
 

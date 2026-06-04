@@ -4,8 +4,8 @@ date: 2025-01-26
 tags: []
 videoId: "OjAWVXB6_F0"
 duration: "3:20:50"
-views: 6591
-likes: 197
+views: 6632
+likes: 199
 comments: 54
 ---
 # [⎡razbor:14⎦ Разбор кода: одного эффективного фреймворка](https://www.youtube.com/watch?v=OjAWVXB6_F0)
@@ -13,7 +13,7 @@ comments: 54
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 26.01.2025 02:46  
 **Тривалість:** 3:20:50  
-**Перегляди:** 6591 · **Лайки:** 197 · **Коментарі:** 54
+**Перегляди:** 6632 · **Лайки:** 199 · **Коментарі:** 54
 ![thumbnail](https://i.ytimg.com/vi/OjAWVXB6_F0/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=OjAWVXB6_F0)
@@ -107,7 +107,7 @@ comments: 54
 
 ---
 
-**[@kirylbehansky1315](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[26.01.2025 11:54](https://www.youtube.com/watch?v=OjAWVXB6_F0&lc=UgxUzBvquFQrqFwgUx54AaABAg) · 👍 1*
+**[@kirylbehan](https://www.youtube.com/channel/UClWIiMqOOzIalPuKfento1g)** *[26.01.2025 11:54](https://www.youtube.com/watch?v=OjAWVXB6_F0&lc=UgxUzBvquFQrqFwgUx54AaABAg) · 👍 1*
 
 название фреймворка(lom.js) убило в хорошем смысле)
 

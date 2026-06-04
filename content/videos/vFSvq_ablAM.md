@@ -4,16 +4,16 @@ date: 2024-06-20
 tags: ["yt", "4", "async", "bizykin"]
 videoId: "vFSvq_ablAM"
 duration: "3:33:19"
-views: 12258
-likes: 411
-comments: 55
+views: 12399
+likes: 420
+comments: 56
 ---
 # [Смотрим вместе YT: Григорий Бизюкин - Асинхронность ШРИ 2024](https://www.youtube.com/watch?v=vFSvq_ablAM)
 
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 20.06.2024 08:11  
 **Тривалість:** 3:33:19  
-**Перегляди:** 12258 · **Лайки:** 411 · **Коментарі:** 55
+**Перегляди:** 12399 · **Лайки:** 420 · **Коментарі:** 56
 ![thumbnail](https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=vFSvq_ablAM)
@@ -50,7 +50,7 @@ comments: 55
 - [03:20:30](https://www.youtube.com/watch?v=vFSvq_ablAM&t=12030)   Thenable object
 - [03:22:25](https://www.youtube.com/watch?v=vFSvq_ablAM&t=12145)   Promise.resolve
 - [03:32:47](https://www.youtube.com/watch?v=vFSvq_ablAM&t=12767)   Promise.reject
-## Коментарі (43 · відповідей: 12)
+## Коментарі (43 · відповідей: 13)
 
 **[@alexandrtortik](https://www.youtube.com/channel/UCQzLWybqAUvUkiGqE2IK0TA)** *[20.06.2024 08:05](https://www.youtube.com/watch?v=vFSvq_ablAM&lc=UgyT3FsYDO9p4fqHRHJ4AaABAg) · 👍 8*
 
@@ -335,6 +335,10 @@ great video
 > **[@grenadier4702](https://www.youtube.com/channel/UCuF7q_-qmqAhGVnMtY7p1Lg)** *[24.01.2026 07:58](https://www.youtube.com/watch?v=vFSvq_ablAM&lc=UgwAS4Xsf7r_5JfZVGJ4AaABAg.A58NC8TQpOAASMCV7MuBtb)*
 
 > @Watozarato асинхронные функции это вроде сахар над промисами
+
+> **[@Watozarato](https://www.youtube.com/channel/UC0f-TKFbfRF_PaYbA95TkBA)** *[01.06.2026 22:16](https://www.youtube.com/watch?v=vFSvq_ablAM&lc=UgwAS4Xsf7r_5JfZVGJ4AaABAg.A58NC8TQpOAAXXKSC1RoR-)*
+
+> ​@grenadier4702 над генераторами
 
 ---
 

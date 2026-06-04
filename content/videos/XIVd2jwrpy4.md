@@ -4,8 +4,8 @@ date: 2023-01-15
 tags: []
 videoId: "XIVd2jwrpy4"
 duration: "1:14:08"
-views: 1921
-likes: 100
+views: 1932
+likes: 102
 comments: 22
 ---
 # [Огляд співбесіду з JS.](https://www.youtube.com/watch?v=XIVd2jwrpy4)
@@ -13,7 +13,7 @@ comments: 22
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 15.01.2023 19:15  
 **Тривалість:** 1:14:08  
-**Перегляди:** 1921 · **Лайки:** 100 · **Коментарі:** 22
+**Перегляди:** 1932 · **Лайки:** 102 · **Коментарі:** 22
 ![thumbnail](https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=XIVd2jwrpy4)

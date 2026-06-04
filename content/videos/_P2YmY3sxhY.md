@@ -4,8 +4,8 @@ date: 2023-08-27
 tags: []
 videoId: "_P2YmY3sxhY"
 duration: "2:32:45"
-views: 13088
-likes: 543
+views: 13197
+likes: 553
 comments: 42
 ---
 # [⎡msk⎦⎡sobes: 07⎦   JavaScript собеседования: Event Loop и вся правда о нем](https://www.youtube.com/watch?v=_P2YmY3sxhY)
@@ -13,7 +13,7 @@ comments: 42
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 27.08.2023 23:39  
 **Тривалість:** 2:32:45  
-**Перегляди:** 13088 · **Лайки:** 543 · **Коментарі:** 42
+**Перегляди:** 13197 · **Лайки:** 553 · **Коментарі:** 42
 ![thumbnail](https://i.ytimg.com/vi/_P2YmY3sxhY/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=_P2YmY3sxhY)
@@ -152,7 +152,7 @@ Event Loop - интересная тема
 
 ---
 
-**[@СергейБит](https://www.youtube.com/channel/UCuYrIwO1yNDjKjX5omk9DAw)** *[26.11.2023 12:29](https://www.youtube.com/watch?v=_P2YmY3sxhY&lc=Ugy6xpBa42jAOVWklr94AaABAg)*
+**[@мойсонс](https://www.youtube.com/channel/UCuYrIwO1yNDjKjX5omk9DAw)** *[26.11.2023 12:29](https://www.youtube.com/watch?v=_P2YmY3sxhY&lc=Ugy6xpBa42jAOVWklr94AaABAg)*
 
 43:14 теперь ближе к пониманию почему сейчас браузеры такие прожорливые
 

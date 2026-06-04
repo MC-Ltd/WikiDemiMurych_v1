@@ -4,8 +4,8 @@ date: 2023-09-27
 tags: []
 videoId: "bxSpi3AEshk"
 duration: "4:38:35"
-views: 4602
-likes: 136
+views: 4815
+likes: 140
 comments: 17
 ---
 # [⎡JSbook: 03.02⎦   JavaScript: От мифов к спецификации. Магия или ее разоблачение?](https://www.youtube.com/watch?v=bxSpi3AEshk)
@@ -13,7 +13,7 @@ comments: 17
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 27.09.2023 23:51  
 **Тривалість:** 4:38:35  
-**Перегляди:** 4602 · **Лайки:** 136 · **Коментарі:** 17
+**Перегляди:** 4815 · **Лайки:** 140 · **Коментарі:** 17
 ![thumbnail](https://i.ytimg.com/vi/bxSpi3AEshk/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=bxSpi3AEshk)
@@ -214,7 +214,7 @@ The Sun Rock​: Ну да, не от слова "рубить", хотя и п�
 
 ---
 
-**[@ДениИмагожев11](https://www.youtube.com/channel/UC8eC0FbIDsaesXdgRw_mvEQ)** *[09.01.2024 06:54](https://www.youtube.com/watch?v=bxSpi3AEshk&lc=UgynfWlgpW_u1vECH9x4AaABAg) · 👍 4*
+**[@Донитос11](https://www.youtube.com/channel/UC8eC0FbIDsaesXdgRw_mvEQ)** *[09.01.2024 06:54](https://www.youtube.com/watch?v=bxSpi3AEshk&lc=UgynfWlgpW_u1vECH9x4AaABAg) · 👍 4*
 
 Умел бы ты компактно формулировать свою мысль, цены бы не было)
 

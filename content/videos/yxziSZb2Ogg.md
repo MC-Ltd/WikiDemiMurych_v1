@@ -4,8 +4,8 @@ date: 2023-05-28
 tags: []
 videoId: "yxziSZb2Ogg"
 duration: "12:29"
-views: 1542
-likes: 110
+views: 1562
+likes: 114
 comments: 11
 ---
 # [⎡msk⎦ JavaScript Array и значения по умолчанию](https://www.youtube.com/watch?v=yxziSZb2Ogg)
@@ -13,7 +13,7 @@ comments: 11
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 28.05.2023 01:58  
 **Тривалість:** 12:29  
-**Перегляди:** 1542 · **Лайки:** 110 · **Коментарі:** 11
+**Перегляди:** 1562 · **Лайки:** 114 · **Коментарі:** 11
 ![thumbnail](https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=yxziSZb2Ogg)

@@ -4,8 +4,8 @@ date: 2025-02-13
 tags: ["tthmjs", "2", "magickWord"]
 videoId: "BAEqGUm_wxs"
 duration: "5:32"
-views: 819
-likes: 33
+views: 842
+likes: 40
 comments: 2
 ---
 # [Try to hack My JavaScript: Secret Key](https://www.youtube.com/watch?v=BAEqGUm_wxs)
@@ -13,7 +13,7 @@ comments: 2
 **Канал:** [As For JS](https://www.youtube.com/@asforjs)  
 **Дата:** 13.02.2025 09:06  
 **Тривалість:** 5:32  
-**Перегляди:** 819 · **Лайки:** 33 · **Коментарі:** 2
+**Перегляди:** 842 · **Лайки:** 40 · **Коментарі:** 2
 ![thumbnail](https://i.ytimg.com/vi/BAEqGUm_wxs/hqdefault.jpg)
 
 ▶ [Дивитись на YouTube](https://www.youtube.com/watch?v=BAEqGUm_wxs)

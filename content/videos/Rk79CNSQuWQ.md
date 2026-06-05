@@ -1,7 +1,7 @@
 ---
 title: "⎡JSbook: 01.2⎦   JavaScript: От мифов к спецификации. Введение: для кого эта книга"
 date: 2023-08-23
-tags: []
+tags: ["JSbook"]
 videoId: "Rk79CNSQuWQ"
 duration: "1:59:56"
 views: 4221

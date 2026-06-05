@@ -1,7 +1,7 @@
 ---
 title: "⎡JSbook: 03.02⎦   JavaScript: От мифов к спецификации. Магия или ее разоблачение?"
 date: 2023-09-27
-tags: []
+tags: ["JSbook"]
 videoId: "bxSpi3AEshk"
 duration: "4:38:35"
 views: 4815

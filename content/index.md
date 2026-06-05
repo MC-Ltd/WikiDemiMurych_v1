@@ -2,7 +2,7 @@
 
 title: Wiki DemiMurych v1
 
-tags: \[]
+# tags: \[]
 
 ---
 
@@ -22,8 +22,11 @@ tags: \[]
 
 \- \[\[videos|YouTube відео та таймкоди]]
 
-\- \[\[telegram|Telegram пости (можливо буде у майбутньому)]]
+\- \[\[telegram|Telegram пости з чату AsForJs Talks]]
 
+\- \[\[tags|Tags]]
+
+<!-- Дякую [John Gult](https://t.me/alilgroup) за пости з телеграму з цього [репо](https://github.com/alilgroup/the-demi-murych-messages) -->
 
 
 
@@ -33,9 +36,9 @@ tags: \[]
 
 [Telegram Demi Murych](https://t.me/demimurych)
 
-[murych.com](https:murych.com)
+[murych.com](https://murych.com)
 
-[YouTube Tech SEO](https:youtube.com/channel/UC6JuTkoLLN1W4QqsproNClQ)
+[▶️ YouTube Tech SEO](https://youtube.com/channel/UC6JuTkoLLN1W4QqsproNClQ)
 
 [Telegram AsForJS News](https://t.me/AsForJavaScript)
 
@@ -53,7 +56,7 @@ TON: UQAGXvuhxg3qU0eFgOxtdDlKXqdp1zPq6yCRSRbRYQClxOzH
 
 bitcoin:bc1q74aru82v4d3alay7p53jdwkmxe4a5gz7fmvfm2?message=AsForJS&time=1686349743
 
-PayPal: demimurych@protonmail.com
+PayPal: `demimurych@protonmail.com`
 
 Patreon: [patreon.com/demimurych](https://www.patreon.com/demimurych)
 

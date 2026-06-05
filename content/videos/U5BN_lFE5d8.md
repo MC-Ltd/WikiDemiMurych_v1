@@ -1,7 +1,7 @@
 ---
 title: "⎡JSbook: 03.01⎦   JavaScript: От мифов к спецификации. Почему я Д’Артаньян а все вокруг ..."
 date: 2023-09-21
-tags: []
+tags: ["JSbook"]
 videoId: "U5BN_lFE5d8"
 duration: "5:54:32"
 views: 9105

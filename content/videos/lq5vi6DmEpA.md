@@ -1,7 +1,7 @@
 ---
 title: "⎡JSbook: 02.03⎦   JavaScript: От мифов к спецификации. Выражения"
 date: 2023-09-07
-tags: []
+tags: ["JSbook"]
 videoId: "lq5vi6DmEpA"
 duration: "3:47:10"
 views: 8491

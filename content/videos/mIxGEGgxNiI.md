@@ -1,7 +1,7 @@
 ---
 title: "⎡msk⎦ Разбираем видео:  \"Асинхронность в JS - Григорий Бизюкин\""
 date: 2023-08-01
-tags: []
+tags: ["CallBackHell"]
 videoId: "mIxGEGgxNiI"
 duration: "3:36:06"
 views: 11516
@@ -74,6 +74,7 @@ https://www.youtube.com/live/mIxGEGgxNiI?feature=share&t=3120
 То на что вы указываете - цифра 5 - и строка в спецификации - это про nesting timers.
 
 Это поведение демонстрирует вот этот пример
+```javascript
 console.time('1_timeout')
 
 setTimeout(() => {
@@ -118,7 +119,7 @@ before_3_timeout: 0.037841796875 ms
 before_4_timeout: 0.031005859375 ms
 before_5_timeout: 4.588134765625 ms
 before_6_timeout: 4.5888671875 ms
-
+```
 Судя по спецификации, нет никаких минимальных 4х миллисекунд задержки для таймеров.
 Есть 4ms задержки для вложенных таймеров.
 
@@ -420,6 +421,7 @@ https://www.youtube.com/live/mIxGEGgxNiI?feature=share&t=11337
 
 Для тех, кому нужен код, избавляющий от каллбэк хелл: (код немного модифицирован под TS)
 
+```typescript
 var _typeThing = (
     (theThing: any) => (
         (doThen: any) => (doThen(theThing))
@@ -478,6 +480,7 @@ var _theProductOneReq = _doProduct(_theListOfZeroCategory)
 var _theProductOne = _doTitle(_doRequest(_theProductOneReq))
 
 _doLog(_theProductOne)()
+```
 
 ---
 

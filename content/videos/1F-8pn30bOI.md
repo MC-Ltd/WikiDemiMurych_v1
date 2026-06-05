@@ -1,7 +1,7 @@
 ---
 title: "⎡JSbook: 02.0⎦   JavaScript: От мифов к спецификации. Три JS кита."
 date: 2023-08-25
-tags: []
+tags: ["JSbook"]
 videoId: "1F-8pn30bOI"
 duration: "56:11"
 views: 5392

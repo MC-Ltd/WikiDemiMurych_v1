@@ -1,7 +1,7 @@
 ---
 title: "⎡JSbook: 04.00⎦   JavaScript: От мифов к спецификации. Как выполняется JS код."
 date: 2023-09-30
-tags: []
+tags: ["JSbook"]
 videoId: "1hkPcXEE7to"
 duration: "5:45:16"
 views: 19238

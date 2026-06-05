@@ -1,7 +1,7 @@
 ---
 title: "⎡JSbook: 02.2⎦   JavaScript: От мифов к спецификации. Структурирование информации"
 date: 2023-08-28
-tags: []
+tags: ["JSbook"]
 videoId: "-FmCm-Wjdok"
 duration: "2:55:45"
 views: 8749
